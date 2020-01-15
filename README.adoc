@@ -1,0 +1,35 @@
+= HK OGCIO S17 in Metanorma
+
+// image:https://github.com/metanorma/ogc-tcpnp/workflows/ubuntu/badge.svg["Build Status (Ubuntu)", link="https://github.com/metanorma/ogc-tcpnp/actions?workflow=ubuntu"]
+//
+// This document is available in its rendered forms here:
+//
+// * https://metanorma.github.io/ogc-tcpnp/[OGC Policy: Technical Committee Policies and Procedures (HTML)]
+
+== Purpose
+
+Provides the OGCIO S17 document in machine-readable and machine-citable form
+using Metanorma.
+
+
+== Copyright notice
+
+COPYRIGHT NOTICE
+
+© 2016 by the Government of the Hong Kong Special Administrative Region
+Unless otherwise indicated, the copyright in the works contained in this publication is owned by the Government of the Hong Kong Special Administrative Region. You may generally copy and distribute these materials in any format or medium provided the following conditions are met –
+
+(a) the particular item has not been specifically indicated to be excluded and is therefore not to be copied or distributed;
+
+(b) the copying is not done for the purpose of creating copies for sale;
+
+(c) the materials must be reproduced accurately and must not be used in a misleading context; and
+
+(d) the copies shall be accompanied by the words “copied/distributed with the permission of the Government of the Hong Kong Special Administrative Region. All rights reserved.”
+
+If you wish to make copies for purposes other than that permitted above, you should seek permission by contacting the Office of the Government Chief Information Officer.
+
+== Source
+
+https://www.ogcio.gov.hk/en/our_work/information_cyber_security/government/doc/S17.pdf
+
