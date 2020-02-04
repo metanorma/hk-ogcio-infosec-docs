@@ -1,5 +1,5 @@
 = Baseline IT Security Policy
-:title: Baseline IT Security Policy [S17]
+:title: Baseline IT Security Policy
 :edition: 6.0
 :docnumber: S17
 :published-date: 2016-12
@@ -8,7 +8,6 @@
 :script: Latn
 :doctype:
 :status: published
-:toc:
 :imagesdir: images-s17
 :docfile: ogcio-s17.adoc
 :mn-document-class: ogc

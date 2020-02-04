@@ -1,5 +1,5 @@
 = IT Security Guidelines
-:title: IT Security Guidelines [G3]
+:title: IT Security Guidelines
 :edition: 8.0
 :docnumber: G3
 :published-date: 2016-12
@@ -23,7 +23,7 @@ NOTE: The contents of this document remain the property of and may not be reprod
 
 == COPYRIGHT NOTICE
 
-© 2016 by the Government of the Hong Kong Special Administrative Region
+(C) 2016 by the Government of the Hong Kong Special Administrative Region
 Unless otherwise indicated, the copyright in the works contained in this publication is owned by the Government of the Hong Kong Special Administrative Region. You may generally copy and distribute these materials in any format or medium provided the following conditions are met –
 
 . the particular item has not been specifically indicated to be excluded and is therefore not to be copied or distributed;
