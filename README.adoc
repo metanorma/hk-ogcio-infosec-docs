@@ -17,7 +17,7 @@ and machine-citable form using Metanorma.
 
 COPYRIGHT NOTICE
 
-© 2016 by the Government of the Hong Kong Special Administrative Region
+(C) 2016 by the Government of the Hong Kong Special Administrative Region
 Unless otherwise indicated, the copyright in the works contained in this publication is owned by the Government of the Hong Kong Special Administrative Region. You may generally copy and distribute these materials in any format or medium provided the following conditions are met –
 
 (a) the particular item has not been specifically indicated to be excluded and is therefore not to be copied or distributed;
