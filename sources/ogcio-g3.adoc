@@ -6,6 +6,7 @@
 :copyright-year: 2016
 :doctype:
 :language: en
+:script: Latn
 :status: published
 :keywords:
 :submitting-organizations:
