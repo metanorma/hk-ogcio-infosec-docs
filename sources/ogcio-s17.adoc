@@ -1,4 +1,4 @@
-= Baseline IT Security Policy 
+= Baseline IT Security Policy
 :title: Baseline IT Security Policy [S17]
 :edition: 6.0
 :docnumber: s17
@@ -6,10 +6,10 @@
 :copyright-year: 2016
 :language: en
 :script: Latn
-:doctype: 
+:doctype:
 :status: published
 :toc:
-:imagesdir: images
+:imagesdir: images-s17
 :docfile: ogcio-s17.adoc
 :mn-document-class: ogc
 :mn-output-extensions: xml,html,doc,pdf,rxl
@@ -102,7 +102,7 @@ The Government has promulgated a set of security regulations and government IT s
 The following diagram describes the relationship of various IT security documents within the Government:
 
 [%unnumbered]
-image::s17-img1.png[]
+image::image-01.png[]
 
 [[security-regulations]]
 ==== Security Regulations
@@ -188,7 +188,7 @@ To coordinate and promote IT security in the Government, an Information Security
 
 [%unnumbered]
 .Government Information Security Management Framework
-image::s17-img2.png[]
+image::image-02.png[]
 
 The roles and responsibilities of each party are explained in details in the following sections.
 
@@ -260,7 +260,7 @@ The following diagram describes a sample departmental IT security management fra
 
 .An Example Organisation Chart for Departmental IT Security Management footnote:[The actual IT Security Management structure may vary according to the circumstances of each organisation.]
 [%unnumbered]
-image::s17-img3.png[]
+image::image-03.png[]
 
 
 ==== Senior Management
@@ -632,9 +632,9 @@ B/Ds shall avoid breaches of legal, statutory, regulatory or contractual obligat
 
 
 == CONTACT
-This document is produced and maintained by the Office of the Government Chief Information Officer (OGCIO). For comments or suggestions, please send to: 
+This document is produced and maintained by the Office of the Government Chief Information Officer (OGCIO). For comments or suggestions, please send to:
 
-Email: it_security@ogcio.gov.hk 
+Email: it_security@ogcio.gov.hk
 
 Lotus Notes mail: IT Security Team/OGCIO/HKSARG@OGCIO
 

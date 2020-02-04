@@ -1,18 +1,20 @@
-= IT Security Guidelines 
+= IT Security Guidelines
 :title: IT Security Guidelines [G3]
 :edition: 8.0
 :docnumber: G3
+:published-date: 2016-12
 :copyright-year: 2016
-:doctype: 
+:doctype:
 :language: en
 :status: published
-:keywords: 
-:submitting-organizations: 
-:docfile: G3.adoc
+:keywords:
+:submitting-organizations:
+:docfile: ogcio-g3.adoc
 :mn-document-class: ogc
 :mn-output-extensions: xml,html,doc,pdf,rxl
 :local-cache-only:
 :data-uri-image:
+:imagesdir: images-g3
 
 
 NOTE: The contents of this document remain the property of and may not be reproduced in whole or in part without the express permission of the Office of the Government Chief Information Officer
@@ -35,7 +37,7 @@ If you wish to make copies for purposes other than that permitted above, you sho
 
 
 [%unnumbered]
-|=== 
+|===
 5+^.^h| Amendment History
 ^.^| Change Number ^.^| Revision Description ^.^| Pages Affected ^.^| Revision Number ^.^| Date
 ^.^| 1 | The Revision Report is available at the government intranet portal ITG InfoStation | ^.^| 4.0 ^.^| April 2003
@@ -44,7 +46,7 @@ If you wish to make copies for purposes other than that permitted above, you sho
 - section 10.1.1 “Security Considerations in Application Design and Development” and section 10.7. “WEB APPLICATION SECURITY” for application security +
 - section 10.4. “PROGRAM/SYSTEM TESTING” and section 11.3. “EMAIL SECURITY” for proper/restrictive disclosure of information +
 - section 11.2. “INTERNET SECURITY” for proper restriction of network traffic/ports and system services +
-Change “HKCERT/CC” to “HKCERT” as the revised acronym for Hong Kong Computer Emergency Response Team Coordination Centre ^.^| 10-2, + 
+Change “HKCERT/CC” to “HKCERT” as the revised acronym for Hong Kong Computer Emergency Response Team Coordination Centre ^.^| 10-2, +
 10-3 +
 10-7 +
 10-5 +
@@ -116,7 +118,7 @@ the chart in the following page.
 
 [[fig1]]
 .Security Considerations Related to Different Phases of System Development Life Cycle
-image::images/001.png[width=auto,height=auto]
+image::image-01.png[width=auto,height=auto]
 
 === Target Audience
 
@@ -134,7 +136,7 @@ The following diagram describes the relationship of various IT security document
 
 [[fig2]]
 [%unnumbered]
-image::images/002.png[width=auto,height=auto]
+image::image-02.png[width=auto,height=auto]
 
 [[security_regulations]]
 ==== Security Regulations
@@ -206,9 +208,9 @@ Removable Media:: Portable electronic storage media such as magnetic, optical, a
 
 The following is a list of conventions used in this document
 
-Shall:: The use of the word ‘shall’ indicates a mandatory requirement. 
+Shall:: The use of the word ‘shall’ indicates a mandatory requirement.
 
-Should:: The use of the word ‘should’ indicates a best practice, which should be implemented whenever possible. 
+Should:: The use of the word ‘should’ indicates a best practice, which should be implemented whenever possible.
 
 May:: The use of the word ‘may’ indicates a desirable best practice.
 
@@ -230,7 +232,7 @@ Management Framework comprising the following four parties has been established:
 
 [[fog3]]
 .Government Information Security Management Framework
-image::images/003.png[width=auto,height=auto]
+image::image-03.png[width=auto,height=auto]
 
 The roles and responsibilities of each party are explained in details in the following sections.
 
@@ -239,9 +241,9 @@ The roles and responsibilities of each party are explained in details in the fol
 A central organisation, the Information Security Management Committee (ISMC), was established in April 2000 to oversee IT security within the whole government. The committee meets on a regular basis to:
 
 * Review and endorse changes to the Government IT security regulations, policies
-and guidelines. 
+and guidelines.
 
-* Define specific roles and responsibilities relating to IT security. 
+* Define specific roles and responsibilities relating to IT security.
 
 * Provide guidance and assistance to B/Ds in the enforcement of IT security
 regulations, policies, and guidelines through the IT Security Working Group (ITSWG).
@@ -258,11 +260,11 @@ Representative(s) from other B/Ds will be co-opted into the committee on a need 
 
 The IT Security Working Group (ITSWG) serves as the executive arm of the ISMC in the promulgation and compliance monitoring of government IT security regulations, policies and guidelines. The ITSWG was established in May 2000 and its responsibilities are to:
 
-* Co-ordinate activities aimed at providing guidance and assistance to B/Ds in the enforcement of IT security regulations, policies and guidelines. 
+* Co-ordinate activities aimed at providing guidance and assistance to B/Ds in the enforcement of IT security regulations, policies and guidelines.
 
-* Monitor the compliance with the Baseline IT Security Policy at B/Ds. 
+* Monitor the compliance with the Baseline IT Security Policy at B/Ds.
 
-* Define and review the IT security regulations, policies and guidelines. 
+* Define and review the IT security regulations, policies and guidelines.
 
 * Promote IT security awareness within the Government.
 
@@ -291,11 +293,11 @@ The Government Computer Emergency Response Team Hong Kong (GovCERT.HK) was estab
 The GIRO has the following major functions:
 
 * Maintain a central inventory and oversee the handling of all information security
-incidents in the Government. 
+incidents in the Government.
 
-* Prepare periodic statistics reports on government information security incidents. 
+* Prepare periodic statistics reports on government information security incidents.
 
-* Act as a central office to coordinate the handling of multiple-point security attacks (i.e. simultaneous attacks on different government information systems). 
+* Act as a central office to coordinate the handling of multiple-point security attacks (i.e. simultaneous attacks on different government information systems).
 
 * Enable experience sharing and information exchange related to information security incident handling among ISIRTs of different B/Ds.
 
@@ -320,7 +322,7 @@ The following diagram describes a sample Departmental IT Security organisational
 
 [[fig4]]
 .An Example Organisation Chart for Departmental IT Security Management {blank}footnote:[The actual IT Security Management structure may vary according to the circumstances of each organisation.]
-image::images/004.png[width=auto,height=auto]
+image::image-04.png[width=auto,height=auto]
 
 ==== Senior Management
 
@@ -364,7 +366,7 @@ DITSO may line up an IT security working team within the B/D to assist in leadin
 
 According to the Security Regulations, the Head of B/D will designate a Departmental Security Officer (DSO) to perform the departmental security related duties. The DSO will take the role as an executive to:
 
-* Discharge responsibilities for all aspects of security for the B/D. 
+* Discharge responsibilities for all aspects of security for the B/D.
 
 * Advise on the set up and review of the security policy.
 
@@ -620,13 +622,13 @@ B/Ds shall promulgate their own IT Security Policy. A mechanism for the delivery
 
 No policy shall be considered actually implemented unless users or related parties have commitment and communication. Hence, B/Ds should make sure that users and related parties:
 
-* Are informed of the policy by briefing or orientation when they newly join. 
+* Are informed of the policy by briefing or orientation when they newly join.
 
-* Are invited to participate in developing the policy proposals. 
+* Are invited to participate in developing the policy proposals.
 
-* Are trained with the skills needed to follow the policy. 
+* Are trained with the skills needed to follow the policy.
 
-* Are periodically reminded of and refreshed for security threats or issues. 
+* Are periodically reminded of and refreshed for security threats or issues.
 
 * Are provided with policy guidance in manageable units.
 
@@ -846,11 +848,11 @@ Degaussing or demagnetising is considered an acceptable technical solution for t
 Sufficient checks and balances mechanisms shall be in place such as requiring the individual who performs the degaussing to certify the completion of the degaussing. Sample check of the degaussed media shall also be performed by another party to ensure that the degaussing is done properly.
 
 
-.. Physical Destruction: storage media that cannot be sanitised shall be physically destroyed by means of shredding, disintegration or grinding. 
+.. Physical Destruction: storage media that cannot be sanitised shall be physically destroyed by means of shredding, disintegration or grinding.
 +
-For flash memory devices, the media shall be shredded or disintegrated into particles that have nominal edge dimensions of 2 millimetres or less. 
+For flash memory devices, the media shall be shredded or disintegrated into particles that have nominal edge dimensions of 2 millimetres or less.
 +
-For optical storage media (CDs, DVDs, Blu-ray discs and MO disks), the media shall be shredded or disintegrated to particles: 
+For optical storage media (CDs, DVDs, Blu-ray discs and MO disks), the media shall be shredded or disintegrated to particles:
 
 * that have nominal edge dimensions of 0.5 millimetres or less and surface area of 0.25 square millimetres or less if the media has been used for the storage of TOP SECRET or SECRET information; or
 
@@ -1073,11 +1075,11 @@ Examples of bad passwords:
 --
 B/Ds should remind staff about the prohibition on the following activities which could lead to unauthorised access to information systems or a compromise of the security of information systems:
 
-* Interactive attempts including password guessing and brute force attacks. 
+* Interactive attempts including password guessing and brute force attacks.
 
-* Obtaining passwords through social engineering or phishing. 
+* Obtaining passwords through social engineering or phishing.
 
-* Compromising passwords through oversight, observation, cameras and etc. 
+* Compromising passwords through oversight, observation, cameras and etc.
 
 * Cracking through network traffic eavesdropping.
 --
@@ -1109,7 +1111,7 @@ DOs
 
 * Do scramble passwords with one-way functions. If possible, do use “salting” to scramble passwords so that same passwords will produce different scrambled outputs.
 
-* Do deactivate a user account if the logon fails for multiple consecutive times. 
+* Do deactivate a user account if the logon fails for multiple consecutive times.
 
 * Do remind the responsibilities of the users in protecting their passwords.
 
@@ -1149,9 +1151,9 @@ DON'Ts
 
 DOs
 
-* Do change your password regularly, for example every 90 days. 
+* Do change your password regularly, for example every 90 days.
 
-* Do change the default or initial password the first time you login. 
+* Do change the default or initial password the first time you login.
 
 * Do change your password immediately if you suspect that it has been compromised. Once done, notify the system/security administrator for further follow up actions.
 
@@ -1491,7 +1493,7 @@ If a computer is suspected to be infected with malware, users should stop all ac
 
 Removing malware does not necessarily imply that contaminated or deleted files can be recovered or retrieved. The most effective way for recovering corrupted files is to replace them with the original copies. Therefore, regular backups should be done and sufficient backup copies should be kept to facilitate file recovery whenever necessary.
 
-After removing malware from a computer, users should perform a complete scan on the computer and other storage media to ensure that they are free of malware. 
+After removing malware from a computer, users should perform a complete scan on the computer and other storage media to ensure that they are free of malware.
 
 Failure to rescan a computer for malware may lead to the resurrection of the malware.
 --
@@ -1600,9 +1602,9 @@ B/D shall define policies relating to the logging of activities of information s
 
 * Attempts for password changes.
 
-* Access attempts to critical files (e.g. software configuration files, password and key files, etc.). 
+* Access attempts to critical files (e.g. software configuration files, password and key files, etc.).
 
-* Use of privileged rights such as addition and deletion of user accounts. 
+* Use of privileged rights such as addition and deletion of user accounts.
 
 * Changes to user access rights.
 
@@ -1616,43 +1618,43 @@ Logs shall be retained for a period commensurate with their usefulness as an aud
 
 B/Ds should take the following considerations into account when defining and reviewing their logging policies:
 
-* Log generation 
+* Log generation
 
-** Types of IT equipment and their components (e.g. applications, database, etc.) to generate logs. 
+** Types of IT equipment and their components (e.g. applications, database, etc.) to generate logs.
 
-** Types of events to be logged. 
+** Types of events to be logged.
 
-** Details for each type of events to be logged (e.g. username, source IP address, time stamps, etc.). 
+** Details for each type of events to be logged (e.g. username, source IP address, time stamps, etc.).
 
 ** Clock synchronisation requirements (e.g. trusted time source, date and time format, synchronisation method and frequency, etc.).
 
-* Log transmission 
+* Log transmission
 
-** Types of IT equipment and their components to transfer logs to central log management infrastructure. 
+** Types of IT equipment and their components to transfer logs to central log management infrastructure.
 
-** Log delivery requirements (e.g. network protocols, etc.). 
+** Log delivery requirements (e.g. network protocols, etc.).
 
 ** Frequency of logs to be transferred (e.g. real-time, every hour, etc.).
 
-* Log storage and disposal 
+* Log storage and disposal
 
-** Log protection requirements (e.g. access control, etc.). 
+** Log protection requirements (e.g. access control, etc.).
 
-** Log storage space. 
+** Log storage space.
 
-** Criteria for log rotation. 
+** Criteria for log rotation.
 
 ** Log retention period based on risk level of information system.
 
-* Log analysis 
+* Log analysis
 
-** Roles and responsibilities 
+** Roles and responsibilities
 
-** Type of events to trigger alerts to responsible parties. 
+** Type of events to trigger alerts to responsible parties.
 
-** Type of events to be analysed. 
+** Type of events to be analysed.
 
-** Log review frequency. 
+** Log review frequency.
 
 ** Handling procedures for suspicious and abnormal activities.
 
@@ -1865,13 +1867,13 @@ Connections made to other networks shall not compromise the security of informat
 
 Some B/Ds may enforce stronger security requirements than others (e.g. client-side program configuration/settings, network transmission requirements, user identification and authentication, session handling, transaction integrity, etc.). There will be cases where the security requirements of two B/Ds are different but they need to inter-communicate with each other. The following principles should be observed if there are security requirement discrepancies of inter-departmental communication:
 
-* Security requirements of an information system provider is STRONGER than security requirements of users from other B/Ds 
+* Security requirements of an information system provider is STRONGER than security requirements of users from other B/Ds
 +
 Under this scenario, security requirements of the information system provider should dominate, with the fact that the B/D as the information system provider has legitimate business concerns to raise its security requirements. Users of other B/Ds will need to follow.
 
-* Security requirements of an information system provider is WEAKER than security requirements of users from other B/Ds 
+* Security requirements of an information system provider is WEAKER than security requirements of users from other B/Ds
 +
-Under this scenario, the information system provider should perform a security risk assessment to determine if it needs to refine its security requirements. If the outcome is that there is no need to change its security requirements, B/D of the information system provider should reconcile with users of other B/Ds with higher security requirements to either devise alternative access channels for their access or request these users to accommodate with laxer security requirements. 
+Under this scenario, the information system provider should perform a security risk assessment to determine if it needs to refine its security requirements. If the outcome is that there is no need to change its security requirements, B/D of the information system provider should reconcile with users of other B/Ds with higher security requirements to either devise alternative access channels for their access or request these users to accommodate with laxer security requirements.
 +
 If the outcome is that B/D of the information system provider needs to strengthen its security requirements, additional security controls should be implemented accordingly. After strengthening its security requirements, if there are still users of other B/Ds having higher security requirements, B/D of the information system provider should reconcile with these users to either devise alternative access channels for their access or request these users to accommodate its laxer security requirements.
 
@@ -2749,7 +2751,7 @@ When any non-compliance is found, B/Ds should:
 * Document and maintain the results of the audit and corrective action taken.
 
 For guidance on security audit, please refer to the Practice Guide for Security Risk Assessment & Audit.
- 
+
 --
 
 . Technical Compliance Review
@@ -2811,7 +2813,7 @@ END USER INSTRUCTIONS ON
 INFORMATION TECHNOLOGY (IT) SECURITY
 
 [ YOUR DEPARTMENT NAME ]
- 
+
 <<<
 
 *[Name of an officer]* has been appointed as the Departmental IT Security Officer (DITSO) to oversee the IT security of the *[name of Bureau/Department]*. End user diligence is necessary to protect the information or the information systems commensurate with the data classification. Each user is accountable to all of his/her activities on the information systems.

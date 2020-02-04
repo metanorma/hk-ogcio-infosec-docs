@@ -1,18 +1,19 @@
-= HK OGCIO S17 in Metanorma
+= HKSARG OGCIO InfoSec documents in Metanorma
 
-// image:https://github.com/metanorma/ogc-tcpnp/workflows/ubuntu/badge.svg["Build Status (Ubuntu)", link="https://github.com/metanorma/ogc-tcpnp/actions?workflow=ubuntu"]
-//
-// This document is available in its rendered forms here:
-//
-// * https://metanorma.github.io/ogc-tcpnp/[OGC Policy: Technical Committee Policies and Procedures (HTML)]
+image:https://github.com/metanorma/hk-ogcio-infosec-docs/workflows/ubuntu/badge.svg["Build Status (Ubuntu)", link="https://github.com/metanorma/hk-ogcio-infosec-docs/actions?workflow=ubuntu"]
+
+This document is available in its rendered forms here:
+
+* https://metanorma.github.io/hk-ogcio-infosec-docs/[OGC Policy: Technical Committee Policies and Procedures (HTML)]
+
 
 == Purpose
 
-Provides the OGCIO S17 document in machine-readable and machine-citable form
-using Metanorma.
+Re-encoded set of HKSARG OGCIO information security documents in machine-readable
+and machine-citable form using Metanorma.
 
 
-== Copyright notice
+== Copyright notice and license
 
 COPYRIGHT NOTICE
 
@@ -29,7 +30,8 @@ Unless otherwise indicated, the copyright in the works contained in this publica
 
 If you wish to make copies for purposes other than that permitted above, you should seek permission by contacting the Office of the Government Chief Information Officer.
 
-== Source
 
-https://www.ogcio.gov.hk/en/our_work/information_cyber_security/government/doc/S17.pdf
+== Authoritative source
+
+https://www.ogcio.gov.hk/en/our_work/information_cyber_security/government/
 

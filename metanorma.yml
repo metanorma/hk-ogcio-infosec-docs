@@ -1,0 +1,8 @@
+---
+metanorma:
+  deploy:
+    email: "travis-ci@metanorma.org"
+relaton:
+  collection:
+    organization: "Metanorma : Standards for standards"
+    name: "HK OGCIO InfoSec documents in Metanorma"
