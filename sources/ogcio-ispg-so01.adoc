@@ -1,14 +1,14 @@
 = Practice Guide for Securing Network Printers in the Offices
 :title: Practice Guide for Securing Network Printers in the Offices
 :edition: 1.0
-:docnumber: 
+:docnumber: ISPG-SO01
 :copyright-year: 2018
 :published-date: 2018-08
-:doctype: ISPG-SO01
+:doctype:
 :language: en
 :script: Latn
 :status: published
-:docfile: isgp-so01.adoc
+:docfile: ogcio-isgp-so01.adoc
 :mn-document-class: ogc
 :mn-output-extensions: xml,html,doc,pdf,rxl
 :local-cache-only:
@@ -229,12 +229,12 @@ In compliance with the security requirements of the Government, B/Ds shall obser
 . Detailed encryption requirements for these two types of classified information are given below.
 +
 --
-_Encryption requirements on CONFIDENTIAL information_ 
+_Encryption requirements on CONFIDENTIAL information_
 
 - CONFIDENTIAL information must be encrypted during storage and transmission over an un-trusted communication network, e.g. wireless network. If symmetric encryption is selected, the key length shall be at least 128-bit for the Advanced Encryption Standard (AES) encryption or equivalent. If asymmetric encryption is selected, the key length shall be at least 2048-bit for the RSA encryption. Alternatively, the requirement can be met by Elliptic Curve Cryptography (ECC) encryption with key length of at least 224-bit or equivalent.
 - For keys that are used for decrypting CONFIDENTIAL information, they shall be stored separately from the corresponding encrypted information.
 
-_Encryption requirements on RESTRICTED information_ 
+_Encryption requirements on RESTRICTED information_
 
 - RESTRICTED information must be encrypted during storage and transmission over an un-trusted communication network, e.g. wireless network. If symmetric encryption is selected, the key length shall be at least 128-bit for the Advanced Encryption Standard (AES) encryption or equivalent. If asymmetric encryption is selected, the key length shall be at least 2048-bit for the RSA encryption. Alternatively, the requirement can be met by Elliptic Curve Cryptography (ECC) encryption with key length of at least 224-bit or equivalent.
 --

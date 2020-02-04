@@ -1,16 +1,15 @@
 = Practice Guide for Information Security Incident Handling
 :title: Practice Guide for Information Security Incident Handling
 :edition: 1.1
-:docnumber: ispg-sm02
+:docnumber: ISPG-SM02
 :published-date: 2017-11
 :copyright-year: 2017
 :language: en
 :script: Latn
-:doctype: 
+:doctype:
 :status: published
-:toc:
-:imagesdir: images
-:docfile: ispg-sm02.adoc
+:imagesdir: images-ispg-sm02
+:docfile: ogcio-ispg-sm02.adoc
 :mn-document-class: ogc
 :mn-output-extensions: xml,html,doc,pdf,rxl
 :local-cache-only:
@@ -786,22 +785,22 @@ In addition, for any security incident reported to HKPF or PCPD, the GIRO-SO sho
 2+^h|Role of the Officer
 
 2+a|
-- [ ] Departmental IT Security Officer (DITSO) 
+- [ ] Departmental IT Security Officer (DITSO)
 - [ ] Deputy DITSO
 - [ ] Departmental Information Security Incident Response Team (ISIRT) Commander
-- [ ] Deputy Departmental ISIRT Commander 
-- [ ] Departmental Internet System Administrator (System Name: {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp}) 
+- [ ] Deputy Departmental ISIRT Commander
+- [ ] Departmental Internet System Administrator (System Name: {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp})
 - [ ] Deputy Departmental Internet System Administrator (System Name: {nbsp} {nbsp} {nbsp} {nbsp})
 
 2+|The officer to be replaced: {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} (_please use a separate form for each officer_)
 
 2+^h|Contact Information
 
-|Name: |Designation: 
-|Office Phone No.: |Fax No.: 
+|Name: |Designation:
+|Office Phone No.: |Fax No.:
 a|Mobile Phone No. : +
 _(For 7x24 emergency contact)_
-|Lotus Notes Email Address: 
+|Lotus Notes Email Address:
 
 2+|Other Lotus Notes email contacts for receiving IT security related information:
 
@@ -888,10 +887,10 @@ This method is considered not effective and inconvenient. It should only be used
 === Preliminary Information Security Incident Report
 
 [align=center]
-*RESTRICTED* 
+*RESTRICTED*
 
 [align=right]
-*Incident Ref. No.:* {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} 
+*Incident Ref. No.:* {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp}
 
 [align=center]
 *Preliminary Information Security Incident Report*
@@ -908,13 +907,13 @@ This method is considered not effective and inconvenient. It should only be used
 2+a|
 *Physical location of the affected system:*
 
-- [ ] Within B/D 
+- [ ] Within B/D
 - [ ] External service provider facility
 
 *System administered/operated by:*
 
-- [ ] In-house staff 
-- [ ] End user 
+- [ ] In-house staff
+- [ ] End user
 - [ ] Outsourced service provider
 
 2+^h|Reporting Entity Information
@@ -989,7 +988,7 @@ _Any Vulnerabilities Identified:_
 
 *Is personal data involved in the incident?*
 
-- [ ] Yes, What does it involved: 
+- [ ] Yes, What does it involved:
 - [ ] No
 
 
@@ -1037,7 +1036,7 @@ a|*No. of Public Enquiry Received:* +
 ==== Interim-Incident Report
 
 [align=center]
-*RESTRICTED* 
+*RESTRICTED*
 
 [align=right]
 *Incident Ref. No.:* {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp}
@@ -1059,13 +1058,13 @@ a|*No. of Public Enquiry Received:* +
 2+a|
 *Physical location of the affected system:*
 
-- [ ] Within B/D 
+- [ ] Within B/D
 - [ ] External service provider facility
 
 *System administered/operated by:*
 
-- [ ] In-house staff 
-- [ ] End user 
+- [ ] In-house staff
+- [ ] End user
 - [ ] Outsourced service provider
 
 
@@ -1113,7 +1112,7 @@ _Any Vulnerabilities Identified:_
 ==== Post-Incident Report
 
 [align=center]
-*RESTRICTED* 
+*RESTRICTED*
 
 [align=right]
 *Incident Ref. No.:* {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp} {nbsp}
@@ -1135,14 +1134,14 @@ _Any Vulnerabilities Identified:_
 5+a|
 *Physical location of the affected system:*
 
-- [ ] Within B/D 
+- [ ] Within B/D
 - [ ] External service provider facility
 
 
 *System administered/operated by:*
 
-- [ ] In-house staff 
-- [ ] End user 
+- [ ] In-house staff
+- [ ] End user
 - [ ] Outsourced service provider
 
 5+^h|Reporting Entity Information
@@ -1229,7 +1228,7 @@ _Any Vulnerabilities Identified:_
 - [ ] Incident Response Manager
 - [ ] ISIRT Commander
 - [ ] GIRO Standing Office
-- [ ] Others: 
+- [ ] Others:
 
 *External Individuals/Entities Notified:*
 
@@ -1276,7 +1275,7 @@ _Investigation Result from the Police (if available):_
 - [ ] Organised Group
 - [ ] No Perpetrator
 - [ ] Unknown
-- [ ] Other: 
+- [ ] Other:
 
 *Perceived Motivation for Incident:*
 
@@ -1301,7 +1300,7 @@ No. of affected individuals: +
 _(breakdown the number of internal staff and citizens)_
 
 Type of personal data involved: +
-Whether the affected individuals have been informed: Yes/No. If No, why: 
+Whether the affected individuals have been informed: Yes/No. If No, why:
 
 Remarks:
 
@@ -1432,7 +1431,7 @@ Reports should include the following information:
 [[annex-workflow-of-information]]
 [appendix,obligation=informative]
 == Workflow of Information Security Incident Response Mechanism
-A typical workflow on reporting and escalation of government security incidents is illustrated in the following flowchart: 
+A typical workflow on reporting and escalation of government security incidents is illustrated in the following flowchart:
 
 [%unnumbered]
 image::fig-workflow-of-information.png[]
