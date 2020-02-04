@@ -1,18 +1,22 @@
 = Practice Guide for Security Risk Assessment & Audit
 :title: Practice Guide for Security Risk Assessment & Audit [ISPG-SM01]
 :edition: 1.1
-:docnumber: G3
+:docnumber: ISPG-SM01
 :copyright-year: 2017
-:doctype: 
+:published-date: 2017-11
+:doctype:
 :language: en
+:script: Latn
 :status: published
-:keywords: 
-:submitting-organizations: 
-:docfile: SM01.adoc
+:keywords:
+:submitting-organizations:
+:imagesdir: images-sm01
+:docfile: ogcio-sm01.adoc
 :mn-document-class: ogc
 :mn-output-extensions: xml,html,doc,pdf,rxl
 :local-cache-only:
 :data-uri-image:
+:imagesdir: images-sm01
 
 
 NOTE: The contents of this document remain the property of and may not be reproduced in whole or in part without the express permission of the Office of the Government Chief Information Officer
@@ -157,7 +161,7 @@ Security risk assessment and audit is an ongoing process of information security
 
 [[fig1]]
 .An Iterative Process of Security Risk Assessment and Audit
-image::images/001.png[width=auto,height=auto]
+image::image-01.png[width=auto,height=auto]
 
 Assessing security risk is the initial step to evaluate and identify risks and consequences associated with vulnerabilities, and to provide a basis for management to establish a cost-effective security program.
 
@@ -249,7 +253,7 @@ They are : Planning, Information Gathering, Risk Analysis, Identifying and Selec
 
 [[fig2]]
 .General Security Risk Assessment Steps
-image::images/002.png[width=auto,height=auto]
+image::image-02.png[width=auto,height=auto]
 
 ==== Planning
 Before a security risk assessment can start, planning is required for proper preparation, monitor and control. One suggestion is to inform the stakeholders, such as the network team, the application team and the security incident handling team in advance if risk assessment exercises covering penetration testing or vulnerability scanning are to be carried out to avoid excessive false alarms generated that might impact the daily operation. Below are several major items that should be defined first.
@@ -627,7 +631,7 @@ Typical steps of a penetration testing are depicted in the <<fig3>> below:
 
 [[fig3]]
 .Typical Steps of a Penetration Testing
-image::images/003.png[width=auto,height=auto]
+image::image-03.png[width=auto,height=auto]
 
 B/Ds should pay special attention to penetration testing because the tests may bring impacts to the systems similar to real-world attacks, such as service disruption, unauthorised access or unauthorised data modification, etc. Thus, before conducting a penetration testing, B/Ds should consider the following security concerns:
 
@@ -968,7 +972,7 @@ In general, a security audit can be divided into the following steps:
 
 [[fig4]]
 .General Audit Steps
-image::images/004.png[width=auto,height=auto]
+image::image-04.png[width=auto,height=auto]
 
 
 ==== Planning
@@ -1184,20 +1188,20 @@ h| Item h| List of Activities h| Descriptions
 | 1 | Introductory Meeting | Agree on service scope, goals, and deliverables.
 | 2 | Project Planning | Develop a mutually agreeable delivery schedule and duration of service.
 | 3 | Preparation of Checklist | Prepare a checklist and have it agreed upon by the B/D.
-| 4 | Preparation of Fallback/Recovery Procedures for Technical Vulnerability Tests (such as vulnerability scanning, penetration testing, etc.) | Prepare fallback/recovery procedures before technical vulnerability tests and penetration tests 
-| 5 | Security Risk Assessment | 
+| 4 | Preparation of Fallback/Recovery Procedures for Technical Vulnerability Tests (such as vulnerability scanning, penetration testing, etc.) | Prepare fallback/recovery procedures before technical vulnerability tests and penetration tests
+| 5 | Security Risk Assessment |
 | | General Control Review | Perform general control review by documentation review, site visits, multi-level interviews, group discussion, surveys, etc.
 | | System Review | Perform system review to identify the system vulnerabilities. Perform vulnerability scanning and penetration testing where applicable.
 .4+| | Risk and Impact Analysis | Identify assets, threats, vulnerabilities and their impacts.
 | Safeguards Analysis | Identify and select alternative safeguards.
 | Delivery of Security Risk Assessment Report | Produce the assessment report to state the findings and recommendations.
-| Presentation of Security Risk Assessment Results |Present the results and findings to management. 
+| Presentation of Security Risk Assessment Results |Present the results and findings to management.
 | 6 | Security Audit |
 .3+| | Compliance Check | Conduct compliance checking by documentation review, site visits, multi-level interviews, group discussion, surveys, etc. against S17 and departmental security policy or policies that are relevant and within the scope of security audit.
 | Delivery of Security Audit Report | Produce the security audit report.
 | Presentation of Security Audit Results | Present the results and findings to management.
 | 7 | Safeguard Data and Results | After completion, all data collected and testing results & tools should be safeguarded.
-| 8 | Follow-up Actions | 
+| 8 | Follow-up Actions |
 .2+| | Development of Follow-up Plan | Develop a follow-up plan on recommendations with implementation schedule.
 | Safeguard Implementation Review | Review the security status after implementation of safeguards.
 |===
@@ -1212,7 +1216,7 @@ There are three major areas of concern with regard to recommendations made in th
 
 [[fig5]]
 .Follow-Up Actions on Recommendations
-image::images/005.png[width=auto,height=auto]
+image::image-05.png[width=auto,height=auto]
 
 === Effective & Qualified Recommendations
 
@@ -1346,7 +1350,7 @@ Depending on the scope of security risk assessment, there are many different are
 |===
 h| Sample Questions
 | *_Rules & Policy_*
-| - Are there any appropriate security policy, guidelines or procedures established? + 
+| - Are there any appropriate security policy, guidelines or procedures established? +
 - Do the existing security policy/procedures/guidelines adequately state what are allowed or not allowed to do? +
 - Are staff and users informed of their obligation with regard to the relevant laws, security policy and procedures before giving access rights? +
 - Are the security policy/guidelines/procedures readily available to users? +
@@ -1356,7 +1360,7 @@ h| Sample Questions
 - Are these security documents regularly reviewed to address the threats emerged from new technologies?
 | *_System Service Usage & Support_*
 | - Does the system solely used for performing official duties and no massive violation in usage? +
-- Are all the users adequately trained for using the systems/services offered to them? + 
+- Are all the users adequately trained for using the systems/services offered to them? +
 - Are there any written application and authorisation procedures for applying and granting the rights for using the service or system? +
 - Does the service vendors provide a reliable supporting service? +
 - Is appropriate protection given on the IT assets provided by service vendors? +
@@ -1528,7 +1532,7 @@ An audit report should include the following information, but not limited to:
 == Different Audit Areas
 
 === Firewall
- 
+
 This audit area is to ensure that its firewall and associated systems have been properly configured to enforce the security policy with the minimal and optimal security protection. The firewall should be audited not only for its configuration, but also for its physical access control.
 
 This audit area may cover the following:
@@ -1794,14 +1798,14 @@ h| Items to be checked
 | *_Management Responsibilities_*
 | - Departmental IT security organisational framework and the associated roles and responsibilities are defined. +
 - Sufficient segregation of duties to avoid execution of all security functions of an information system by a single individual is applied. +
-- Departmental budget covers the provision for necessary security safeguards and resources. 
+- Departmental budget covers the provision for necessary security safeguards and resources.
 | *_IT Security Policies_*
 | - Security policy is well documented and easy to understand. +
 - Security policy is easily accessible by all involved parties. +
 - Security policy is periodically reviewed and updated to reflect current environment. +
 - Users are informed and committed to the security policy. +
 - All rules stated in the security policy are implemented. +
-- Security policy is approved, promulgated and enforced by the Head of B/D and the management. 
+- Security policy is approved, promulgated and enforced by the Head of B/D and the management.
 | *_Human Resource Security_*
 | - All staff are advised with acknowledgement of their IT security responsibilities upon being assigned a new post, and periodically throughout their term of employment. +
 - All roles & responsibilities are clearly defined. +
@@ -1882,7 +1886,7 @@ h| Items to be checked
 - Sample physically checking on the computer equipment against the inventory record is correct. +
 - Mobile devices or removable media are secured when user have to leave his/her device/media unattended. +
 - IT equipment being taken away from sites is properly controlled. +
-- Automatic re-authentication feature is used and enabled on all computers. 
+- Automatic re-authentication feature is used and enabled on all computers.
 | *_Operations Security_*
 | - All software and files downloaded from the Internet are screened and verified with anti-malware solution. +
 - There are procedures established and documented for backup and recovery. +
@@ -1930,13 +1934,13 @@ h| Items to be checked
 | *_Outsourcing Security_*
 | - Risks of utilising external services or facilities are identified and assessed. +
 - Copy of signed confidentiality and non-disclosure agreement is properly managed. +
-- All the government data in external services or facilities are cleared or destroyed according to the government security requirements at the expiry or termination of the service. 
+- All the government data in external services or facilities are cleared or destroyed according to the government security requirements at the expiry or termination of the service.
 | *_Security Incident Management_*
 | - There is established incident monitoring and response mechanism, which has been tailored to specific operational needs, for each system. +
 - There is predefined retention period of logs for tracing security incident when necessary. +
 - Security incident response/handling procedure is periodically reviewed and drilled. +
 - Should there be any security incidents, they are handled and escalated properly by staff, based on the established reporting channels. +
-- The latest version of the incident monitoring/response procedure is made available to the end users. 
+- The latest version of the incident monitoring/response procedure is made available to the end users.
 | *_IT Security Aspects of Business Continuity Management_*
 | - Disaster recovery and emergency response plans are reviewed, drilled and updated according to documented frequency +
 - Plans for emergency response and disaster recovery of mission critical information systems are fully documented, regularly tested and tied in with the Business Continuity Plan. +

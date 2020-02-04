@@ -1,19 +1,22 @@
 = Practice Guide for Cloud Computing Security
 :title: Practice Guide for Cloud Computing Security [ISPG-SM04]
 :edition: 1.1
-:docnumber: G3
+:docnumber: ISPG-SM04
+:published-date: 2018-07
 :copyright-year: 2018
-:doctype: 
+:doctype:
 :language: en
+:script: Latn
 :status: published
-:keywords: 
-:submitting-organizations: 
-:docfile: SM04.adoc
+:keywords:
+:submitting-organizations:
+:imagesdir: images-sm04
+:docfile: ogcio-sm04.adoc
 :mn-document-class: ogc
 :mn-output-extensions: xml,html,doc,pdf,rxl
 :local-cache-only:
 :data-uri-image:
-
+:imagesdir: images-sm04
 
 NOTE: The contents of this document remain the property of and may not be reproduced in whole or in part without the express permission of the Office of the Government Chief Information Officer
 
@@ -69,13 +72,13 @@ This document highlights common security considerations and industry security be
 The following referenced documents are indispensable for the application of this
 document.
 
-* Baseline IT Security Policy [S17] , the Government of Hong Kong Special Administrative Region 
+* Baseline IT Security Policy [S17] , the Government of Hong Kong Special Administrative Region
 
-* IT Security Guidelines [G3] , the Government of Hong Kong Special Administrative Region 
+* IT Security Guidelines [G3] , the Government of Hong Kong Special Administrative Region
 
-* Information technology -Security techniques -Information security management systems -Requirements (second edition), ISO/IEC 27001:2013 
+* Information technology -Security techniques -Information security management systems -Requirements (second edition), ISO/IEC 27001:2013
 
-* Information technology -Security techniques -Code of practice for information security controls (second edition), ISO/IEC 27002:2013 
+* Information technology -Security techniques -Code of practice for information security controls (second edition), ISO/IEC 27002:2013
 
 * Information technology – Security techniques – Governance of information security, ISO/IEC 27014:2013
 
@@ -100,11 +103,11 @@ For the purposes of this document, the terms and convention given in S17, G3, an
 |===
 
 
-=== Contact 
+=== Contact
 
 This document is produced and maintained by the Office of the Government Chief Information Officer (OGCIO). For comments or suggestions, please send to:
 
-Email: it_security@ogcio.gov.hk 
+Email: it_security@ogcio.gov.hk
 
 Lotus Notes mail: IT Security Team/OGCIO/HKSARG@OGCIO
 
@@ -149,7 +152,7 @@ To protect information assets and information systems, B/Ds should implement com
 
 * Detective measures identify the occurrence of an undesirable event;
 
-* Response measures refer to coordinated actions to contain damage when an undesirable event or incident occurs; and 
+* Response measures refer to coordinated actions to contain damage when an undesirable event or incident occurs; and
 
 * Recovery measures are for restoring the confidentiality, integrity and availability of information systems to their expected state.
 
@@ -173,7 +176,7 @@ B/Ds could make use of the cyber risk information sharing platform to receive an
 
 [[fig1]]
 .Cloud Models
-image::images/001.png[width=auto,height=auto]
+image::image-01.png[width=auto,height=auto]
 
 
 Cloud computing is a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g. networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction. Cloud computing under cloud infrastructure can be basically described as three service models and four deployment models {blank}footnote:["The NIST Definition of Cloud Computing", SP 800-145, NIST.], which are summarised in the visual model as shown in <<fig1>> above.
@@ -215,7 +218,7 @@ A comparison table on the aspects relating to information security for the four 
 h| Aspects ^.^h| Public Cloud ^.^h| Private Cloud ^.^h| Community Cloud ^.^h| Hybrid Cloud
 ^.^h| Service Delivery ^.^| Delivered over the Internet ^.^| Delivered via a (virtual) private network ^.^| Delivered via a (virtual) private network ^.^| Combination of Internet and private networks
 ^.^h| Service Level Agreement (SLA) ^.^| SLA defined by CSP ^.^| SLA defined by the organisation ^.^| Shared SLA by participating organisations ^.^| Mix of different SLAs
-^.^h| Examples of Use ^.^| Productivity, business and social media applications and other cloud IT services. ^.^| Internal government services hosted in infrastructure provisioned for exclusive use by the Government. ^.^| Services for community of the Government and Non-Government Organisations with shared business needs. ^.^| A private cloud application connected to a public cloud service for capacity needs that cannot be met by the private cloud. ^.^| 
+^.^h| Examples of Use ^.^| Productivity, business and social media applications and other cloud IT services. ^.^| Internal government services hosted in infrastructure provisioned for exclusive use by the Government. ^.^| Services for community of the Government and Non-Government Organisations with shared business needs. ^.^| A private cloud application connected to a public cloud service for capacity needs that cannot be met by the private cloud. ^.^|
 
 |===
 
@@ -232,7 +235,7 @@ As a general principle, a client organisation can have greater security control 
 
 [[fig2]]
 .Level of control/ responsibility for B/D and CSP across different cloud service models
-image::images/002.png[width=auto,height=auto]
+image::image-02.png[width=auto,height=auto]
 
 SaaS services are typically accessed by clients using a web browser over the Internet, and the clients do not manage or control the underlying cloud platform and infrastructure. With SaaS, client organisations usually have little direct control over critical security capabilities such as data encryption or compliance auditing.
 
@@ -248,7 +251,7 @@ The degree of security control under the client organisation varies between the 
 
 [[fig3]]
 .Cloud implementation scenarios
-image::images/003.png[width=auto,height=auto]
+image::image-03.png[width=auto,height=auto]
 
 For the purpose of further discussion on security considerations and controls for cloud deployment within government, the four scenarios in <<fig3>> will be referenced:
 
@@ -256,7 +259,7 @@ For the purpose of further discussion on security considerations and controls fo
 
 * "Outsourced Private Cloud Scenario" comprising facilities dedicated to the Government in off premise data centres operated by external CSPs, for instance, the Government Cloud Platform (GovCloud).
 
-* "Public Cloud Scenario" provided by external CSPs offering services for use by the public. 
+* "Public Cloud Scenario" provided by external CSPs offering services for use by the public.
 
 * "Hybrid Cloud Scenario" composed of two or more cloud scenarios (private or public)
 
@@ -286,7 +289,7 @@ Connection of the cloud environment offered by the CSP to the network of client 
 
 [[fig4]]
 .Hybrid Cloud Scenario
-image::images/004.png[width=auto,height=auto]
+image::image-04.png[width=auto,height=auto]
 
 A common adoption of the Hybrid Cloud scenarios is "cloud bursting", in which an enterprise uses an in-house private cloud for primary operations, but optionally accesses one or more out-sourced private clouds during peak demand periods for the sake of load balancing.
 
@@ -295,31 +298,31 @@ A common adoption of the Hybrid Cloud scenarios is "cloud bursting", in which an
 
 After understanding the basic concepts of cloud computing and cloud security, the security controls are examined in this chapter. Cloud computing can be viewed as a new way of delivering IT based services to enterprises, rather than a new technology on its own. Specific technologies, of course, gain significant importance in a cloud computing environment, such as virtualisation. For the most part, cloud computing uses similar management tools, operating systems, databases, server platforms, network infrastructure, network protocol, storage arrays, and so on. Therefore, security controls in cloud are largely similar to those controls in traditional IT environment. As such, security controls described in government security documents including the Baseline IT Security Policy [S17] and IT Security Guidelines [G3] will still apply. However, due to the characteristics of the cloud service models and deployment models, and the technologies used to enable cloud services, certain risks in a cloud environment may become more significant and certain risks that do not exist in a traditional IT environment may exist in a cloud environment. The following sub-sections will describe the challenges and cloud-specific security practices for handling such risks. The description will focus on the following security domains.
 
-* Management Responsibilities 
+* Management Responsibilities
 
-* IT Security Policies 
+* IT Security Policies
 
-* Human Resource Security 
+* Human Resource Security
 
-* Asset Management 
+* Asset Management
 
-* Access Control 
+* Access Control
 
-* Cryptography 
+* Cryptography
 
-* Physical and Environmental Security 
+* Physical and Environmental Security
 
-* Operation Security 
+* Operation Security
 
-* Communications Security 
+* Communications Security
 
 * System Acquisition, Development and Maintenance
 
-* Outsourcing Security 
+* Outsourcing Security
 
-* Security Incident Management 
+* Security Incident Management
 
-* IT Security Aspects of Business Continuity Contingency Management 
+* IT Security Aspects of Business Continuity Contingency Management
 
 * Compliance
 
@@ -794,10 +797,10 @@ CSP should assist B/D to perform onsite security audit and gain understanding of
 4+h| 5.7 Physical And Environmental Security
 | - Analyse risks for selection of site location and its facilities | | ✓ | ✓
 | - Adopt adequate physical protection for all IT equipment and data storage media for outsourced data centres | | ✓ | ✓
-| - Adopt an isolated area for dedicated use as necessary | ✓ | ✓ | 
-| - Restrict access to the isolated area | ✓ | ✓ | 
-| - Consider defining different security levels of controlled area | ✓ | ✓ | 
-| - Ensure adequate access controls for multiple application systems sharing the same equipment rack | ✓ | ✓ | 
+| - Adopt an isolated area for dedicated use as necessary | ✓ | ✓ |
+| - Restrict access to the isolated area | ✓ | ✓ |
+| - Consider defining different security levels of controlled area | ✓ | ✓ |
+| - Ensure adequate access controls for multiple application systems sharing the same equipment rack | ✓ | ✓ |
 4+h| 5.8 Operations Security
 4+h| 5.8.1 Information Backup
 | - Backup data | ✓ | ✓ | ✓
@@ -880,25 +883,25 @@ When more and more cloud services are deployed, it is a challenge to manage vari
 
 * Identity governance and administration (IGA) — this includes the ability to conduct identity management such as self-service user provisioning, password synchronisation.
 
-* Identity access — this includes user authentication, single sign-on (SSO), policy enforcement 
+* Identity access — this includes user authentication, single sign-on (SSO), policy enforcement
 
 * Identity analytics — this includes event logging, access reporting
 
 As identity is critical to a platform or system, IDaaS poses the following deployment considerations to cloud users:
 
-* Reliability and integrity of IDaaS service providers 
+* Reliability and integrity of IDaaS service providers
 
-* Availability of IDaaS service on cloud platform and network access 
+* Availability of IDaaS service on cloud platform and network access
 
-* Resilience and protection of identity data 
+* Resilience and protection of identity data
 
-* Operational and access controls to user identities 
+* Operational and access controls to user identities
 
 * Credential management
 
 [[fig5]]
 .IDaaS Usage Scenario
-image::images/005.png[width=auto,height=auto]
+image::image-05.png[width=auto,height=auto]
 
 A critical risk analysis and detailed compliance review should be conducted before using such cloud services. B/Ds should ensure compliance to government security requirements when handling classified information in cloud platforms, especially when IDaaS service is considered. To reduce the risk of compromising across cloud platforms, re-using the identities across different cloud platforms should be avoided. The best practices described in <<security_consideration>> – Security Consideration and Controls for Cloud Services are also applied to the IDaaS as it is also a kind of cloud services.
 
@@ -918,7 +921,7 @@ CASB would be useful in monitoring cloud usage when installing at network perime
 
 [[fig6]]
 .Access Cloud Services through CASB
-image::images/006.png[width=auto,height=auto]
+image::image-06.png[width=auto,height=auto]
 
 === Cloud Workload Protection Platforms (CWPP)
 
@@ -928,7 +931,7 @@ In public cloud deployment, the cloud user may not have security control enforce
 
 [[fig7]]
 .Cloud Workload Protection Platform
-image::images/007.png[width=auto,height=auto]
+image::image-07.png[width=auto,height=auto]
 
 CWPP offers the following management features on workload in hybrid cloud environment:
 

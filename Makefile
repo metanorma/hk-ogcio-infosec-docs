@@ -10,6 +10,7 @@ endif
 
 FORMAT_MARKER := mn-output-
 FORMATS := $(shell grep "$(FORMAT_MARKER)" $(SRC) | cut -f 2 -d " " | tr "," "\\n" | sort | uniq | tr "\\n" " ")
+FORMATS_STRING := $(shell echo "$(strip $(FORMATS))" | tr ' ' ',')
 
 INPUT_XML  := $(patsubst %.adoc,%.xml,$(SRC))
 OUTPUT_XML  := $(patsubst sources/%,documents/%,$(patsubst %.adoc,%.xml,$(SRC)))
@@ -31,7 +32,7 @@ documents:
 	mkdir -p $@
 
 documents/%.xml: documents sources/%.xml
-	cp -a sources/$*.{xml,html,doc,rxl} documents
+	cp -a sources/$*.{$(FORMATS_STRING)} documents
 
 %.xml %.html:	%.adoc | bundle
 	pushd $(dir $^); \
@@ -70,7 +71,7 @@ $(foreach FORMAT,$(FORMATS),$(eval $(FORMAT_TASKS)))
 open: open-html
 
 clean:
-	rm -rf documents published *_images sources/*.{rxl,xml,html,doc}
+	rm -rf documents published *_images sources/*.{$(FORMATS_STRING)}
 
 bundle:
 	if [ "x" == "${METANORMA_DOCKER}x" ]; then bundle; fi

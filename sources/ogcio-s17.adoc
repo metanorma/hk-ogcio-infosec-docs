@@ -1,7 +1,7 @@
 = Baseline IT Security Policy
 :title: Baseline IT Security Policy [S17]
 :edition: 6.0
-:docnumber: s17
+:docnumber: S17
 :published-date: 2016-12
 :copyright-year: 2016
 :language: en
