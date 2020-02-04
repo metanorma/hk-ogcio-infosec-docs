@@ -1,16 +1,14 @@
 = Practice Guide for Mobile Security
 :title: Practice Guide for Mobile Security
 :edition: 1.1
-:docnumber: ispg-sm03
+:docnumber: ISPG-SM03
 :published-date: 2018-07
 :copyright-year: 2018
 :language: en
 :script: Latn
-:doctype: 
+:doctype:
 :status: published
-:toc:
-:imagesdir: images
-:docfile: ispg-sm03.adoc
+:docfile: ogcio-ispg-sm03.adoc
 :mn-document-class: ogc
 :mn-output-extensions: xml,html,doc,pdf,rxl
 :local-cache-only:
@@ -35,7 +33,7 @@ If you wish to make copies for purposes other than that permitted above, you sho
 5+^.^h|Amendment History
 ^h|Change Number ^h|Revision Description ^h|Pages Affected ^h|Revision Number ^h|Date
 
-|1 
+|1
 |Renamed the document from "Practice Guide for Mobile Device Security 1.0" to "Practice Guide for Mobile Security 1.1", added new chapters on information security management and mobile app development, and aligned references with other practice guides.
 |Whole document
 |1.1
