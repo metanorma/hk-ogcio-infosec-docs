@@ -22,7 +22,7 @@ jobs:
           make clean all publish
       - uses: actions/upload-artifact@master
         with:
-          name: published
+          name: published-docker
           path: published
 
   deploy-gh-pages:
@@ -33,10 +33,15 @@ jobs:
     - uses: actions/checkout@master
     - uses: actions/download-artifact@master
       with:
-        name: published
-    - name: deploy-to-gh
+        name: published-docker
+        path: published
+
+    - name: GitHub Pages action
+      uses: docker://peaceiris/gh-pages:v2
+      with:
+        emptyCommits: false
+        forceOrphan: true
       env:
-        GH_DEPLOY_KEY: ${{ secrets.GH_DEPLOY_KEY }}
-        GIT_SSH_COMMAND: "ssh -o StrictHostKeyChecking=no"
-      run: |
-        curl -L https://raw.githubusercontent.com/metanorma/metanorma-build-scripts/master/ghactions-deploy-to-gh-pages.sh | bash
+        ACTIONS_DEPLOY_KEY: ${{ secrets.GH_DEPLOY_KEY }}
+        PUBLISH_BRANCH: gh-pages
+        PUBLISH_DIR: ./published
