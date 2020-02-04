@@ -1,5 +1,5 @@
 = Practice Guide for Security Risk Assessment & Audit
-:title: Practice Guide for Security Risk Assessment & Audit [ISPG-SM01]
+:title: Practice Guide for Security Risk Assessment & Audit
 :edition: 1.1
 :docnumber: ISPG-SM01
 :copyright-year: 2017
@@ -10,13 +10,13 @@
 :status: published
 :keywords:
 :submitting-organizations:
-:imagesdir: images-sm01
-:docfile: ogcio-sm01.adoc
+:imagesdir: images-ispg-sm01
+:docfile: ogcio-ispg-sm01.adoc
 :mn-document-class: ogc
 :mn-output-extensions: xml,html,doc,pdf,rxl
 :local-cache-only:
 :data-uri-image:
-:imagesdir: images-sm01
+:imagesdir: images-ispg-sm01
 
 
 NOTE: The contents of this document remain the property of and may not be reproduced in whole or in part without the express permission of the Office of the Government Chief Information Officer
@@ -24,7 +24,7 @@ NOTE: The contents of this document remain the property of and may not be reprod
 
 == COPYRIGHT NOTICE
 
-© 2017 by the Government of the Hong Kong Special Administrative Region
+(C) 2017 by the Government of the Hong Kong Special Administrative Region
 
 Unless otherwise indicated, the copyright in the works contained in this publication is owned by the Government of the Hong Kong Special Administrative Region. You may generally copy and distribute these materials in any format or medium provided the following conditions are met –
 

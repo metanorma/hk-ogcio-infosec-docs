@@ -10,20 +10,20 @@
 :status: published
 :keywords:
 :submitting-organizations:
-:imagesdir: images-sm04
-:docfile: ogcio-sm04.adoc
+:imagesdir: images-ispg-sm04
+:docfile: ogcio-ispg-sm04.adoc
 :mn-document-class: ogc
 :mn-output-extensions: xml,html,doc,pdf,rxl
 :local-cache-only:
 :data-uri-image:
-:imagesdir: images-sm04
+:imagesdir: images-ispg-sm04
 
 NOTE: The contents of this document remain the property of and may not be reproduced in whole or in part without the express permission of the Office of the Government Chief Information Officer
 
 
 == COPYRIGHT NOTICE
 
-© 2018 by the Government of the Hong Kong Special Administrative Region
+(C) 2018 by the Government of the Hong Kong Special Administrative Region
 
 Unless otherwise indicated, the copyright in the works contained in this publication is owned by the Government of the Hong Kong Special Administrative Region. You may generally copy and distribute these materials in any format or medium provided the following conditions are met –
 
