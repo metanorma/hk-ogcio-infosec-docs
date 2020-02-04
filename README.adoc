@@ -27,7 +27,7 @@ Unless otherwise indicated, the copyright in the works contained in this publica
 
 (c) the materials must be reproduced accurately and must not be used in a misleading context; and
 
-(d) the copies shall be accompanied by the words “copied/distributed with the permission of the Government of the Hong Kong Special Administrative Region. All rights reserved.”
+(d) the copies shall be accompanied by the words "`copied/distributed with the permission of the Government of the Hong Kong Special Administrative Region. All rights reserved.`"
 
 If you wish to make copies for purposes other than that permitted above, you should seek permission by contacting the Office of the Government Chief Information Officer.
 

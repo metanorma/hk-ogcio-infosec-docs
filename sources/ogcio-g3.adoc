@@ -32,7 +32,7 @@ Unless otherwise indicated, the copyright in the works contained in this publica
 
 . the materials must be reproduced accurately and must not be used in a misleading context; and
 
-. the copies shall be accompanied by the words “copied/distributed with the permission of the Government of the Hong Kong Special Administrative Region. All rights reserved.”
+. the copies shall be accompanied by the words "`copied/distributed with the permission of the Government of the Hong Kong Special Administrative Region. All rights reserved.`"
 
 If you wish to make copies for purposes other than that permitted above, you should seek permission by contacting the Office of the Government Chief Information Officer.
 
@@ -42,12 +42,12 @@ If you wish to make copies for purposes other than that permitted above, you sho
 5+^.^h| Amendment History
 ^.^| Change Number ^.^| Revision Description ^.^| Pages Affected ^.^| Revision Number ^.^| Date
 ^.^| 1 | The Revision Report is available at the government intranet portal ITG InfoStation | ^.^| 4.0 ^.^| April 2003
-^.^| 2 | Change “Information Technology Services Department” (or “ITSD” ) to “Office of the Government Chief Information Officer” (or “OGCIO”) | ^.^| 4.1 ^.^| July 2004
+^.^| 2 | Change "`Information Technology Services Department`" (or "`ITSD`" ) to "`Office of the Government Chief Information Officer`" (or "`OGCIO`") | ^.^| 4.1 ^.^| July 2004
 ^.^| 3 | Enrich/enhance the document to include more detailed guidance in: +
-- section 10.1.1 “Security Considerations in Application Design and Development” and section 10.7. “WEB APPLICATION SECURITY” for application security +
-- section 10.4. “PROGRAM/SYSTEM TESTING” and section 11.3. “EMAIL SECURITY” for proper/restrictive disclosure of information +
-- section 11.2. “INTERNET SECURITY” for proper restriction of network traffic/ports and system services +
-Change “HKCERT/CC” to “HKCERT” as the revised acronym for Hong Kong Computer Emergency Response Team Coordination Centre ^.^| 10-2, +
+- section 10.1.1 "`Security Considerations in Application Design and Development`" and section 10.7. "`WEB APPLICATION SECURITY`" for application security +
+- section 10.4. "`PROGRAM/SYSTEM TESTING`" and section 11.3. "`EMAIL SECURITY`" for proper/restrictive disclosure of information +
+- section 11.2. "`INTERNET SECURITY`" for proper restriction of network traffic/ports and system services +
+Change "`HKCERT/CC`" to "`HKCERT`" as the revised acronym for Hong Kong Computer Emergency Response Team Coordination Centre ^.^| 10-2, +
 10-3 +
 10-7 +
 10-5 +
@@ -166,7 +166,7 @@ B/Ds shall formulate their own departmental IT policies, procedures and guidelin
 
 == NORMATIVE REFERENCES
 
-. The Government of the Hong Kong Special Administrative Region, “Security Regulations”
+. The Government of the Hong Kong Special Administrative Region, "`Security Regulations`"
 
 . Baseline IT Security Policy [S17]
 
@@ -798,8 +798,8 @@ Information.] ^.^| Transmission prohibited ^.^| Mandatory ^.^| Mandatory
 (ii) Confidential Messaging Application (CMSG) +
 (iii) Mobile Confidential Mail Service (MCMS) | Information system approved by the Government Security Officer subject to the technical endorsement of OGCIO. Approved email system: +
 (i) GCN with encryption feature enabled +
-(ii) System with PKI (Public Key Infrastructure) encryption or with encryption methods as specified in <<cryptographic_key_management>> “Cryptographic Key
-Management” {blank}footnote:[For considerations for the use case that RESTRICTED information stored in file is encrypted and transmitted by emails, it complies with the requirement as long as the RESTRICTED information is properly protected with appropriate encryption and the encryption key is exchanged securely between authorised parties.]
+(ii) System with PKI (Public Key Infrastructure) encryption or with encryption methods as specified in <<cryptographic_key_management>> "`Cryptographic Key
+Management`" {blank}footnote:[For considerations for the use case that RESTRICTED information stored in file is encrypted and transmitted by emails, it complies with the requirement as long as the RESTRICTED information is properly protected with appropriate encryption and the encryption key is exchanged securely between authorised parties.]
 | Processing ^.^| Only on Information system complied with SR356 ^.^| Only on Information system complied with SR363 ^.^| Only on Information system complied with SR367
 | Computer room requirement ^.^| Level III ^.^| Level II ^.^| Locked room / cabinet
 
@@ -967,7 +967,7 @@ Unless it is unavoidable due to business needs (e.g. demonstration systems) or i
 . User Accountability
 +
 --
-Users shall be responsible for all activities performed with their user-IDs. They shall only use their user-IDs to perform authorised tasks and functions. Shared user-IDs without approval shall be prohibited. For more information on user-IDs, please refer to <<user_identification>> “User Identification”.
+Users shall be responsible for all activities performed with their user-IDs. They shall only use their user-IDs to perform authorised tasks and functions. Shared user-IDs without approval shall be prohibited. For more information on user-IDs, please refer to <<user_identification>> "`User Identification`".
 --
 
 . Risk of Sharing Password
@@ -1024,7 +1024,7 @@ DON’Ts
 
 * Do not use other information easily obtained about you. This includes ID card numbers, licence plate numbers, telephone numbers, birth dates, the name of the street you live on, etc.
 
-* Do not use a password with the same letter like “aaaaaa”.
+* Do not use a password with the same letter like "`aaaaaa`".
 
 * Do not use consecutive letters or numbers like "abcdefgh" or "23456789".
 
@@ -1059,7 +1059,7 @@ Examples of bad passwords:
 |===
 | "password" | the most easily guessed password
 | "administrator" | a user's login name
-| "cisco” | a vendor's name
+| "cisco`" | a vendor's name
 | "peter chan" | a person's name
 | "aaaaaaaa" | repeating the same letter
 | "abcdefgh" | consecutive letters
@@ -1110,7 +1110,7 @@ DOs
 
 * Do encrypt passwords during transmission over un-trusted networks.
 
-* Do scramble passwords with one-way functions. If possible, do use “salting” to scramble passwords so that same passwords will produce different scrambled outputs.
+* Do scramble passwords with one-way functions. If possible, do use "`salting`" to scramble passwords so that same passwords will produce different scrambled outputs.
 
 * Do deactivate a user account if the logon fails for multiple consecutive times.
 
@@ -1295,7 +1295,7 @@ To start with, B/Ds should make reference to existing site selection and prepara
 * *Practice Guide to Data Centre Design and Site Preparation* +
 Available at ITG InfoStation (https://itginfo.ccgo.hksarg/content/itop/itm_site_preparation.htm)
 
-Together with the set of specific facility requirements and the Security Bureau security specification {blank}footnote:[For detail security specifications on Level I/II/III security, please refer to document “Guidelines for Security Provisions in Government Office Buildings” published by the Security Bureau.] (Level I/II/III), B/Ds can determine all the physical environmental requirements, including security requirements prior to construction.
+Together with the set of specific facility requirements and the Security Bureau security specification {blank}footnote:[For detail security specifications on Level I/II/III security, please refer to document "`Guidelines for Security Provisions in Government Office Buildings`" published by the Security Bureau.] (Level I/II/III), B/Ds can determine all the physical environmental requirements, including security requirements prior to construction.
 
 B/Ds shall observe the physical security specifications from the Security Bureau. It is a mandatory standard for a data centre or computer room to conform to Level III security if the IT equipment involves handling of TOP SECRET/SECRET information, and Level II security if the IT equipment involves handling of CONFIDENTIAL information. Level II security is still recommended for physical facilities hosting IT equipment handling information classified as RESTRICTED or below. This requirement may be constrained by the existing office environment, building structures and/or leasing agreements for offices in non-government premises. B/Ds should evaluate the physical feasibility of the environment before building a data centre or computer room in/around its own office premise. In situations where an office premise cannot fulfil Security Regulations security level requirements, B/Ds shall obtain exemption approval from the Government Security Officer (GSO). Details about Level II security specifications are available from SBGSO or Architectural Services Department (ASD).
 
@@ -1363,7 +1363,7 @@ B/Ds shall ensure secure operations of information systems, protect the informat
 --
 Information systems should be configured to provide only essential capabilities and specifically prohibit or restrict the use of functions, ports, protocols, and/or services. The functions and services provided should be carefully reviewed to determine which functions and services are candidates for elimination. Administrators should consider disabling unused or unnecessary physical and logical ports and protocols (e.g. USB port, FTP, SSH) on information system components to prevent unauthorised connection of devices, unauthorised transfer of information, or unauthorised tunnelling.
 
-Both the least functionality principle and least privilege principle shall be adopted when performing system hardening, assigning resources and privileges and access to networks or network services. For details of least privilege principle, please refer to <<principle_of_least_privilege>> “Principle of Least Privilege”.
+Both the least functionality principle and least privilege principle shall be adopted when performing system hardening, assigning resources and privileges and access to networks or network services. For details of least privilege principle, please refer to <<principle_of_least_privilege>> "`Principle of Least Privilege`".
 --
 
 . Change Management
@@ -1681,7 +1681,7 @@ Log records should also be correlated across different repositories to identify 
 
 Most operating systems have log files. Examination of these log files on a regular basis is often the first line of defence in detecting unauthorised use of the system. The following serves as some clues for identifying unauthorised access:
 
-* Most users typically log in and out at roughly the same time each day. An account logged in outside the “normal” time for the account may be in use by an intruder.
+* Most users typically log in and out at roughly the same time each day. An account logged in outside the "`normal`" time for the account may be in use by an intruder.
 
 * Accounting records, if any, can also be used to determine usage patterns for the system; unusual accounting records may indicate unauthorised use of the system.
 
@@ -1729,7 +1729,7 @@ Successful patch management requires a robust process. This process, the patch m
 
 * Patch acquisition – select and download appropriate patches and prepare them for deployment.
 
-* Testing – perform testing to determine whether the patches contain components that conflict with other patches, key enterprise applications or even entire environment “baselines”.
+* Testing – perform testing to determine whether the patches contain components that conflict with other patches, key enterprise applications or even entire environment "`baselines`".
 
 * Risk assessment – assess the risks and impacts associated with installing the patch and identify actions to be taken. Asking questions such as will the functionality of system application be affected? Does the system require reboot after installing the patch which affects service availability?
 
@@ -1824,9 +1824,9 @@ The risks of connecting to outside networks shall be weighed against the benefit
 
 Some network protection guidelines are provided below:
 
-* Keep network simple (i.e. minimise number of network interface points between “secured” network and other network).
+* Keep network simple (i.e. minimise number of network interface points between "`secured`" network and other network).
 
-* Allow only authorised traffic to enter the “secured” network.
+* Allow only authorised traffic to enter the "`secured`" network.
 
 * Use multiple mechanisms to authenticate user (e.g. password system plus preregistered IP address and/or pre-registered MAC address).
 
@@ -1846,7 +1846,7 @@ If there is a need to participate in a wide area network, consider restricting a
 In addition, a two-tier firewall architecture should be considered to further protect mission-critical systems. In this architecture, two firewalls are used – external firewall and internal firewall. The external firewall protects a DMZ from the Internet and the internal firewall further protects the internal networks. In this design, even if external users compromised the servers in the DMZ, the internal firewall can still protect the servers/workstations in the internal networks.
 
 Other than the firewall system, considerations should also include encryption algorithms for passwords sent across networks, and a secure process identification
-system so that applications dispersed throughout a network can know “who” they are talking to.
+system so that applications dispersed throughout a network can know "`who`" they are talking to.
 
 B/Ds should implement intrusion detection strategy to detect abnormal activities or potential information security incidents. Installation of a network intrusion detection system (NIDS) or network intrusion prevention system (NIPS) on the network helps to detect if there is an attack happening on the network. An IDS monitors packets on the network wire and attempts to discover if a hacker/cracker is attempting to break into a system (or cause a denial of service attack). An alert will be sent to the IT administrator once an attack is detected by the IDS such that the system downtime and potential service impact can be minimised. IPS performs similar functions as IDS but in addition, it provides proactive response to stop the source of attacks or to minimise the impact of the attacks. Configuration of IDS and IPS require tuning of signature and recognition patterns to reduce false alarms.
 
@@ -1854,7 +1854,7 @@ B/Ds have the overall responsibility to protect data, information system and net
 
 B/Ds may consider dividing their networks into separated network domains. The domains can be chosen based on trust levels (e.g. public access domain, desktop domain, server domain). The segregation can be done by physical means or logical means (e.g. virtual private networking).
 
-The perimeter of each domain should be well defined. Access between network domains is allowed, but should be controlled at the perimeter using a gateway (e.g. firewall, filtering router). The criteria for segregation of networks into domains, and the access allowed through the gateways, should be based on an assessment of the security requirements of each domain. The assessment should be made in accordance with <<access_control>> “Access Control” on access requirements, value and classification of information processed and should also take account of the relative cost and performance impact of incorporating suitable gateway technology.
+The perimeter of each domain should be well defined. Access between network domains is allowed, but should be controlled at the perimeter using a gateway (e.g. firewall, filtering router). The criteria for segregation of networks into domains, and the access allowed through the gateways, should be based on an assessment of the security requirements of each domain. The assessment should be made in accordance with <<access_control>> "`Access Control`" on access requirements, value and classification of information processed and should also take account of the relative cost and performance impact of incorporating suitable gateway technology.
 
 Mobile devices often possess network connection capabilities. For these devices connecting to the government internal networks without proper protective measures, they can become a point to breach security such as disclosure of classified information and spreading malware into the government internal network. Users are prohibited from connecting their workstations or mobile devices to external network if these workstations or mobile devices are simultaneously connected to a government internal network, unless with the approval from the DITSO.
 
@@ -1897,7 +1897,7 @@ Wireless communications with connection to government internal network shall be 
 . Threats and Vulnerabilities of Wireless Local Area Network
 +
 --
-One characteristic of a wireless signal is that it generally fills the air within the WLAN's coverage, and can penetrate beyond building walls and windows. Thus, there is potential security risk that anyone can pick up and read such signals unless security measures have been incorporated to guard the wireless transmissions against offensive “listening”. In fact, the risks in WLAN are equal to the sum of the risks of operating a wired network plus the new risks introduced by weaknesses in wireless protocols. The following are some of the risks associated with WLAN:
+One characteristic of a wireless signal is that it generally fills the air within the WLAN's coverage, and can penetrate beyond building walls and windows. Thus, there is potential security risk that anyone can pick up and read such signals unless security measures have been incorporated to guard the wireless transmissions against offensive "`listening`". In fact, the risks in WLAN are equal to the sum of the risks of operating a wired network plus the new risks introduced by weaknesses in wireless protocols. The following are some of the risks associated with WLAN:
 
 * Malicious entities may gain unauthorised access to government internal network through wireless connections, potentially bypassing firewall protections and launch attacks.
 
@@ -2022,7 +2022,7 @@ Similar to that for CONFIDENTIAL and RESTRICTED information, proper key manageme
 . Internet Security
 +
 --
-The Internet is a world-wide “network of networks” that often uses the TCP/IP protocol suite for communication. Internet connectivity offers enormous benefits in terms of increased access to information. However, the Internet suffers from significant and widespread security problems.
+The Internet is a world-wide "`network of networks`" that often uses the TCP/IP protocol suite for communication. Internet connectivity offers enormous benefits in terms of increased access to information. However, the Internet suffers from significant and widespread security problems.
 
 The fundamental problem is that the Internet was not designed to be very secure. A number of TCP/IP services are vulnerable to security threats such as eavesdropping and spoofing. Electronic message, passwords, and file transfers can be monitored and captured using readily available software.
 
@@ -2137,7 +2137,7 @@ Available at ITG InfoStation
 --
 Network communication with external parties, such as non-government organisations (NGO), government related organisations, outsourcers or external service providers should be treated as un-trusted. B/Ds should follow relevant IT security policy when connecting to or exchanging information over communication networks with external parties. Sufficient security controls should be implemented according to the application specific requirement.
 
-Information shall be passed to external parties only on a “need to know” basis. B/Ds shall ensure that arrangement for the protections of classified information comply as far as possible with the standards adopted within the Government.
+Information shall be passed to external parties only on a "`need to know`" basis. B/Ds shall ensure that arrangement for the protections of classified information comply as far as possible with the standards adopted within the Government.
 
 Agreement on the secure transfer of classified information between a B/D and an external party shall be established and documented. Information transfer agreements with external parties should include at least the following:
 
@@ -2495,7 +2495,7 @@ To manage the delivery of outsourcing services, B/Ds should establish processes 
 . Control for Contract Expiry or Termination
 +
 --
-B/Ds shall ensure all government data in external services or facilities are cleared or destroyed according to government security requirements at expiry or termination of the service. The destruction of data shall comply with the government security requirements in accordance with its data classification. The staff of external service providers shall return all government assets in their possession upon termination of their services to the Government. The termination process shall be defined and documented. For details about information erasure and return of assets, please refer to <<information_erasure>> “Information Erasure” and <<return_of_assets>> ) “Return of Assets” respectively.
+B/Ds shall ensure all government data in external services or facilities are cleared or destroyed according to government security requirements at expiry or termination of the service. The destruction of data shall comply with the government security requirements in accordance with its data classification. The staff of external service providers shall return all government assets in their possession upon termination of their services to the Government. The termination process shall be defined and documented. For details about information erasure and return of assets, please refer to <<information_erasure>> "`Information Erasure`" and <<return_of_assets>> ) "`Return of Assets`" respectively.
 --
 
 [[security_incident_management]]
@@ -2774,7 +2774,7 @@ The following mechanisms are introduced by the Government to streamline the
 various processes of monitoring and assessing B/Ds’ information security
 compliance status:
 
-* All B/Ds are required to submit summary information of their information security risk assessments to OGCIO through a standardized proforma“Security Compliance Status Form”. The interim form should be submitted to the OGCIO within 6 months of completion of each security risk assessment to keep track of implementation of safeguards. If all safeguards are implemented within 6 months, the Security Compliance Status Form (Interim) would be treated as the Security Compliance Status Form (Final). Otherwise, The
+* All B/Ds are required to submit summary information of their information security risk assessments to OGCIO through a standardized proforma"`Security Compliance Status Form`". The interim form should be submitted to the OGCIO within 6 months of completion of each security risk assessment to keep track of implementation of safeguards. If all safeguards are implemented within 6 months, the Security Compliance Status Form (Interim) would be treated as the Security Compliance Status Form (Final). Otherwise, The
 Security Compliance Status Form (Final) should be submitted to OGCIO within 1 year of the completion of the security risk assessment;
 
 * All B/Ds are required to complete security surveys conducted periodically by OGCIO for collection of security status information. This enables an understanding of B/Ds’ plans, practices and actions related to information security. The information reveals the readiness of B/Ds in response to security policies, security threats or other security issues;
