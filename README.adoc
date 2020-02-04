@@ -1,10 +1,11 @@
 = HKSARG OGCIO InfoSec documents in Metanorma
 
 image:https://github.com/metanorma/hk-ogcio-infosec-docs/workflows/ubuntu/badge.svg["Build Status (Ubuntu)", link="https://github.com/metanorma/hk-ogcio-infosec-docs/actions?workflow=ubuntu"]
+image:https://github.com/metanorma/hk-ogcio-infosec-docs/workflows/docker/badge.svg["Build Status (docker)", link="https://github.com/metanorma/hk-ogcio-infosec-docs/actions?workflow=docker"]
 
 This document is available in its rendered forms here:
 
-* https://metanorma.github.io/hk-ogcio-infosec-docs/[OGC Policy: Technical Committee Policies and Procedures (HTML)]
+* https://metanorma.github.io/hk-ogcio-infosec-docs/[HKSARG OGCIO InfoSec documents in Metanorma (HTML)]
 
 
 == Purpose
