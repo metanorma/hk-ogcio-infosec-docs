@@ -31,7 +31,7 @@ all: documents.html
 documents:
 	mkdir -p $@
 
-documents/%.xml: documents sources/%.xml
+documents/%.xml: sources/%.xml | documents
 	cp -a sources/$*.{$(FORMATS_STRING)} documents
 
 %.xml %.html:	%.adoc | bundle
