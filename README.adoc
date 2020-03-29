@@ -1,7 +1,9 @@
 = HKSARG OGCIO InfoSec documents in Metanorma
 
-image:https://github.com/metanorma/hk-ogcio-infosec-docs/workflows/ubuntu/badge.svg["Build Status (Ubuntu)", link="https://github.com/metanorma/hk-ogcio-infosec-docs/actions?workflow=ubuntu"]
-image:https://github.com/metanorma/hk-ogcio-infosec-docs/workflows/docker/badge.svg["Build Status (docker)", link="https://github.com/metanorma/hk-ogcio-infosec-docs/actions?workflow=docker"]
+image:https://github.com/metanorma/hk-ogcio-infosec-docs/workflows/ubuntu/badge.svg["Ubuntu Build Status", link="https://github.com/metanorma/hk-ogcio-infosec-docs/actions?query=workflow%3Aubuntu"]
+image:https://github.com/metanorma/hk-ogcio-infosec-docs/workflows/macos/badge.svg["OSX Build Status", link="https://github.com/metanorma/hk-ogcio-infosec-docs/actions?query=workflow%3Amacos"]
+image:https://github.com/metanorma/hk-ogcio-infosec-docs/workflows/windows/badge.svg["Windows Build Status", link="https://github.com/metanorma/hk-ogcio-infosec-docs/actions?query=workflow%3Awindows"]
+image:https://github.com/metanorma/hk-ogcio-infosec-docs/workflows/docker/badge.svg["Docker Build Status", link="https://github.com/metanorma/hk-ogcio-infosec-docs/actions?query=workflow%3Adocker"]
 
 This document is available in its rendered forms here:
 
