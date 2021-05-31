@@ -1,8 +1,15 @@
 ---
 metanorma:
-  deploy:
-    email: "travis-ci@metanorma.org"
-relaton:
+  source:
+    files:
+      - sources/ogcio-g3.adoc
+      - sources/ogcio-ispg-sm01.adoc
+      - sources/ogcio-ispg-sm02.adoc
+      - sources/ogcio-ispg-sm03.adoc
+      - sources/ogcio-ispg-sm04.adoc
+      - sources/ogcio-ispg-so01.adoc
+      - sources/ogcio-s17.adoc
+
   collection:
     organization: "Metanorma : Standards for standards"
     name: "HK OGCIO InfoSec documents in Metanorma"
