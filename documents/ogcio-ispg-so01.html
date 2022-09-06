@@ -1,0 +1,2110 @@
+
+<!DOCTYPE html>
+<html lang="en" xml:lang="en">
+  <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><style>
+  <!--
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0; }
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  border: 0;
+  font-size: 100%; }
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, tt, var,
+b, u, i, center,
+dl, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  vertical-align: baseline; }
+
+html, body, div, span, applet, object, iframe,
+p, blockquote,
+a, abbr, acronym, address, big, cite,
+del, dfn, em, img, ins, q, s,
+small, strike, strong, sub, sup, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  font-family: "Overpass",sans-serif; }
+
+code, pre, tt, kbd, samp {
+  font-family: "Space Mono",monospace;
+  font-variant-ligatures: none; }
+
+code *, pre *, tt *, kbd *, samp * {
+  font-family: "Space Mono",monospace !important;
+  font-variant-ligatures: none; }
+
+p code, dt code, li code, label code, legend code, caption code, th code, td code,
+p tt, dt tt, li tt, label tt, legend tt, caption tt, th tt, td tt,
+p kbd, dt kbd, li kbd, label kbd, legend kbd, caption kbd, th kbd, td kbd,
+p samp, dt samp, li samp, label samp, legend samp, caption samp, th samp, td samp {
+  font-size: 0.8em; }
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Overpass",sans-serif; }
+
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: "Overpass",sans-serif; }
+
+blockquote, q {
+  quotes: none; }
+  blockquote:before, blockquote:after, q:before, q:after {
+    content: '';
+    content: none; }
+
+.h2Annex {
+  font-family: "Overpass",sans-serif; }
+
+dl {
+  display: grid;
+  grid-template-columns: max-content auto; }
+  dl dt p, dl dd p {
+    margin-top: 0; }
+  dl dt {
+    grid-column-start: 1; }
+  dl dd {
+    grid-column-start: 2; }
+
+b, strong {
+  font-weight: bold; }
+
+div.document-stage-band, div.document-type-band {
+  background-color: #333333; }
+
+a.FootnoteRef + a.FootnoteRef:before {
+  content: ", ";
+  vertical-align: super; }
+
+.addition {
+  color: blue; }
+
+.deletion {
+  color: red;
+  text-decoration: line-through; }
+
+#standard-band {
+  background-color: #3D9970; }
+
+#standard {
+  border-bottom: solid 3px #3D9970; }
+
+#abstract-specification-topic-band {
+  background-color: #3D9970; }
+
+#abstract-specification-topic {
+  border-bottom: solid 3px #3D9970; }
+
+#reference-model-band {
+  background-color: #3D9970; }
+
+#reference-model {
+  border-bottom: solid 3px #3D9970; }
+
+#best-practice-band {
+  background-color: #39CCCC; }
+
+#best-practice {
+  border-bottom: solid 3px #39CCCC; }
+
+#discussion-paper-band {
+  background-color: #39CCCC; }
+
+#discussion-paper {
+  border-bottom: solid 3px #39CCCC; }
+
+#white-paper-band {
+  background-color: #39CCCC; }
+
+#white-paper {
+  border-bottom: solid 3px #39CCCC; }
+
+#technical-paper-band {
+  background-color: #39CCCC; }
+
+#technical-paper {
+  border-bottom: solid 3px #39CCCC; }
+
+#engineering-report-band {
+  background-color: #39CCCC; }
+
+#engineering-report {
+  border-bottom: solid 3px #39CCCC; }
+
+#release-notes-band {
+  background-color: #FFDC00; }
+
+#release-notes {
+  border-bottom: solid 3px #FFDC00; }
+
+#user-guide-band {
+  background-color: #FFDC00; }
+
+#user-guide {
+  border-bottom: solid 3px #FFDC00; }
+
+#community-practice-band {
+  background-color: #FF851B; }
+
+#community-practice {
+  border-bottom: solid 3px #FF851B; }
+
+#community-standard-band {
+  background-color: #FF851B; }
+
+#community-standard {
+  border-bottom: solid 3px #FF851B; }
+
+#other-band {
+  background-color: #0074D9; }
+
+#other {
+  border-bottom: solid 3px #0074D9; }
+
+#policy-band {
+  background-color: #0074D9; }
+
+#policy {
+  border-bottom: solid 3px #0074D9; }
+
+#change-request-supporting-document-band {
+  background-color: #0074D9; }
+
+#change-request-supporting-document {
+  border-bottom: solid 3px #0074D9; }
+
+#test-suite-band {
+  background-color: #001F3F; }
+
+#test-suite {
+  border-bottom: solid 3px #001F3F; }
+
+#candidate-band {
+  background-color: #8B9EB7; }
+
+#candidate {
+  border-bottom: solid 3px #8B9EB7; }
+
+#working-draft-band {
+  background-color: #8B9EB7; }
+
+#working-draft {
+  border-bottom: solid 3px #8B9EB7; }
+
+#proposal-band {
+  background-color: #8B9EB7; }
+
+#proposal {
+  border-bottom: solid 3px #8B9EB7; }
+
+#oab-review-band {
+  background-color: #8B9EB7; }
+
+#oab-review {
+  border-bottom: solid 3px #8B9EB7; }
+
+#committee-draft-band {
+  background-color: #8B9EB7; }
+
+#committee-draft {
+  border-bottom: solid 3px #8B9EB7; }
+
+#swg-draft-band {
+  background-color: #8B9EB7; }
+
+#swg-draft {
+  border-bottom: solid 3px #8B9EB7; }
+
+#public-rfc-band {
+  background-color: #48a0e7; }
+
+#public-rfc {
+  border-bottom: solid 3px #48a0e7; }
+
+#tc-vote-band {
+  background-color: #fd06fd; }
+
+#tc-vote {
+  border-bottom: solid 3px #fd06fd; }
+
+#published-band {
+  background-color: #9abd48; }
+
+#published {
+  border-bottom: solid 3px #9abd48; }
+
+#deprecated-band {
+  background-color: #7e0d13; }
+
+#deprecated {
+  border-bottom: solid 3px #7e0d13; }
+
+#retired-band {
+  background-color: #7e0d13; }
+
+#retired {
+  border-bottom: solid 3px #7e0d13; }
+
+.coverpage-maturity, .coverpage-stage {
+  font-family: "Overpass",sans-serif;
+  font-weight: 400;
+  font-size: 1.3em;
+  margin: 0 0 2em 0;
+  text-transform: uppercase; }
+
+.icon-svg {
+  width: 100%;
+  color: #5ecf86; }
+
+.wrapper-top {
+  background: #00335b;
+  background: linear-gradient(130deg, #00335b 45%, #f1f8ff 100%);
+  color: #ffffff;
+  padding: 5em 0;
+  width: 100%; }
+
+.wrapper-top-bottom {
+  width: 0;
+  height: 0;
+  border-top: 100px solid #00335b;
+  border-right: 100px solid transparent;
+  position: absolute; }
+
+.document-type-band {
+  top: 260px; }
+
+.document-stage-band > :first-child {
+  height: 240px; }
+
+.coverpage-metadata {
+  margin-top: 35px;
+  padding-top: 15px;
+  margin-right: 25px;
+  border-top: solid 1px white; }
+
+.coverpage-metadata,
+.coverpage-alt-formats {
+  font-size: 12px;
+  font-family: "Overpass",sans-serif;
+  margin-left: 1em;
+  text-align: left; }
+  .coverpage-metadata span,
+  .coverpage-alt-formats span {
+    display: block;
+    text-align: left; }
+    .coverpage-metadata span a,
+    .coverpage-alt-formats span a {
+      color: white; }
+      .coverpage-metadata span a:hover,
+      .coverpage-alt-formats span a:hover {
+        text-decoration: underline;
+        background: none;
+        box-shadow: none !important;
+        font-weight: 400; }
+  .coverpage-metadata .value,
+  .coverpage-alt-formats .value {
+    font-size: 15px;
+    margin-bottom: 15px; }
+  .coverpage-metadata .label,
+  .coverpage-alt-formats .label {
+    font-size: 12px;
+    padding: 0; }
+
+.coverpage-alt-formats span {
+  display: inline;
+  text-align: left; }
+  .coverpage-alt-formats span a {
+    padding-right: 5px; }
+
+.coverpage-title {
+  padding-bottom: 0.5em;
+  font-family: "Overpass",sans-serif;
+  font-weight: 100;
+  padding-left: 1em;
+  padding-right: 1em; }
+  .coverpage-title span {
+    font-family: "Overpass",sans-serif;
+    font-size: 1.8em;
+    line-height: 1; }
+
+.docstage-box table {
+  width: auto; }
+
+.docstage-box th {
+  background-color: #93c0d6; }
+
+.docstage-box td {
+  vertical-align: top;
+  background-color: #daeef3;
+  padding: 0.5em;
+  border: 0; }
+
+.docstage-box th:first-child {
+  border-radius: 1em 0 0 0; }
+
+.docstage-box th:last-child {
+  border-radius: 0 1em 0 0; }
+
+.docstage-box tr:first-child {
+  border-radius: 0 0 0 1em; }
+
+.docstage-box tr:last-child {
+  border-radius: 0 1em 0 0; }
+
+.docstage-box tr:last-child > td:first-child {
+  border-radius: 0 0 0 1em; }
+
+.docstage-box tr:last-child > td:last-child {
+  border-radius: 0 0 1em 0; }
+
+.WordSection11 {
+  padding: 0 2em 0 3em; }
+
+.info-section {
+  padding: 0 2em 0 5em; }
+
+.prefatory-section {
+  padding: 0 3em 0 6em; }
+
+.zzSTDTitle1, .MsoCommentText {
+  display: none; }
+
+.coverpage {
+  text-align: center;
+  padding-left: 1.5em; }
+
+.coverpage-logo span, .coverpage-tc-name span {
+  font-family: "Overpass",sans-serif;
+  text-transform: none;
+  font-weight: 300;
+  margin-left: 1em; }
+
+.coverpage-logo img {
+  width: 500px;
+  height: auto; }
+
+.coverpage-tc-name {
+  font-size: 1.2em;
+  line-height: 1.2em;
+  margin: 0.25em 0; }
+
+.copyright {
+  padding: 1em;
+  font-size: 0.9em;
+  text-align: left; }
+
+/* Document Identity */
+.coverpage-doc-identity {
+  font-size: 2em;
+  line-height: 2em; }
+
+.coverpage-title .title-second {
+  display: none; }
+
+.coverpage-stage-block {
+  font-family: "Overpass",sans-serif;
+  font-weight: 600;
+  font-size: 1.25em;
+  margin: 2em 0em 2em 0em;
+  text-transform: uppercase; }
+
+.authors {
+  margin-top: 2em; }
+  .authors span {
+    display: block;
+    line-height: 2; }
+  .authors span.roletag {
+    display: inline-block;
+    font-size: 12px;
+    color: #00335b;
+    background-color: white;
+    padding: 2px 5px;
+    margin-left: 7px;
+    border-radius: 5px; }
+
+/* Draft Warning */
+.coverpage-warning {
+  border: #f36f36 solid 2px;
+  color: #f36f36 !important;
+  margin: 1em 2em;
+  color: #2e81c2;
+  padding: 2em 1em 1em 1em;
+  border-radius: 25px; }
+  .coverpage-warning h1 {
+    font-family: "Overpass",sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+    font-size: 1.2em; }
+
+@media print {
+  .document-info, .copyright {
+    page-break-before: always; }
+  .coverpage {
+    height: 23cm; }
+  .info-section {
+    display: none; }
+  .wrapper-top {
+    top: 0;
+    padding-top: 4cm;
+    padding-bottom: 4cm; }
+  .wrapper-top-bottom {
+    margin-top: -5px;
+    display: none; } }
+
+body {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #00335b;
+  background-color: #f6f8fa; }
+  body main {
+    margin: 0 3em 0 6em; }
+  @media screen and (min-width: 768px) {
+    body {
+      padding-left: 360px; } }
+  @media print {
+    body {
+      padding-left: 0; } }
+dl {
+  grid-template-columns: minmax(0, 1fr) 93%; }
+  dl pre {
+    overflow-x: scroll; }
+
+#toc ul, #toc > ul :is(.h1, .h2, .h3, .h4, .h5, .h6) ul {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+  #toc ul li a, #toc > ul :is(.h1, .h2, .h3, .h4, .h5, .h6) ul li a {
+    padding: 5px 10px; }
+  #toc ul a, #toc > ul :is(.h1, .h2, .h3, .h4, .h5, .h6) ul a {
+    color: #00335b;
+    text-decoration: none;
+    display: block; }
+    #toc ul a:hover, #toc > ul :is(.h1, .h2, .h3, .h4, .h5, .h6) ul a:hover {
+      box-shadow: none;
+      color: white; }
+
+#toc .h2, #toc > ul :is(.h1, .h2, .h3, .h4, .h5, .h6) .h2 {
+  padding-left: 30px; }
+
+#toc .h3, #toc > ul :is(.h1, .h2, .h3, .h4, .h5, .h6) .h3 {
+  padding-left: 50px; }
+
+#toc .toc-active, #toc li:hover, #toc > ul :is(.h1, .h2, .h3, .h4, .h5, .h6) .toc-active, #toc > ul :is(.h1, .h2, .h3, .h4, .h5, .h6) li:hover {
+  background: #00335b;
+  box-shadow: inset -5px 0px 10px -5px #00335b !important; }
+  #toc .toc-active a, #toc li:hover a, #toc > ul :is(.h1, .h2, .h3, .h4, .h5, .h6) .toc-active a, #toc > ul :is(.h1, .h2, .h3, .h4, .h5, .h6) li:hover a {
+    color: white; }
+
+@media print {
+  #toc .toc-active, #toc li:hover, #toc > ul :is(.h1, .h2, .h3, .h4, .h5, .h6) .toc-active, #toc > ul :is(.h1, .h2, .h3, .h4, .h5, .h6) li:hover {
+    background: white;
+    box-shadow: none !important; }
+  #toc .toc-active a, #toc > ul :is(.h1, .h2, .h3, .h4, .h5, .h6) .toc-active a {
+    color: #00335b; }
+  #toc li:hover a, #toc > ul :is(.h1, .h2, .h3, .h4, .h5, .h6) li:hover a {
+    color: black; } }
+
+#toc li a, #toc > ul :is(.h1, .h2, .h3, .h4, .h5, .h6) li a {
+  font-size: 14px; }
+
+#toc li:before, #toc > ul :is(.h1, .h2, .h3, .h4, .h5, .h6) li:before {
+  content: " ";
+  display: none; }
+
+#toc .toc-active, #toc li:hover, #toc > ul :is(.h1, .h2, .h3, .h4, .h5, .h6) .toc-active, #toc > ul :is(.h1, .h2, .h3, .h4, .h5, .h6) li:hover {
+  font-weight: 600; }
+
+#toc li:hover a, #toc > ul :is(.h1, .h2, .h3, .h4, .h5, .h6) li:hover a {
+  background: none;
+  box-shadow: none; }
+
+#toc > ul :is(.h1, .h2, .h3, .h4, .h5, .h6) {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 100%; }
+
+@media screen and (min-width: 768px) {
+  nav {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 323px;
+    font-size: 0.9em;
+    overflow: auto;
+    padding: 0 0 0 45px;
+    background-color: #f1f8ff; } }
+
+@media print {
+  nav {
+    position: relative;
+    width: auto;
+    font-size: 0.9em;
+    overflow: auto;
+    padding: 0;
+    margin-right: 0;
+    background-color: white; } }
+
+@media screen and (min-width: 768px) {
+  nav {
+    marign-right: 30px; } }
+
+@media screen and (min-width: 768px) {
+  #toggle {
+    position: fixed;
+    height: 100%;
+    width: 30px;
+    background-color: #00335b;
+    color: white !important;
+    cursor: pointer;
+    z-index: 100; }
+    #toggle span {
+      text-align: center;
+      width: 100%;
+      position: absolute;
+      top: 50%;
+      transform: translate(0, -50%); } }
+
+@media screen and (max-width: 768px) {
+  #toggle {
+    display: none; } }
+
+@media print {
+  #toggle {
+    display: none; } }
+
+.rule {
+  width: 100%;
+  height: 1px;
+  background-color: #00335b;
+  margin: 2em 0; }
+  @media screen and (min-width: 768px) {
+    .rule.toc {
+      display: none; } }
+@media screen and (min-width: 768px) {
+  h1.toc-contents {
+    margin-top: 1em; }
+  ul#toc-list, ul#toc-list > :is(.h1, .h2, .h3, .h4, .h5, .h6) {
+    padding: 0;
+    margin: 0; } }
+
+#toc-list ul {
+  margin-bottom: 0.25em; }
+
+#toc-list li {
+  list-style-type: none; }
+
+.figure {
+  line-height: 1.6em;
+  padding: 1.5em;
+  margin: 2em 0 1em 0;
+  overflow: auto; }
+  .figure .FigureTitle, .figure .figure-title {
+    font-weight: 700;
+    font-size: 1em;
+    text-align: center; }
+  .figure > img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    max-width: 100%;
+    height: auto; }
+
+.document-stage-band {
+  left: 0;
+  top: 0;
+  height: 100%;
+  position: fixed;
+  display: block;
+  z-index: 101;
+  box-shadow: -5px 0px 10px #1d1d1d; }
+  .document-stage-band > :first-child {
+    position: relative;
+    width: 25px;
+    font-weight: 300;
+    height: 160px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 0.9em;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    margin: 0;
+    margin-left: 6px;
+    writing-mode: tb-rl;
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    white-space: nowrap;
+    display: block;
+    bottom: 0; }
+  @media print {
+    .document-stage-band {
+      display: none; } }
+.document-type-band {
+  left: 0;
+  top: 180px;
+  height: 100%;
+  position: fixed;
+  display: block;
+  z-index: 102; }
+  .document-type-band > :first-child {
+    position: relative;
+    width: 25px;
+    font-weight: 400;
+    color: white;
+    text-transform: uppercase;
+    font-size: 0.9em;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    margin: 0;
+    margin-left: 6px;
+    writing-mode: tb-rl;
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    white-space: nowrap;
+    display: block;
+    bottom: 0; }
+  @media print {
+    .document-type-band {
+      display: none; } }
+  .document-type-band .document-type {
+    top: 20px; }
+
+#governance-band p.document-type {
+  font-weight: 400;
+  height: 230px !important; }
+
+#standard-band p {
+  height: 135px; }
+
+#proposal-band p {
+  height: 150px; }
+
+#standard-band,
+#published-band {
+  color: #7ba812; }
+
+#standard,
+#published {
+  color: #9ABD48; }
+
+p {
+  margin-top: 1em;
+  margin-bottom: 1em; }
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  color: #00335b;
+  font-weight: 400;
+  margin-top: 1.6em;
+  margin-bottom: 0.3em; }
+
+h1, .h1 {
+  font-size: 1.8em;
+  text-transform: uppercase;
+  margin-top: 2em; }
+  h1 #content, .h1 #content {
+    margin-top: 2em; }
+
+h2, .h2 {
+  margin-top: 1.3em;
+  font-size: 1.7em;
+  font-weight: 300; }
+  h2 p, .h2 p {
+    display: inline; }
+
+h3, .h3 {
+  margin-top: 1.3em;
+  font-size: 1.5em;
+  font-weight: 100; }
+
+h4, .h4 {
+  font-size: 1.4em; }
+
+.contact-info {
+  padding: 2em;
+  margin-top: 5em;
+  width: 280px;
+  text-align: left;
+  border: #00335b solid 2px;
+  color: #00335b !important;
+  border-radius: 25px; }
+  .contact-info a:hover {
+    text-decoration: underline;
+    background: none;
+    box-shadow: 0 0 0 0; }
+  .contact-info a, .contact-info a:hover {
+    color: #00335b; }
+  .contact-info p, .contact-info a {
+    font-family: "Space Mono",monospace;
+    font-variant-ligatures: none;
+    font-weight: 400; }
+  .contact-info #boilerplate-name {
+    font-weight: 700;
+    font-size: 1.2em;
+    margin-bottom: 0; }
+  .contact-info #boilerplate-address {
+    font-size: 1em;
+    line-height: 1.3em;
+    margin-top: 0; }
+
+ul, ol {
+  margin-left: 1.2em; }
+
+ul > li {
+  list-style: none; }
+  ul > li:before {
+    content: "\2014";
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em; }
+  ul > li p:first-child {
+    display: inline; }
+  ul > li:first-child {
+    margin-top: 1em; }
+
+ul ul > li:first-child {
+  margin-top: 0; }
+
+ol ul > li:first-child {
+  margin-top: 0; }
+
+span.keyword {
+  font-weight: 600; }
+
+/* Tables */
+table {
+  width: 100%;
+  font-weight: 300;
+  margin: 1em 0 2em 0;
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: 2em;
+  /*color: #010d16;*/ }
+  table, table th, table td {
+    border: 1px solid black;
+    font-size: 0.95em; }
+  table th, table td {
+    padding: 1em; }
+  table td.header {
+    font-weigth: 400; }
+  table thead tr th {
+    background-color: #5d99d6; }
+  table td, table th {
+    padding: 1em; }
+  table td.header {
+    font-weight: 400; }
+
+.docstage-box table,
+.docstage-box table th,
+.docstage-box table td {
+  border: none; }
+
+table.recommendtest {
+  width: 100%;
+  font-weight: 300;
+  margin: 1em 0 2em 0;
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: 2em;
+  color: #010d16; }
+  table.recommendtest, table.recommendtest th, table.recommendtest td {
+    border: none !important;
+    font-size: 0.95em; }
+  table.recommendtest th, table.recommendtest td {
+    padding: 1em; }
+  table.recommendtest td.header {
+    font-weigth: 400; }
+  table.recommendtest tr:nth-child(even) {
+    background: #ffffff; }
+  table.recommendtest tr:nth-child(odd) {
+    background: #ffffff; }
+  table.recommendtest thead tr th {
+    background-color: #5d99d6; }
+  table.recommendtest td, table.recommendtest th {
+    padding: 1em; }
+  table.recommendtest td.header {
+    font-weight: 400; }
+
+td > p:first-child, th > p:first-child {
+  margin-top: 0em; }
+
+td > p:last-child, th > p:last-child {
+  margin-bottom: 0em; }
+
+p.TableTitle {
+  text-align: center;
+  margin-top: 2.5em;
+  font-weight: 400; }
+
+/* Terms */
+.TermNum {
+  font-weight: 300; }
+
+.TermNum, .Terms, .AltTerms {
+  color: #00335b;
+  font-family: "Overpass",sans-serif; }
+
+h2.TermNum {
+  margin-bottom: 0; }
+
+p.AltTerms {
+  font-size: 24px;
+  margin-top: 1em; }
+
+span.AdmittedLabel {
+  color: #00335b;
+  background-color: #CFE2F3;
+  font-size: 70%;
+  vertical-align: top; }
+
+/* Links, selection */
+a, a:visited {
+  text-decoration: none;
+  color: #2e81c2; }
+
+a:hover {
+  color: #00335b;
+  background: white;
+  box-shadow: 3px 0 0 white, -3px 0 0 white; }
+
+::selection,
+::-moz-selection {
+  background: white;
+  color: #00335b; }
+
+/* Bibliograhy */
+p.Biblio, p.NormRef {
+  margin-top: 1em;
+  margin-left: 2em; }
+
+/* Blocks */
+.SourceTitle {
+  font-weight: 700;
+  font-size: 1em;
+  text-align: center; }
+
+.ListTitle {
+  font-weight: 700;
+  font-size: 1em;
+  text-align: center;
+  text-align: left; }
+
+pre {
+  font-family: "Space Mono",monospace;
+  font-variant-ligatures: none;
+  background-color: #f7f7f7;
+  font-size: 0.8em;
+  line-height: 1.6em;
+  padding: 1.5em;
+  margin: 2em 0 1em 0;
+  overflow-y: auto;
+  overflow-x: scroll;
+  font-family: "Space Mono",monospace;
+  font-variant-ligatures: none; }
+
+.Admonition {
+  padding: 1em 1.2em 1.2em 1.2em;
+  margin: 1em 0 1em 0;
+  background-color: #fcad88;
+  border-top: 10px solid #eb5a06;
+  color: #290404; }
+  .Admonition .AdmonitionTitle {
+    font-weight: 700;
+    font-size: 1em;
+    text-align: center; }
+  .Admonition.Important {
+    background-color: #f58cff;
+    color: #5d1364;
+    border-top: 10px solid #9503a8; }
+  .Admonition.Warning {
+    background-color: #ff989d;
+    color: #270204;
+    border-top: 10px solid #e4010c; }
+  .Admonition p, .Admonition.Important p, .Admonition.Warning p {
+    margin: 0; }
+
+.figure, pre, .pseudocode {
+  background-color: #e1eef1;
+  color: #424242;
+  font-size: 0.8em; }
+
+.Note {
+  background-color: #fff8bb;
+  color: #7d760b;
+  padding: 1.2em;
+  margin: 1em 0 1em 0; }
+  .Note p {
+    margin: 0; }
+
+.example {
+  background-color: #e1eef1;
+  color: #424242;
+  padding: 1.2em;
+  margin: 2em 0 1em 0;
+  padding-left: 2em; }
+  .example .example-title {
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-left: -1.5em; }
+  .example pre, .example .pseudocode {
+    background: none; }
+
+.Quote {
+  background-color: #e1eef1;
+  font-style: italic;
+  width: 80%;
+  padding: 1.5em;
+  margin-top: 2em;
+  margin-left: auto;
+  margin-right: auto; }
+
+.formula {
+  background-color: #f6f6f6;
+  padding: 1.5em;
+  margin-top: 2em;
+  text-align: center; }
+
+.recommend .RecommendationTitle, .recommendtest .RecommendationTitle {
+  font-weight: 700;
+  font-size: 1em;
+  text-align: center; }
+
+.require .RecommendationTitle, .requiretest .RecommendationTitle {
+  font-weight: 700;
+  font-size: 1em;
+  text-align: center; }
+
+.permission .RecommendationTitle, .permissiontest .RecommendationTitle {
+  font-weight: 700;
+  font-size: 1em;
+  text-align: center; }
+
+.RecommendationTestTitle {
+  font-weight: 700;
+  font-size: 1em;
+  text-align: center; }
+
+/*
+.recommend {
+  &, .example_label {
+    background-color: #f8ffbd;
+  }
+  .example_label {
+    font-weight: bold;
+  }
+}
+
+.permission {
+  &, .example_label {
+    background-color: #cdfdbe;
+  }
+  .example_label {
+    font-weight: bold;
+  }
+}
+
+.require {
+  &, .example_label {
+    background-color: #d3e6ff;
+  }
+  .example_label {
+    font-weight: bold;
+  }
+}
+*/
+.recommend .RecommendationTitle {
+  font-weight: 700;
+  font-size: 1em;
+  text-align: center; }
+
+.require .RecommendationTitle {
+  font-weight: 700;
+  font-size: 1em;
+  text-align: center; }
+
+.permission .RecommendationTitle {
+  font-weight: 700;
+  font-size: 1em;
+  text-align: center; }
+
+tbody td.recommend p.RecommendationTitle, tbody td.recommend p.RecommendationTitle, tbody td.recommend p.RecommendationTitle {
+  font-weight: normal;
+  text-align: left; }
+
+#myBtn {
+  font-family: "Space Mono",monospace;
+  font-variant-ligatures: none;
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 12px;
+  border: none;
+  outline: none;
+  background-color: #00335b;
+  opacity: 0.15;
+  color: white;
+  cursor: pointer;
+  padding: 10px 15px 10px 15px;
+  border-radius: 4px; }
+  #myBtn:hover {
+    opacity: 1; }
+  @media print {
+    #myBtn {
+      display: none; } }
+a.anchorjs-link:hover {
+  background: none;
+  color: #2e81c2;
+  box-shadow: none; }
+
+@page {
+  margin: 2cm 1cm; }
+
+@media print {
+  h1, h2, h3, h4, .h1, .h2, .h3, .h4 {
+    page-break-after: avoid;
+    margin-top: 1.2em; }
+  h1, .h1 {
+    font-size: 1.5em;
+    line-height: 1.5; }
+    h1.content, .h1.content {
+      margin-top: 2em;
+      line-height: 2.5em; }
+  h2, .h2 {
+    font-size: 1.2em; }
+  h3, .h3 {
+    font-size: 1em; }
+  .prefatory-section {
+    page-break-before: always; }
+  .note, .pseudocode {
+    page-break-inside: avoid; }
+  .Note {
+    background-color: #fff495;
+    color: #47430c;
+    padding: 5px;
+    margin: 2em 0 1em 0; }
+    .Note p {
+      padding: 0 5px 0 5px; }
+  nav {
+    line-height: 1; } }
+
+/* Footnotes */
+a.footnote-number {
+  vertical-align: super;
+  font-size: 0.8em; }
+
+.footnote {
+  font-size: 0.9em; }
+
+span.hi {
+  background-color: yellow; }
+
+-->
+</style><title>Practice Guide for Securing Network Printers in the Offices</title>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<!--TOC script import-->
+<script type="text/javascript" src="https://cdn.rawgit.com/jgallen23/toc/0.3.2/dist/toc.min.js"></script>
+<script type="text/javascript">function toclevel() { return "h1:not(:empty):not(.TermNum):not(.noTOC),h2:not(:empty):not(.TermNum):not(.noTOC)";}
+</script>
+
+<!--Google fonts-->
+<link rel="preconnect" href="https://fonts.gstatic.com"> 
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i|Space+Mono:400,700" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=Overpass:300,300i,600,900" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Teko:300,400,500" rel="stylesheet">
+
+<!--Font awesome import for the link icon-->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/solid.css" integrity="sha384-v2Tw72dyUXeU3y4aM2Y0tBJQkGfplr39mxZqlTBDUZAb9BGoC40+rdFCG0m10lXk" crossorigin="anonymous">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/fontawesome.css" integrity="sha384-q3jl8XQu1OpdLgGFvNRnPdj5VIlCvgsDQTQB6owSOHWlAurxul7f+JpUOVdAiJ5P" crossorigin="anonymous">
+<style class="anchorjs"></style>
+</link></link></link></link></link></head>
+  <body lang="EN-US" link="blue" vlink="#954F72" xml:lang="EN-US" class="container">
+    <div class="title-section"><div class="document-stage-band" id="approved-band">
+    <p class="document-stage">Approved</p>
+</div>
+
+<div class="document-type-band" id="standard-band">
+    <p class="document-type">OGC Standard</p>
+</div>
+
+
+
+  <div id="toggle"> <span>&#x2022;</span> </div>
+
+  <header>
+
+<!--<div class="WordSection1">-->
+  <div class="coverpage">
+    <div class="wrapper-top">
+
+  <div class="coverpage-doc-identity">
+
+    <div class="coverpage-title">
+      <span class="title-first">Practice Guide for Securing Network Printers in the Offices</span>
+      <!--<span class="title-second"></span>-->
+    </div>
+  </div>
+
+  <div class="coverpage-logo">
+    <span><img src="data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMTUxMS42NSA1MDYuNzYiPjxkZWZzPjxzdHlsZT4uY2xzLTF7ZmlsbDpub25lO30uY2xzLTJ7Y2xpcC1wYXRoOnVybCgjY2xpcC1wYXRoKTt9LmNscy0ze2ZpbGw6IzAwYjFmZjt9PC9zdHlsZT48Y2xpcFBhdGggaWQ9ImNsaXAtcGF0aCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTIwNC4xNyAtMjM1Ljc2KSI+PHJlY3QgY2xhc3M9ImNscy0xIiB3aWR0aD0iMTkyMCIgaGVpZ2h0PSI5NzguMjUiLz48L2NsaXBQYXRoPjwvZGVmcz48ZyBpZD0iQmx1ZV9Ib3Jpem9udGFsX0xvY2t1cCIgZGF0YS1uYW1lPSJCbHVlIEhvcml6b250YWwgTG9ja3VwIj48ZyBjbGFzcz0iY2xzLTIiPjxwb2x5Z29uIGNsYXNzPSJjbHMtMyIgcG9pbnRzPSIyMDQuMDcgMzY1LjI3IDIwNC4wNyA1MDYuNzMgMC4wMSAzODguOTEgMCAxNTMuMTUgMjA0LjA3IDI3MC45NyAyMDQuMDcgMzE4LjExIDE2My4zNCAyOTQuNjEgMTQyLjkzIDI4Mi44MiAxNDIuOTIgMjgyLjgyIDQwLjg0IDIyMy44OCA0MC44NCAzNjUuMzMgMTYzLjM0IDQzNi4wNiAxNjMuMzQgMzg4LjkxIDEwMi4wOSAzNTMuNTUgMTAyLjA5IDMyOS45NyAxMDIuMDkgMzA2LjQgMjA0LjA3IDM2NS4yNyIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTQyOC42OCwyMzUuNzYsMjI0LjUsMzUzLjY0LDQyOC42OCw0NzEuNTIsNjMyLjg1LDM1My42NFptMCwxODguNjFMMzA2LjE3LDM1My42NGwxMjIuNTItNzAuNzMsMTIyLjQ5LDcwLjczLTIwLjQxLDExLjc5WiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTIwNC4xNyAtMjM1Ljc2KSIvPjxwb2x5Z29uIGNsYXNzPSJjbHMtMyIgcG9pbnRzPSIzMjYuNzggMjcwLjQgMzY3LjYyIDI0Ni44MyA0MDguNDUgMjIzLjI1IDQwOC40NiAyNzAuNCA0NDkuMTggMjQ2Ljg5IDQ0OS4xOCAxNTMuMTIgMjQ1LjEyIDI3MC45NCAyNDUuMTIgMzE3LjU1IDI0NS4xMiAzMTcuNTUgMjQ1LjEyIDMzMS42MyAyNDUuMTIgNTA2LjE3IDI0NS4wMSA1MDYuMTEgMjQ1LjAxIDUwNi43NiA0NDkuMTggMzg4Ljg4IDQ0OS4xOCAyOTQuMDQgNDA4LjQ2IDMxNy41NiA0MDguNDYgMzY0LjcxIDI4NS45NSA0MzUuNDQgMjg1Ljk2IDI5My45OCAzMjYuNzggMjcwLjQiLz48ZyBjbGFzcz0iY2xzLTIiPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTg4MC41NywzOTguMTdjLTMyLjgxLDAtNTctMjQuMDYtNTctNTYuMDVzMjQuMi01Ni4wNSw1Ny01Ni4wNSw1Ni45MSwyNCw1Ni45MSw1Ni4wNS0yNC4xNSw1Ni4wNi01Ni45MSw1Ni4wNlptMzguODctNTYuMDVjMC0yMi4zLTE2LjU5LTM5LTM4Ljg3LTM5cy0zOSwxNi44NC0zOSwzOSwxNi42OSwzOSwzOSwzOSwzOC44Ny0xNi42OSwzOC44Ny0zOSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTIwNC4xNyAtMjM1Ljc2KSIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTEwMDAuNDgsMzEwLjc2YzI0Ljk0LDAsNDMuMTgsMTguNjIsNDMuMTgsNDMuNzFzLTE4LjI0LDQzLjc1LTQzLjE4LDQzLjc1YTQxLjY3LDQxLjY3LDAsMCwxLTI3LjY3LTEwLjA5VjQyNkg5NTUuNjdWMzEyLjhoMTEuNTVMOTcwLjQ0LDMyM2E0MS41LDQxLjUsMCwwLDEsMzAtMTIuMjZabTI1Ljg0LDQzLjcxYzAtMTUuNzEtMTEuNDctMjcuMzUtMjcuMTktMjcuMzVzLTI3LjMsMTEuNzUtMjcuMywyNy4zNSwxMS41OSwyNy4zNSwyNy4zLDI3LjM1LDI3LjE5LTExLjY0LDI3LjE5LTI3LjM1IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMjA0LjE3IC0yMzUuNzYpIi8+PHBhdGggY2xhc3M9ImNscy0zIiBkPSJNMTE0MS4xOSwzNTQuNjdhNTYuMTUsNTYuMTUsMCwwLDEtLjM1LDUuNjNoLTY3LjY1YzIuMTQsMTMuNSwxMS44NiwyMS44MSwyNS41MSwyMS44MSwxMCwwLDE4LTQuNjEsMjIuNDItMTIuMjFoMThjLTYuNjMsMTcuNi0yMS44NSwyOC4yOC00MC40NiwyOC4yOC0yNC4zNywwLTQyLjgzLTE4LjgxLTQyLjgzLTQzLjcxczE4LjQyLTQzLjcsNDIuODMtNDMuN2MyNS41MSwwLDQyLjQ5LDE5LjY0LDQyLjQ5LDQzLjlabS02Ny41OC04LjNIMTEyNGMtMy4wOC0xMi42Ni0xMi42Mi0yMC4xMy0yNS4zMS0yMC4xMy0xMi44OSwwLTIyLjI4LDcuNzctMjUuMDksMjAuMTMiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0yMDQuMTcgLTIzNS43NikiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik0xMjAzLjUsMzEwLjljMTkuNDksMCwzMS42NiwxNC41MywzMS42NiwzNS4wNnY1MC4xOUgxMjE4VjM0OS40NGMwLTE1LjE0LTYuNTktMjMuMTgtMTkuMTItMjMuMTgtMTMuMSwwLTIyLjM5LDEwLjU0LTIyLjM5LDI1LjI2djQ0LjYzaC0xNy4xNFYzMTIuOGgxMS45NWwzLjMyLDExLjYzYzYuMzEtOC40MSwxNi42MS0xMy41MywyOC44NS0xMy41M1oiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0yMDQuMTcgLTIzNS43NikiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik05MzMuNDUsNDkwLjJjLS40NCwzMy4xMi0yMi44LDU2Ljg5LTU0LjU0LDU2Ljg5cy01NS4zLTIzLjctNTUuMy01NiwyMy4yOS01Niw1NC45NS01NmMyNi4zNSwwLDQ4LjQsMTYuNTksNTMuMjgsNDAuMUg5MTMuNTZjLTQuNjMtMTMuODktMTguMzYtMjIuOTQtMzQuNjUtMjIuOTQtMjEuODQsMC0zNy4yNiwxNi0zNy4yNiwzOC44M3MxNSwzOC44NiwzNy4yNiwzOC44NmMxNy4yNSwwLDMxLjI3LTkuNzUsMzUuMzEtMjQuNDNIODc1LjdWNDkwLjE5WiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTIwNC4xNyAtMjM1Ljc2KSIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTEwMzEuMzEsNTAzLjU4YTUzLjE5LDUzLjE5LDAsMCwxLS4zNiw1LjYzSDk2My4zYzIuMTQsMTMuNTEsMTEuODcsMjEuODEsMjUuNTEsMjEuODEsMTAsMCwxOC00LjYsMjIuNDMtMTIuMmgxOGMtNi42NCwxNy41OS0yMS44NSwyOC4yNy00MC40NiwyOC4yNy0yNC4zNywwLTQyLjgzLTE4LjgxLTQyLjgzLTQzLjdzMTguNDItNDMuNzEsNDIuODMtNDMuNzFjMjUuNSwwLDQyLjQ5LDE5LjY1LDQyLjQ5LDQzLjlabS02Ny41OC04LjI5aDUwLjRjLTMuMDgtMTIuNjYtMTIuNjItMjAuMTQtMjUuMzItMjAuMTQtMTIuODgsMC0yMi4yNyw3Ljc4LTI1LjA4LDIwLjE0IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMjA0LjE3IC0yMzUuNzYpIi8+PHBhdGggY2xhc3M9ImNscy0zIiBkPSJNMTA4Ny45NCw1NDcuMDljLTI1LjQ5LDAtNDQuNTYtMTguNjUtNDQuNTYtNDMuNzFzMTkuMDctNDMuNyw0NC41Ni00My43LDQ0LjU2LDE4LjYxLDQ0LjU2LDQzLjcxUzExMTMuMzksNTQ3LjA5LDEwODcuOTQsNTQ3LjA5Wm0yNy4xMi00My43MWMwLTE1Ljk1LTExLjM0LTI3LjM0LTI3LjEyLTI3LjM0cy0yNy4xMiwxMS4zOS0yNy4xMiwyNy4zNCwxMS4zNCwyNy4zNSwyNy4xMiwyNy4zNSwyNy4xMi0xMS4zOSwyNy4xMi0yNy4zNSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTIwNC4xNyAtMjM1Ljc2KSIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTExNDQuNDQsNTE4LjZoMTYuNzRjLjQ0LDguODEsNy44NCwxMy40MSwxNy44OCwxMy40MSw5LjIxLDAsMTYuMjgtMy44OSwxNi4yOC0xMC44NiwwLTcuOS04Ljk0LTkuNzEtMTkuMTUtMTEuNDMtMTMuODktMi4zOC0zMC4yNS01LjUzLTMwLjI1LTI0Ljg1LDAtMTQuOTUsMTIuOTItMjUuMTksMzIuMzEtMjUuMTlzMzEuOTMsMTAuNTQsMzIuMjYsMjYuNzFoLTE2LjIyYy0uMzMtNy45My02LjM3LTEyLjE5LTE2LjQ0LTEyLjE5LTkuNDcsMC0xNS4zMyw0LTE1LjMzLDEwLjEyLDAsNy4zNSw4LjUsOC44MSwxOC41NiwxMC40NiwxNC4wOCwyLjM2LDMxLjE5LDUuMDcsMzEuMTksMjUuNjIsMCwxNi4xOS0xMy40OSwyNi42OS0zMy44LDI2LjY5cy0zMy41OS0xMS4yLTM0LTI4LjQ5IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMjA0LjE3IC0yMzUuNzYpIi8+PHBhdGggY2xhc3M9ImNscy0zIiBkPSJNMTI3NS40OSw0NTkuNjhjMjQuOTQsMCw0My4xOCwxOC42MSw0My4xOCw0My43MXMtMTguMjQsNDMuNzUtNDMuMTgsNDMuNzVhNDEuNjUsNDEuNjUsMCwwLDEtMjcuNjctMTAuMXYzNy45aC0xNy4xNFY0NjEuNzFoMTEuNTVsMy4yMiwxMC4yNGE0MS40OCw0MS40OCwwLDAsMSwzMC0xMi4yN1ptMjUuODUsNDMuN2MwLTE1LjcxLTExLjQ4LTI3LjM0LTI3LjE5LTI3LjM0cy0yNy4zMSwxMS43NC0yNy4zMSwyNy4zNCwxMS41OSwyNy4zNSwyNy4zMSwyNy4zNSwyNy4xOS0xMS42MywyNy4xOS0yNy4zNSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTIwNC4xNyAtMjM1Ljc2KSIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE0MjAsNDYxLjY3VjU0NWgtMTMuODJsLTEuNjctMTAuMTRhNDEuODQsNDEuODQsMCwwLDEtMzAuMjIsMTIuMjFjLTI0Ljg0LDAtNDMuNC0xOC43Ni00My40LTQzLjc1czE4LjU2LTQzLjY2LDQzLjQtNDMuNjZjMTIuMjgsMCwyMi45MSw0LjY0LDMwLjQ4LDEyLjQxbDItMTAuNDJabS0xNy4xOCw0MS42N2MwLTE1LjcxLTExLjQ4LTI3LjM0LTI3LjE5LTI3LjM0cy0yNy4zLDExLjc0LTI3LjMsMjcuMzQsMTEuNTksMjcuMzUsMjcuMywyNy4zNSwyNy4xOS0xMS42NCwyNy4xOS0yNy4zNSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTIwNC4xNyAtMjM1Ljc2KSIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE0OTEuMDgsNTI5LjV2MTUuNTZoLTEyLjczYy0xOC4yNiwwLTI5LjUzLTExLjI2LTI5LjUzLTI5LjY4di0zOWgtMTQuOTF2LTMuMzJsMjktMzAuODJoMi45MXYxOS40NmgyNC44djE0LjY4SDE0NjZWNTE0YzAsOS45Myw1LjUzLDE1LjQ3LDE1LjYzLDE1LjQ3WiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTIwNC4xNyAtMjM1Ljc2KSIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE1MDcuNDIsNDMxLjEyaDE3Ljd2MTcuNjdoLTE3LjdabS4yOCwzMC41OWgxNy4xNHY4My4zNUgxNTA3LjdaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMjA0LjE3IC0yMzUuNzYpIi8+PHBhdGggY2xhc3M9ImNscy0zIiBkPSJNMTYzMi4yLDQ2MS42N1Y1NDVoLTEzLjgybC0xLjY3LTEwLjE0YTQxLjg0LDQxLjg0LDAsMCwxLTMwLjIyLDEyLjIxYy0yNC44MywwLTQzLjQtMTguNzYtNDMuNC00My43NXMxOC41Ny00My42Niw0My40LTQzLjY2YzEyLjI4LDAsMjIuOTEsNC42NCwzMC40OCwxMi40MWwyLTEwLjQyWk0xNjE1LDUwMy4zNGMwLTE1LjcxLTExLjQ4LTI3LjM0LTI3LjE5LTI3LjM0cy0yNy4zLDExLjc0LTI3LjMsMjcuMzQsMTEuNTksMjcuMzUsMjcuMywyNy4zNVMxNjE1LDUxOS4wNSwxNjE1LDUwMy4zNCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTIwNC4xNyAtMjM1Ljc2KSIvPjxyZWN0IGNsYXNzPSJjbHMtMyIgeD0iMTQ1Mi40NSIgeT0iMTk2LjA4IiB3aWR0aD0iMTcuMTQiIGhlaWdodD0iMTEzLjIzIi8+PHBhdGggY2xhc3M9ImNscy0zIiBkPSJNODIzLjYxLDY0MGMwLTMyLjMzLDIzLjU3LTU2LDU1LjU0LTU2LDI1LjU2LDAsNDYuMDUsMTUuOTMsNTEuNzIsNDAuMjVoLTE4Yy01LjE2LTE0LjM5LTE3Ljc3LTIzLjA5LTMzLjc3LTIzLjA5LTIxLjY0LDAtMzcuNSwxNi4yOC0zNy41LDM4LjgzczE1Ljg2LDM4Ljc0LDM3LjUsMzguNzRjMTYuNTEsMCwyOS4yNy05LjMyLDM0LjE0LTI0LjY0aDE4Yy01LjYxLDI1LjQxLTI2LjEsNDEuOC01Mi4xMyw0MS44LTMyLDAtNTUuNTQtMjMuNjYtNTUuNTQtNTUuOSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTIwNC4xNyAtMjM1Ljc2KSIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTk4Ni44Niw2OTZjLTI1LjUsMC00NC41Ny0xOC42Ni00NC41Ny00My43MXMxOS4wNy00My43MSw0NC41Ny00My43MSw0NC41NiwxOC42Miw0NC41Niw0My43MVMxMDEyLjMsNjk2LDk4Ni44Niw2OTZaTTEwMTQsNjUyLjNjMC0xNS45NS0xMS4zNS0yNy4zNS0yNy4xMi0yNy4zNXMtMjcuMTMsMTEuNC0yNy4xMywyNy4zNSwxMS4zNSwyNy4zNSwyNy4xMywyNy4zNVMxMDE0LDY2OC4yNSwxMDE0LDY1Mi4zIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMjA0LjE3IC0yMzUuNzYpIi8+PHBhdGggY2xhc3M9ImNscy0zIiBkPSJNMTA5My43Nyw2MDguNzNjMTkuNDksMCwzMS42NiwxNC41MywzMS42NiwzNS4wNlY2OTRIMTEwOC4zVjY0Ny4yN2MwLTE1LjEzLTYuNTktMjMuMTgtMTkuMTItMjMuMTgtMTMuMSwwLTIyLjM5LDEwLjU0LTIyLjM5LDI1LjI2VjY5NGgtMTcuMTRWNjEwLjYzaDExLjk1bDMuMzMsMTEuNjNjNi4zLTguNDEsMTYuNi0xMy41MywyOC44NC0xMy41M1oiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0yMDQuMTcgLTIzNS43NikiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik0xMTQyLjQzLDY2Ny41MWgxNi43NGMuNDQsOC44Miw3Ljg0LDEzLjQyLDE3Ljg5LDEzLjQyLDkuMiwwLDE2LjI3LTMuOSwxNi4yNy0xMC44NiwwLTcuOTEtOC45NC05LjcyLTE5LjE1LTExLjQzLTEzLjg4LTIuMzgtMzAuMjUtNS41NC0zMC4yNS0yNC44NiwwLTE0Ljk1LDEyLjkzLTI1LjE4LDMyLjMxLTI1LjE4czMxLjk0LDEwLjU0LDMyLjI3LDI2LjdoLTE2LjIzYy0uMzMtNy45My02LjM3LTEyLjE4LTE2LjQ0LTEyLjE4LTkuNDcsMC0xNS4zMyw0LTE1LjMzLDEwLjExLDAsNy4zNiw4LjUxLDguODEsMTguNTYsMTAuNDcsMTQuMDksMi4zNSwzMS4yLDUuMDcsMzEuMiwyNS42MiwwLDE2LjE5LTEzLjUsMjYuNjktMzMuODEsMjYuNjlzLTMzLjU5LTExLjIxLTM0LTI4LjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0yMDQuMTcgLTIzNS43NikiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik0xMjY3LjEyLDY5NmMtMjUuNSwwLTQ0LjU3LTE4LjY2LTQ0LjU3LTQzLjcxczE5LjA3LTQzLjcxLDQ0LjU3LTQzLjcxLDQ0LjU2LDE4LjYyLDQ0LjU2LDQzLjcxUzEyOTIuNTYsNjk2LDEyNjcuMTIsNjk2Wm0yNy4xMi00My43MWMwLTE1Ljk1LTExLjM1LTI3LjM1LTI3LjEyLTI3LjM1UzEyNDAsNjM2LjM1LDEyNDAsNjUyLjNzMTEuMzUsMjcuMzUsMjcuMTMsMjcuMzUsMjcuMTItMTEuNCwyNy4xMi0yNy4zNSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTIwNC4xNyAtMjM1Ljc2KSIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTEzNzcuMzMsNjEwLjE2djE2LjE5aC05Yy0xNC4xNywwLTIxLjI0LDguMDgtMjEuMjQsMjMuMThWNjk0aC0xNy4xNFY2MTAuNjNoMTEuNTlsMi45LDExLjM3YzYtNy45LDE0LjE0LTExLjg0LDI1LjUyLTExLjg0WiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTIwNC4xNyAtMjM1Ljc2KSIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE0MzcuNTMsNjc4LjQxVjY5NGgtMTIuNzRjLTE4LjI2LDAtMjkuNTItMTEuMjctMjkuNTItMjkuNjh2LTM5aC0xNC45MVY2MjJsMjktMzAuODJoMi45MnYxOS40NmgyNC44VjYyNS4zSDE0MTIuNHYzNy42NGMwLDkuOTQsNS41MywxNS40NywxNS42MiwxNS40N1oiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0yMDQuMTcgLTIzNS43NikiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik0xNDUzLjg2LDU4MGgxNy43MXYxNy42N2gtMTcuNzFabS4yOSwzMC41OWgxNy4xM1Y2OTRoLTE3LjEzWiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTIwNC4xNyAtMjM1Ljc2KSIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE0OTQuMzYsNjU4Ljc4VjYxMC42M2gxNy4xNHY0NS43NWMwLDE0LjQ4LDcuOSwyMy4yNywyMC43NywyMy4yN1MxNTUzLDY3MC43LDE1NTMsNjU2LjM4VjYxMC42M2gxNy4xNHY0OC4xNWMwLDIyLjQzLTE0Ljg3LDM3LjIzLTM3Ljg3LDM3LjIzcy0zNy45MS0xNC44LTM3LjkxLTM3LjIzIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMjA0LjE3IC0yMzUuNzYpIi8+PHBhdGggY2xhc3M9ImNscy0zIiBkPSJNMTY4Ni4zOSw2MDguNzNjMTcuNTcsMCwyOS40MywxMy4zNywyOS40MywzMi4yNHY1M2gtMTcuMTN2LTQ4LjhjMC0xMy40Mi01LjgzLTIxLjA5LTE2LjIxLTIxLjA5LTExLDAtMTkuNTUsMTAuMTItMTkuNTUsMjQuMzFWNjk0SDE2NDYuMnYtNDguOGMwLTEzLjQyLTUuNzktMjEuMDktMTYuMjQtMjEuMDktMTEuMDgsMC0xOS42MywxMC4xMi0xOS42MywyNC4zMVY2OTRIMTU5My4yVjYxMC42M2gxMi4xNGwzLDEwLjc3YTMzLjM4LDMzLjM4LDAsMCwxLDI1Ljg5LTEyLjY3YzExLjMsMCwyMC4yNSw1LjU1LDI1LDE0LjU5YTMzLDMzLDAsMCwxLDI3LjItMTQuNTlaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMjA0LjE3IC0yMzUuNzYpIi8+PC9nPjwvZz48L2c+PC9zdmc+" alt="Open Geospatial Consortium" width="" height="" /></span>
+  </div>
+
+  <!--
+  <div class="coverpage-tc-name">
+    <span></span>
+  </div>
+  -->
+
+  <div class="authors">
+    
+    
+    
+
+    
+    
+    
+  </div>
+
+    <div class="coverpage-metadata">
+      <span class="label">Submission Date: </span> <span class="value">XXX</span>
+      <span class="label">Approval Date: </span> <span class="value">XXX</span>
+      <span class="label">Publication Date: </span> <span class="value">2018-08</span>
+      <span class="label">External identifier of this OGC&#xAE; document: <span class="docnumber value"></span></span>
+      <span class="label">Internal identifier of this OGC&#xAE; document: <span class="docnumber value">ISPG-SO01</span></span>
+      
+      
+    </div>
+
+    <div class="coverpage-alt-formats">
+      
+      <span class="label">Version: </span> <span class="value">1.0</span><br />
+      
+    
+    </div>
+
+  </div>
+
+    <div class="wrapper-top-bottom"></div>
+
+  <div class="WordSection11">
+  <div class="coverpage-stage-block">
+    <span class="coverpage-stage" id="standard">OGC Standard</span>
+  </div>
+
+  <div class="coverpage-stage-block">
+    <p><span class="coverpage-maturity" id="approved">Approved</span></p>
+  </div>
+</div>
+
+  <div class="coverpage-warning">
+    <div class="boilerplate-legal">
+
+
+    <div><h1 class="IntroTitle">Notice</h1>
+
+      <p id="_a156d1c4-313c-340a-8480-366345e3e0d2">This document is an OGC Member approved international standard. This document is available on a royalty free, non-discriminatory basis. Recipients of this document are invited to submit, with their comments, notification of any relevant patent rights of which they are aware and to provide supporting documentation.
+      </p>
+    </div>
+
+
+
+
+
+  </div>
+ </div>
+         
+
+
+<div class="docstage-box">
+  <table>
+    <tr><td>Document number:</td><td>ISPG-SO01</td></tr>
+    <tr><td>Document type:</td><td>OGC Standard</td></tr>
+    <tr><td align="right">Document subtype:</td><td align="right">Implementation</td></tr>
+    <tr><td align="right">Document stage:</td><td align="right">Approved</td></tr>
+    <tr><td align="right">Document language:</td><td align="right">English</td></tr>
+  </table>
+</div>
+
+<div class="info-section">
+<div class="copyright">
+  <div class="boilerplate-copyright">
+    <div><h1 class="IntroTitle">Copyright notice</h1>
+
+
+      <p id="_2c86eb38-dcd2-046f-0847-479d9183f7b8" style="text-align:center;">Copyright
+        &#xA9; 2018 Open Geospatial Consortium<br />
+        To obtain additional rights of use, visit
+        <a href="http://www.ogc.org/legal/">http://www.ogc.org/legal/</a></p>
+    </div>
+    <div><h1 class="IntroTitle">Note</h1>
+
+      <p id="_11e88dba-9912-1a89-a82d-7291bf232191" style="text-align:left;">Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. The Open Geospatial Consortium shall not be held responsible for identifying any or all such patent rights.</p>
+
+      <p id="_15067213-c07b-cba0-7e18-395ab2e00ab3" style="text-align:left;">Recipients of this document are requested to submit, with their comments, notification of any relevant patent claims or other intellectual property rights of which they may be aware that might be infringed by any implementation of the standard set forth in this document, and to provide supporting documentation.</p>
+    </div>
+  </div>
+</div>
+
+<div class="rule"></div>
+</div>
+  </div>
+</header>
+      
+    </div>
+    <br />
+    <div class="prefatory-section"><div class="license">
+  <div class="boilerplate-license">
+    <div><h1 class="IntroTitle">License Agreement</h1>
+
+
+      <p id="_e8566381-218f-c22d-320d-4d0371bfd58f">Permission is hereby granted by the Open Geospatial
+        Consortium, (&#x201C;Licensor&#x201D;), free of charge and subject to the terms set
+        forth below, to any person obtaining a copy of this Intellectual Property and
+        any associated documentation, to deal in the Intellectual Property without
+        restriction (except as set forth below), including without limitation the
+        rights to implement, use, copy, modify, merge, publish, distribute, and/or
+        sublicense copies of the Intellectual Property, and to permit persons to whom
+        the Intellectual Property is furnished to do so, provided that all copyright notices
+        on the intellectual property are retained intact and that each person to whom
+        the Intellectual Property is furnished agrees to the terms of this Agreement.</p>
+
+      <p id="_52ebb386-d365-27d0-d76d-a59ac165fc4d">If you modify the Intellectual Property, all copies of
+        the modified Intellectual Property must include, in addition to the above
+        copyright notice, a notice that the Intellectual Property includes
+        modifications that have not been approved or adopted by LICENSOR.</p>
+
+      <p id="_178f14b4-0718-a5b8-09cd-84f8f4b756ed">THIS LICENSE IS A COPYRIGHT LICENSE ONLY, AND DOES NOT
+        CONVEY ANY RIGHTS UNDER ANY PATENTS THAT MAY BE IN FORCE ANYWHERE IN THE WORLD.
+        THE INTELLECTUAL PROPERTY IS PROVIDED &#x201C;AS
+        IS&#x201D;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+        LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+        AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. THE COPYRIGHT HOLDER OR HOLDERS
+        INCLUDED IN THIS NOTICE DO NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE
+        INTELLECTUAL PROPERTY WILL MEET YOUR REQUIREMENTS OR THAT THE OPERATION OF THE
+        INTELLECTUAL PROPERTY WILL BE UNINTERRUPTED OR ERROR FREE. ANY USE OF THE
+        INTELLECTUAL PROPERTY SHALL BE MADE ENTIRELY AT THE USER&#x2019;S OWN RISK. IN NO
+        EVENT SHALL THE COPYRIGHT HOLDER OR ANY CONTRIBUTOR OF INTELLECTUAL PROPERTY
+        RIGHTS TO THE INTELLECTUAL PROPERTY BE LIABLE FOR ANY CLAIM, OR ANY DIRECT,
+        SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY DAMAGES WHATSOEVER RESULTING
+        FROM ANY ALLEGED INFRINGEMENT OR ANY LOSS OF USE, DATA OR PROFITS, WHETHER IN
+        AN ACTION OF CONTRACT, NEGLIGENCE OR UNDER ANY OTHER LEGAL THEORY, ARISING OUT
+        OF OR IN CONNECTION WITH THE IMPLEMENTATION, USE, COMMERCIALIZATION OR
+        PERFORMANCE OF THIS INTELLECTUAL PROPERTY.</p>
+
+      <p id="_2ad7fe27-9ae4-52c5-9dd9-faa4004247fb">This license is effective until terminated. You may
+        terminate it at any time by destroying the Intellectual Property together with
+        all copies in any form. The license will also terminate if you fail to comply
+        with any term or condition of this Agreement. Except as provided in the
+        following sentence, no such termination of this license shall require the
+        termination of any third party end-user sublicense to the Intellectual Property
+        which is in force as of the date of notice of such termination. In addition,
+        should the Intellectual Property, or the operation of the Intellectual
+        Property, infringe, or in LICENSOR&#x2019;s sole opinion be
+        likely to infringe, any patent, copyright, trademark or other right of a third
+        party, you agree that LICENSOR, in its sole discretion, may terminate this
+        license without any compensation or liability to you, your licensees or any
+        other party. You agree upon termination of any kind to destroy or cause to be
+        destroyed the Intellectual Property together with all copies in any form,
+        whether held by you or by any third party.</p>
+
+      <p id="_3254c815-179c-5f54-9a01-b8e964837171">Except as contained in this notice, the name of
+        LICENSOR or of any other holder of a copyright in all or part of the Intellectual
+        Property shall not be used in advertising or otherwise to promote the sale, use
+        or other dealings in this Intellectual Property without prior written
+        authorization of LICENSOR or such copyright holder. LICENSOR is and shall at
+        all times be the sole entity that may authorize you or any third party to use
+        certification marks, trademarks or other special designations to indicate
+        compliance with any LICENSOR standards or specifications.
+        This Agreement is
+        governed by the laws of the Commonwealth of Massachusetts. The application to
+        this Agreement of the United Nations Convention on Contracts for the
+        International Sale of Goods is hereby expressly excluded. In the event any
+        provision of this Agreement shall be deemed unenforceable, void or invalid, such
+        provision shall be modified so as to make it valid and enforceable, and as so
+        modified the entire Agreement shall remain in full force and effect. No
+        decision, action or inaction by LICENSOR shall be construed to be a waiver of
+        any rights or remedies available to it.</p>
+
+      <p id="_4fa1ef5b-3dd5-7a05-3c68-bca93a0f14bb">None of the Intellectual Property or underlying information or technology may be downloaded or otherwise exported or reexported in violation of U.S. export laws and regulations. In addition, you are responsible for complying with any local laws in your jurisdiction which may impact your right to import, export or use the Intellectual Property, and you represent that you have complied with any regulations or registration procedures required by applicable law to make this license enforceable.</p>
+    </div>
+  </div>
+
+
+<div class="boilerplate-feedback">
+
+    <div id="boilerplate-standard-feedback">
+      <p id="_bbc1a653-f270-135d-9455-af930feb3587">Suggested additions, changes and comments on this document are welcome and encouraged. Such suggestions may be submitted using the online change request form on OGC web site: <a href="http://portal.opengeospatial.org/public_ogc/change_request.php">http://portal.opengeospatial.org/public_ogc/change_request.php</a></p>
+    </div>
+
+  </div>
+
+
+</div>
+
+<nav>
+  <h1 id="content">Contents</h1>
+  <div id="toc"><ul><li class="h1"><a href="#toc0">      1.&#xA0; COPYRIGHT NOTICE</a></li><li class="h1"><a href="#toc1">      2.&#xA0; Amendment History</a></li><li class="h1"><a href="#toc2">      3.&#xA0; Introduction</a></li><li class="h2"><a href="#toc3">      3.1.&#xA0; Purpose</a></li><li class="h2"><a href="#toc4">      3.2.&#xA0; Normative References</a></li><li class="h2"><a href="#toc5">      3.3.&#xA0; Terms and Convention</a></li><li class="h2"><a href="#toc6">      3.4.&#xA0; Contact</a></li><li class="h1"><a href="#toc7">      4.&#xA0; Information Security Management</a></li><li class="h2"><a href="#toc8">      4.1.&#xA0; Security Management Framework and Organisation</a></li><li class="h2"><a href="#toc9">      4.2.&#xA0; Governance, Risk Management and Compliance</a></li><li class="h2"><a href="#toc10">      4.3.&#xA0; Security Operations</a></li><li class="h2"><a href="#toc11">      4.4.&#xA0; Security Event and Incident Management</a></li><li class="h2"><a href="#toc12">      4.5.&#xA0; Awareness Training and Capability Building</a></li><li class="h2"><a href="#toc13">      4.6.&#xA0; Situational Awareness and Information Sharing</a></li><li class="h1"><a href="#toc14">      5.&#xA0; Network Printer Security</a></li><li class="h2"><a href="#toc15">      5.1.&#xA0; Security Concerns of Network Printers</a></li><li class="h2"><a href="#toc16">      5.2.&#xA0; Provision of Network Printers</a></li><li class="h2"><a href="#toc17">      5.3.&#xA0; Management of Network Printers</a></li><li class="h2"><a href="#toc18">      5.4.&#xA0; Decommissioning of Network Printers</a></li><li class="h1"><a href="#toc19">      Annex A (informative) Sample Checklist on Security Configuration for Network Printers</a></li><li class="h1"><a href="#toc20">      Annex B (informative) Use of Network Printers</a></li></ul></div>
+
+</nav>
+
+
+<div class="rule toc"></div>
+
+      
+    </div>
+    <br />
+    <main class="main-section"><button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+      <div class="authority">
+  
+  
+
+  
+
+
+
+
+  
+</div>
+      <p class="zzSTDTitle1">Practice Guide for Securing Network Printers in the Offices</p>
+      <div id="_copyright_notice">
+        <h1 id="toc0">1.&#xA0; COPYRIGHT NOTICE</h1>
+        <p id="_97807e65-a0b0-97af-d7f0-9919167c0c90">&#xA9; 2018 by the Government of the Hong Kong Special Administrative Region</p>
+        <p id="_63b8d678-55b9-3550-6bf5-e0088078d2b8">Unless otherwise indicated, the copyright in the works contained in this publication is owned by the Government of the Hong Kong Special Administrative Region. You may generally copy and distribute these materials in any format or medium provided the following conditions are met -</p>
+        <ol type="1" id="_439b8d87-dea1-c800-c448-133aebe4d4cd"><li><p id="_4f2af514-9fd8-aa0c-3bd4-1567d15d3f46">the particular item has not been specifically indicated to be excluded and is therefore not to be copied or distributed;</p>
+</li>
+<li><p id="_25509b72-ccca-88a9-8deb-ee0b11f2d054">the copying is not done for the purpose of creating copies for sale;</p>
+</li>
+<li><p id="_c6f9e1a5-c265-4bb6-cbc9-54b810d40e34">the materials must be reproduced accurately and must not be used in a misleading context; and</p>
+</li>
+<li><p id="_f21f4ca6-8f0a-ef14-7d74-7e80db56d946">the copies shall be accompanied by the words &#x201C;copied/distributed with the permission of the Government of the Hong Kong Special Administrative Region. All rights reserved.&#x201D;</p>
+</li>
+</ol>
+        <p id="_444b1db3-0579-6dcd-e09b-bd70f7455059">If you wish to make copies for purposes other than that permitted above, you should seek permission by contacting the Office of the Government Chief Information Officer.</p>
+      </div>
+      <div id="_amendment_history">
+        <h1 id="toc1">2.&#xA0; Amendment History</h1>
+        <table id="_fafce796-5207-1e30-fe28-8fc25e79db72" class="MsoISOTable" style="border-width:1px;border-spacing:0;">
+          <tbody>
+            <tr>
+              <th colspan="5" style="font-weight:bold;text-align:center;vertical-align:middle;border-top:solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;" scope="row">Amendment History</th>
+            </tr>
+            <tr>
+              <th style="font-weight:bold;text-align:center;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.5pt;" scope="row">Change Number</th>
+              <th style="font-weight:bold;text-align:center;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.5pt;" scope="row">Revision Description</th>
+              <th style="font-weight:bold;text-align:center;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.5pt;" scope="row">Pages Affected</th>
+              <th style="font-weight:bold;text-align:center;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.5pt;" scope="row">Revision Number</th>
+              <th style="font-weight:bold;text-align:center;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.5pt;" scope="row">Date</th>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div id="_introduction">
+        <h1 id="toc2">3.&#xA0; Introduction</h1>
+        <p id="_acfd0048-376a-e390-6158-c2685fd77036">Nowadays, new generation of network printers are &#x201C;smart&#x201D; machines that have central processing units, the capability of storing information they processed in their internal storage devices; and connecting to wired or wireless networks. With these capabilities, most of the current network printers can be used for more than just printing; they can also be used for copying, scanning, faxing and emailing documents. Some of the network printers even have internal servers or routers. Hence, network printers are similar to other computer equipment which could be suffered from various types of security threats (e.g. data leakage) if they are not properly protected / used.</p>
+        <p id="_1a388b78-0090-53d9-692a-814f22ea499f">This practice guide is developed to provide guidance notes for Bureaux/Departments (B/Ds) to make reference in securing the use of network printers in their offices.</p>
+        <div id="_purpose"><h2 id="toc3">3.1.&#xA0; Purpose</h2>
+
+<p id="_a692876e-2508-4deb-ac51-7d206b56018d">This document provides guidance notes for the administration and other technical and operational staff who are involved in managing network printers. Common security considerations and best practices on major stages of network printer management life cycle for using network printers are provided in this document. B/Ds should consider the security measures and best practices recommended in this document and implement adequate security protection for their network printers. This document should be used in conjunction with the established government requirements and documents including Baseline IT Security Policy [S17], IT Security Guidelines [G3], relevant procedures and guidelines, where applicable. In addition to the government security requirements, B/Ds should assess the security risks before the adoption of network printers based on their business needs.</p>
+
+<p id="_7327035d-6e32-796b-57f6-5bbec4b278ad">This document is intended to provide practical guidance notes on and references for management and use of network printers in the offices. It is not intended to cover technical requirements of a specific network printer model. B/Ds should consult corresponding system administrators, technical support staff and product vendors for these technical details.</p>
+</div>
+        <div id="_normative_references"><h2 id="toc4">3.2.&#xA0; Normative References</h2>
+
+<p id="_d6bc8fa6-6da0-fec9-a209-0cdaf0100948">The following referenced documents are indispensable for the application of this document.</p>
+
+<ul id="_9481d829-6395-29e6-fceb-9e5de1578588"><li><p id="_af503d36-cb96-440e-37ae-b8246be48c8a">Baseline IT Security Policy [S17], the Government of the Hong Kong Special Administrative Region</p>
+</li>
+<li><p id="_f48fd6c8-4e60-ba25-0356-c7836e976783">IT Security Guidelines [G3], the Government of the Hong Kong Special Administrative Region</p>
+</li>
+</ul>
+</div>
+        <div id="_terms_and_convention"><h2 id="toc5">3.3.&#xA0; Terms and Convention</h2>
+
+<p id="_272547cb-943a-c1ad-d832-93a754fb15de">For the purposes of this document, the terms and convention given in S17, G3, and the following shall apply</p>
+
+<table id="_4cba4631-bf78-a281-314a-fcfbed39fde6" class="MsoISOTable" style="border-width:1px;border-spacing:0;"><tbody><tr><th colspan="2" style="font-weight:bold;text-align:left;vertical-align:middle;border-top:solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;" scope="row">Abbreviation and Terms</th></tr><tr><td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.5pt;">N/A</td><td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.5pt;">N/A</td></tr></tbody></table>
+</div>
+        <div id="_contact"><h2 id="toc6">3.4.&#xA0; Contact</h2>
+
+<p id="_a5cc86f8-84ee-995f-5c17-e6bd19a67f47">This document is produced and maintained by the Office of the Government Chief Information Office (OGCIO). For comments and suggestions, please send to:</p>
+
+<dl id="_b5e31d87-b6c7-a84d-1294-fbc7f3822991"><dt><p>Email</p></dt><dd><p id="_af52227c-bcd4-03bf-5fe4-37541ea446fd"><a href="mailto:it_security@ogcio.gov.hk">it_security@ogcio.gov.hk</a></p>
+</dd><dt><p>Lotus Notes mail</p></dt><dd><p id="_2c415437-15c5-9d47-cac6-42f65e862882">IT Security Team/OGCIO/HKSARG</p>
+</dd></dl>
+</div>
+      </div>
+      <div id="_information_security_management">
+        <h1 id="toc7">4.&#xA0; Information Security Management</h1>
+        <p id="_71f579a6-d180-acdc-c4f1-274a0cd23c40">Information security is about the planning, implementation and continuous enhancement of security controls and measures to protect the confidentiality, integrity and availability of information assets, whether in storage, processing, or transmission and its associated information systems. Information security management is a set of principles relating to the functions of planning, organising, directing, controlling, and the application of these principles in harnessing physical, financial, human and informational resources efficiently and effectively to assure the safety of information assets and information systems.</p>
+        <p id="_5d0529d4-09f9-68d6-5fe2-46dd7e4ecd11">Information security management involves a series of activities that require continuous monitoring and control. These activities include but not limited to the following functional areas:</p>
+        <ul id="_6e294d76-1aaa-51db-0b9e-df0b411f9493"><li><p id="_551ad47a-6848-0dc7-bde6-2c7ee9db5008">Security Management Framework and the Organisation;</p>
+</li>
+<li><p id="_c99d6b3f-e3c8-9792-51b7-6cf5b68a163f">Governance, Risk Management, and Compliance;</p>
+</li>
+<li><p id="_8e5848de-ebfc-bfcc-12b0-0512661e365a">Security Operations;</p>
+</li>
+<li><p id="_227d92d9-52ae-965c-c54f-5208022f5d83">Security Event and Incident Management;</p>
+</li>
+<li><p id="_d6f350e7-0215-5cca-34e2-06fcb8310d3f">Awareness Training and Capability Building; and</p>
+</li>
+<li><p id="_4fb32115-d282-1549-1444-3e06921ecb85">Situational Awareness and Information Sharing.</p>
+</li>
+</ul>
+        <div id="_security_management_framework_and_organisation"><h2 id="toc8">4.1.&#xA0; Security Management Framework and Organisation</h2>
+
+<p id="_bb61219c-a6cd-503a-7232-2cb8a7110a92">B/Ds shall establish and enforce departmental information security policies, standards, guidelines and procedures in accordance with the business needs and the government security requirements.</p>
+
+<p id="_e06fb965-1f3d-0bb7-1ffc-b46172f01f21">B/Ds shall also define the organisation structure on information security and provide clear definitions and proper assignment of security accountability and responsibility to involved parties.</p>
+</div>
+        <div id="_governance_risk_management_and_compliance"><h2 id="toc9">4.2.&#xA0; Governance, Risk Management and Compliance</h2>
+
+<p id="_671ae574-6fe3-080b-b02e-e44c21acc84b">B/Ds shall adopt a risk based approach to identify, prioritise and address the security risks of information systems in a consistent and effective manner.</p>
+
+<p id="_9d098b45-c755-b321-0fe7-ba5f60d1d426">B/Ds shall perform security risk assessments for information systems and production applications periodically and when necessary so as to identify risks and consequences associated with vulnerabilities, and to provide a basis to establish a cost-effective security program and implement appropriate security protection and safeguards.</p>
+
+<p id="_8aa173c4-81b5-8319-b5f0-7a4cd0576dc7">B/Ds shall also perform security audit on information systems regularly to ensure that current security measures comply with departmental information security policies, standards, and other contractual or legal requirements.</p>
+</div>
+        <div id="_security_operations"><h2 id="toc10">4.3.&#xA0; Security Operations</h2>
+
+<p id="_53314bef-f965-8ebd-61fa-3ebf1affffae">To protect information assets and information systems, B/Ds should implement comprehensive security measures based on their business needs, covering different technological areas in their business, and adopt the principle of &#x201C;Prevent, Detect, Respond and Recover&#x201D; in their daily operations.</p>
+
+<ul id="_adac7041-d6ff-ad8f-582d-19b362291268"><li><p id="_fbbfe5ab-a454-546b-2f1e-7e33cbeaaf0c">Preventive measures avoid or deter the occurrence of an undesirable event;</p>
+</li>
+<li><p id="_e13e55e3-54cc-f0ba-3f03-a7493d71834b">Detective measures identify the occurrence of an undesirable event;</p>
+</li>
+<li><p id="_19c661f3-91b8-e9b0-0af7-847b2e9ffee6">Response measures refer to coordinated actions to contain damage when an undesirable event or incident occurs; and</p>
+</li>
+<li><p id="_d3a60af0-d8a2-a693-e2b7-381d41a88702">Recovery measures are for restoring the confidentiality, integrity and availability of information systems to their expected state.</p>
+</li>
+</ul>
+</div>
+        <div id="_security_event_and_incident_management"><h2 id="toc11">4.4.&#xA0; Security Event and Incident Management</h2>
+
+<p id="_127f730e-64d7-4750-3ed9-90235885d38c">In reality, security incidents might still occur due to unforeseeable, disruptive events. In cases where security events compromise business continuity or give rise to risk of data security, B/Ds shall activate their standing incident management plan to identifying, managing, recording, and analysing security threats, attacks, or incidents in real-time. B/Ds should also prepare to communicate appropriately with relevant parties by sharing information on response for security risks to subdue distrust or unnecessary speculation. When developing an incident management plan, B/Ds should plan and prepare the right resources as well as develop the procedures to address necessary follow-up investigations.</p>
+</div>
+        <div id="_awareness_training_and_capability_building"><h2 id="toc12">4.5.&#xA0; Awareness Training and Capability Building</h2>
+
+<p id="_cc342e9d-26d3-e95a-46d9-098b57edad62">As information security is everyone&#x2019;s business, B/Ds should continuously promote information security awareness throughout the organisations and arrange training and education to ensure that all related parties understand the risks, observe the security regulations and requirements, and conform to security best practices.</p>
+</div>
+        <div id="_situational_awareness_and_information_sharing"><h2 id="toc13">4.6.&#xA0; Situational Awareness and Information Sharing</h2>
+
+<p id="_c2b965fb-8049-aba6-7a3e-5bb201b4fe33">As cyber threat landscape is constantly changing, B/Ds should also constantly attend to current vulnerabilities information, threat alerts, and important notices disseminated by the security industry and the GovCERT.HK. The security alerts on impending and actual threats should be disseminated to and shared with those responsible colleagues within B/Ds so that timely mitigation measures could be taken.</p>
+
+<p id="_38b55d78-6bd0-fd65-1186-64bc11dbed46">B/Ds could make use of the cyber risk information sharing platform to receive and share information regarding security issues, vulnerabilities, and cyber threat intelligence.</p>
+</div>
+      </div>
+      <div id="_network_printer_security">
+        <h1 id="toc14">5.&#xA0; Network Printer Security</h1>
+        <p id="_d56c6d00-e0dd-4cf3-988c-380be2bf2847">In information security management, the &#x201C;Security Operations&#x201D; functional area includes the deployment of proper security protection and safeguards to reduce the risk of successful attacks. In light of the ever-increasing abilities of network printers which have the similar capabilities of networked computer equipment, network printers are also facing similar security threats that need to be properly managed. Network printer security is, therefore, a major area under the &#x201C;Security Operations&#x201D; functional area of information security management.</p>
+        <p id="_5236d293-253f-6a2f-23cc-e4563c331872">This section highlights the security measures and best practices to address the common security concerns and illustrates how they should be incorporated in the major stages of network printer management life cycle including provision, use and decommission. B/Ds may select and map the security measures and best practices to their own management life cycle model based on their business needs.</p>
+        <div id="_security_concerns_of_network_printers"><h2 id="toc15">5.1.&#xA0; Security Concerns of Network Printers</h2>
+
+<p id="_aaa9d392-2ecc-b0d7-f665-ec2b640c0210">Network printers have the capabilities of storing data in their storage devices and connecting to wired or wireless networks for printing, copying, scanning, faxing and emailing documents. They can also use network protocols commonly available in computer equipment, such as File Transfer Protocol (FTP), Hyper Text Transport Protocol (HTTP), Hyper Text Transport Protocol Secure (HTTPS), Internet Printing Protocol (IPP), Server Message Block (SMB), Simple Network Management Protocol (SNMP) and telnet. Hence, network printers expose similar security threats faced by other connected computing devices. Major threats applicable to network printers are highlighted below. B/Ds should take reference of these common security threats and avoid them in using network printers.</p>
+
+<div id="_general_threats_and_vulnerabilities"><h3>5.1.1.&#xA0; General Threats and Vulnerabilities</h3>
+
+<p id="_a44b4606-7e55-b6c5-cc71-9e7c59c6c1a2">General threats, vulnerabilities, and related exploits that may affect network printers:</p>
+
+<ul id="_9b61c28b-9138-76a6-89c9-b8aec77bc328"><li><p id="_60f51895-0eed-348f-76c4-c788d693528a"><b>Default administrator account name and password</b>&#x2009;&#x2014;&#x2009;Attackers easily gain access and control of network printers if default administrator account name and password is left unchanged or weak password is used.</p>
+</li>
+<li><p id="_8f17c18f-12a8-ff74-a54e-ed36b94e226c"><b>Outdated and/or unpatched operating systems and firmware</b>&#x2009;&#x2014;&#x2009;Network printers run embedded commercial operating systems which render them subject to the same threats and vulnerabilities as any other computing devices running the same operating system. Attackers may exploit vulnerabilities to gain access and control of network printers if the operating system and firmware are unpatched or outdated.</p>
+</li>
+<li><p id="_ca357f7b-b40a-80f3-17f1-e6e6310e6d00"><b>Lack of physical security controls</b>&#x2009;&#x2014;&#x2009;Network printers and their built-in storage devices have the risk of lost or stolen if the printers are installed in uncontrolled places.</p>
+</li>
+<li><p id="_738a8084-e7ea-41a3-f660-463c697e8f2c"><b>Document theft</b>&#x2009;&#x2014;&#x2009;The printouts could be seen or taken by unintended parties.</p>
+</li>
+</ul>
+</div>
+
+<div id="_network_connectivity_threats_and_vulnerabilities"><h3>5.1.2.&#xA0; Network Connectivity Threats and Vulnerabilities</h3>
+
+<p id="_b173cbdb-3476-e546-f56f-7a65253fe509">Although using network printers is convenient and may be more cost-effective than using separate local printers, scanners and fax machines; network connectivity comes with greater risk of exposing the device and information to threats. Some potential threats, vulnerabilities, and related exploits associated with network connectivity include:</p>
+
+<ul id="_58d1e188-a7a1-fd4c-605a-a78f0ab723ed"><li><p id="_0c3dfd5d-bd76-a155-55e2-30675c925c5a">Unencrypted information&#x2009;&#x2014;&#x2009;Any information, including configuration data or passwords, sent unencrypted to network printers could be intercepted, exposed and/or altered.</p>
+</li>
+<li><p id="_882ab54d-07f9-dab5-44c4-68ecd874554a">Wireless connectivity&#x2009;&#x2014;&#x2009;Wireless networks, such as Wi-Fi network, are inherently unsafe and susceptible to eavesdropping, which place information transmitted at risk of compromise and may lead to a security breach.</p>
+</li>
+<li><p id="_5e4817d9-3b1b-0bb0-aa49-d43b572cec19">Network protocols&#x2009;&#x2014;&#x2009;Most network printers provide services via variety of network protocols such as FTP, HTTP, IPP, SMB, SNMP and telnet. Yet each protocol has its own threats and vulnerabilities to be managed. Therefore, unused services / protocols shall be disabled to minimise the associated risks.</p>
+</li>
+</ul>
+</div>
+
+<div id="_data_storage_threats_and_vulnerabilities"><h3>5.1.3.&#xA0; Data Storage Threats and Vulnerabilities</h3>
+
+<p id="_c77c95c6-b0bc-3109-088b-18e77a17d40d">Data storage in network printers is most often in the form of hard disk drive (HDD) or solid-state drive (SSD). Information stored in network printers may leave organisational information vulnerable to numerous exploits and leakage in the following conditions:</p>
+
+<ul id="_bac3f712-a1c2-4989-821b-5b75640cd221"><li><p id="_14929237-aef9-c254-e9d0-0bb9457b8500"><b>Unencrypted information</b>&#x2009;&#x2014;&#x2009;Any information stored unencrypted on network printers could be exposed and/or modified by anyone with access or in the event of a successful network-based attack.</p>
+</li>
+<li><p id="_7e0713d7-eb1c-e806-9891-7e0b0be53a05"><b>Sanitisation</b>&#x2009;&#x2014;&#x2009;If network printers are disposed without properly data erasure, unauthorised personnel may recover the information left inside the storage device.</p>
+</li>
+<li><p id="_05d9f404-ae08-2da3-b019-525b51df0c8a"><b>Unauthorised access</b>&#x2009;&#x2014;&#x2009;External maintenance or personnel with physical or remote access to network printers could download or copy the stored information.</p>
+</li>
+</ul>
+</div>
+</div>
+        <div id="_provision_of_network_printers"><h2 id="toc16">5.2.&#xA0; Provision of Network Printers</h2>
+
+<p id="_a7a80387-8842-1e9e-225a-89db482aef38">When considering security adoption of network printers, B/Ds should identify the needs for network printers and how the network printers would support B/Ds&#x2019; businesses. A network printer security policy should be established to specify the business and security requirements for the use of network printers with the following considerations:</p>
+
+<ul id="_a2ea5ca2-ff76-caa4-b1ed-62dc81d290d1"><li><p id="_30205c72-5250-6720-2998-effa57202e6d">The types of approved network printers and the approval mechanism.</p>
+</li>
+<li><p id="_d3785c20-ee2e-3ece-ace6-f0b903fe47e1">The data classification permitted on each type of network printer. Classified information shall be encrypted when stored in network printers.</p>
+</li>
+<li><p id="_c3211e12-de12-0a9e-df22-fcb0234b013a">The control mechanism to ensure the compliance with the government security requirements based on the data classification.</p>
+</li>
+<li><p id="_fb89326b-0b1f-a88a-5ad5-3c3a00e844fb">The procedures to ensure complete erasure of government data stored in network printers when they are disposed.</p>
+</li>
+</ul>
+
+<p id="_f45e154d-4767-3142-54ef-4e5046277f22">Based on the business and security requirements, B/Ds should develop adequate processes and procedures for the provision of network printers. In particular, security configuration procedures of network printers should be developed to enforce security configurations in accordance with government security requirements and the network printer security policy. Network printers should be configured according to the security configuration procedures before deployment. For sample checklist regarding security configuration of a network printer, please refer to <a href="#annex-sample-checklist">Annex A</a>.</p>
+
+<p id="_5090861d-e10d-09da-c31a-554ad633c3ba">The following best practices should be included in the provisioning stage:</p>
+
+<ol type="1" id="_d8718e82-6a39-93a9-9fbc-79150fc0b28a"><li><p id="_450d3e8d-f3a8-829a-a5c5-d663f38c5118">Identify the list of supported model that fulfils B/Ds&#x2019; operations and security requirements.</p>
+</li>
+<li><p id="_07bc7353-851e-203c-b6c4-95f012d00e15">Perform risk assessments prior to deployment of new network printers, and implement a continuous risk monitoring mechanism for evaluating changes in or new risks associated with the network printers.</p>
+</li>
+<li><p id="_3768a98e-2d16-3057-a7ff-b1f3ceab411a">Disseminate the acceptable use policy and security reminders; as well as provide security awareness trainings to users to remind them to use network printers in a secure manner.</p>
+</li>
+<li><p id="_fc323e69-1a9f-4368-f561-b841c6ac2037">Maintain asset-tracking information such as serial number and keep track of them for audit and development of B/Ds&#x2019; technology replacement strategy for network printers.</p>
+</li>
+<li><p id="_66cd2748-f1d2-98ad-ff5f-cc43399d2a04">Apply secure configuration</p>
+<ul id="_92cf3297-0380-8a32-bfd0-7b02181c629a"><li><p id="_43c2e8da-b00c-ead5-0635-59d921887227">Isolate network printers from other systems until the secure configuration is completed;</p>
+</li>
+<li><p id="_6be1cdd0-73e8-5b67-1bc8-14407f1047e1">Remove unused applications from network printers, e.g. Internet browsers;</p>
+</li>
+<li><p id="_2c6b1f0f-4714-7b4a-d186-41294c98186b">Enable all applicable security features of network printers according to the security configuration procedures of the network printers, including strong password for administrators of network printers and encryption of data stored on storage devices;</p>
+</li>
+<li><p id="_0453b6d4-a9c4-e9c8-b416-74db1237f81f">Enable immediate file overwrite to delete temporary file of each job<a class="FootnoteRef" href="#fn:1" id="fnref:1"><sup>1</sup></a>;</p>
+</li>
+<li><p id="_ce50a6d6-3918-3e1d-255b-f89f38265ba4">Enable regular off-hours overwrite, if applicable;</p>
+</li>
+<li><p id="_9a9c08af-65b2-a641-1b93-55ae2338959a">Enable pull / private printing solutions which allow setting password for a print job and users can release this print job only when the password is entered;</p>
+</li>
+<li><p id="_4e0b6223-ab29-ae09-44bf-506042d97d67">Enable removal of print jobs for pull / private printing from the printer&#x2019;s storage devices after predefined timeout period; and</p>
+</li>
+<li><p id="_485cbf7d-35a0-2c2b-5569-3c82bb99621a">Change default administrator account names / passwords and use strong passwords for network printers.</p>
+</li>
+</ul>
+</li>
+<li><p id="_61af895c-a68e-9590-d57f-e95f9ad4808a">Enable network security</p>
+<ul id="_a970f2d6-4a5a-9fea-ec64-a570c44a31ea"><li><p id="_d306c060-81b9-a9b8-85e1-bb7905659b14">Restrict network printers from accessing the Internet and configure the network printers to work within B/Ds&#x2019; internal trusted networks;</p>
+</li>
+<li><p id="_ff7df370-2520-3971-2e1c-7234c874e8ff">Protect printers with firewall, if available, to only allow authorised traffic from/to the printers;</p>
+</li>
+<li><p id="_0f3f7d72-f092-2249-ebf6-4120ffbc2095">Enable HTTPS for web interface, if available, to access the printers&#x2019; admin functions; and</p>
+</li>
+<li><p id="_16c76ad2-dfdf-e066-386e-205f2719bb7a">Enable network encryption protocols (e.g. SSL/TLS, IPsec), if available, to ensure that messages sent between computers and the printers are kept secure.</p>
+</li>
+</ul>
+</li>
+<li><p id="_c841f421-9c0e-b41c-c91a-cc86d17d78e2">Limit/restrict access</p>
+<ul id="_f21d73de-0b27-f1a0-7155-265b9d8840d6"><li><p id="_5065568d-29ac-6ca1-7230-f191b411f93d">Enable identification and authentication for privileged access (e.g. change the configuration settings);</p>
+</li>
+<li><p id="_5ceef020-3c86-4c2b-09ee-8c6ad8a64e64">Disable unauthorised remote access of network printers;</p>
+</li>
+<li><p id="_d0eea75d-1884-0ced-48da-0e2d6bf815db">Disable unneeded management services, ports and protocols;</p>
+</li>
+<li><p id="_0669fe4c-d969-2400-ef8a-1c5517edf785">Disable wireless network connection for handling classified information;</p>
+</li>
+<li><p id="_8b561703-83ee-97a5-348f-dd1463de7029">Whitelist or blacklist specific Media Access Control (MAC) addresses and/or IP addresses; and</p>
+</li>
+<li><p id="_62beab4d-1217-6f4f-5805-60f1f80c16d9">Implement appropriate physical security.</p>
+</li>
+</ul>
+</li>
+</ol>
+</div>
+        <div id="_management_of_network_printers"><h2 id="toc17">5.3.&#xA0; Management of Network Printers</h2>
+
+<p id="_fc223d34-efcf-8e2c-8e93-e82bd013303e">Even if the security requirements have been fully considered in the provisioning stage, people and process are two main factors for keeping network printers in a safe environment. Therefore, this section focuses on the best practices related to on-going operation process for the management of network printers whereas best practices for using network printers by end-users are provided at <a href="#annex-use-network">Annex B</a>.</p>
+
+<div id="_on_going_operation_of_network_printers"><h3>5.3.1.&#xA0; On-going Operation of Network Printers</h3>
+
+<p id="_38998bec-555a-debd-f39b-ecd4df37946e">Administrators should follow the best practices as follows:</p>
+
+<ol type="1" id="_57d10fa8-4073-72e0-f493-06098d72c98a"><li><p id="_a4edc8e7-acd9-b6ee-e435-678fa714807f">Check the status of network printers regularly to ensure security measures are in place;</p>
+</li>
+<li><p id="_6464af89-954b-c420-0d05-8761612e9d79">Change password for administrators of network printers regularly;</p>
+</li>
+<li><p id="_948bedf9-2803-f8a0-5b76-404fef0790f9">Review user accounts and privileges regularly to prevent unauthorised access of network printers;</p>
+</li>
+<li><p id="_5f4f53e9-5ae8-08ae-9fda-174661aac370">Update the operating system / firmware regularly to patch security vulnerabilities and improve security features;</p>
+</li>
+<li><p id="_dd5fc71b-b668-0ddd-d647-50674b0bf8bc">Make sure after any system / firmware updates or cold resets, all the established security controls are reinstated; and</p>
+</li>
+<li><p id="_e7d45694-ff15-5ec1-d66d-680b307b94f9">Review the print logs regularly, if applicable, to identify any suspicious activity such as the volume of print jobs or time of printing.</p>
+</li>
+</ol>
+</div>
+
+<div id="_handling_classified_information"><h3>5.3.2.&#xA0; Handling Classified Information</h3>
+
+<p id="_de86ac84-3416-35da-7185-29d25d830696">In compliance with the security requirements of the Government, B/Ds shall observe government security requirements and documents. In addition, B/Ds should adopt the following security practices for handling classified information:</p>
+
+<ol type="1" id="_001175c7-d32c-4067-e87a-faf1ff0d9d99"><li><p id="_a6b341f0-a673-7303-7357-0ef5d2b3403b">Do not print/copy/scan/fax/email TOP SECRET or SECRET information with network printers.</p>
+</li>
+<li><p id="_8ea6b620-772f-f7c5-8dd9-50c83ffed3fb">Wireless network is very vulnerable and must not be used to transmit classified information without any control. If transmission of CONFIDENTIAL information to/from network printers via wireless networks is required, approval from Head of B/D must be sought for both the transmission of CONFIDENTIAL information through the wireless networks and the devices used for the transmission.</p>
+</li>
+<li><p id="_80e0691b-b608-209c-1f2e-8fc1073b4249">Encrypt all CONFIDENTIAL or RESTRICTED information when transmitted from/to or stored in network printers (e.g. printer&#x2019;s hard disk drive), either temporarily or permanently for printing, copying, scanning, faxing or emailing documents. B/Ds should check with product vendors to ensure the network printers can meet the encryption requirements for handling classified documents.</p>
+</li>
+<li><p id="_51502602-d751-c743-2893-bbfdaf93f7c3">Detailed encryption requirements for these two types of classified information are given below.</p>
+<p id="_69ef5ae2-b580-f66f-1123-631319110ecd"><i>Encryption requirements on CONFIDENTIAL information</i></p>
+
+<ul id="_12f95e29-26f2-5673-f4cf-0ac1da2fc671"><li><p id="_b646e673-06b9-d922-1884-c771196aa86a">CONFIDENTIAL information must be encrypted during storage and transmission over an un-trusted communication network, e.g. wireless network. If symmetric encryption is selected, the key length shall be at least 128-bit for the Advanced Encryption Standard (AES) encryption or equivalent. If asymmetric encryption is selected, the key length shall be at least 2048-bit for the RSA encryption. Alternatively, the requirement can be met by Elliptic Curve Cryptography (ECC) encryption with key length of at least 224-bit or equivalent.</p>
+</li>
+<li><p id="_286d46de-0cb8-7379-3c02-3d281d93a063">For keys that are used for decrypting CONFIDENTIAL information, they shall be stored separately from the corresponding encrypted information.</p>
+</li>
+</ul>
+
+<p id="_75590dd5-58fa-117a-a069-9f75c252357a"><i>Encryption requirements on RESTRICTED information</i></p>
+
+<ul id="_b350a5ab-a51c-d6c0-d294-bf89e3a17310"><li><p id="_8de6d40c-1c0e-c915-79c3-1d8b1639bf6e">RESTRICTED information must be encrypted during storage and transmission over an un-trusted communication network, e.g. wireless network. If symmetric encryption is selected, the key length shall be at least 128-bit for the Advanced Encryption Standard (AES) encryption or equivalent. If asymmetric encryption is selected, the key length shall be at least 2048-bit for the RSA encryption. Alternatively, the requirement can be met by Elliptic Curve Cryptography (ECC) encryption with key length of at least 224-bit or equivalent.</p>
+</li>
+</ul>
+</li>
+<li><p id="_ec0ba341-9c11-2e02-0ae8-d5af2c3b8c2e">If network printers with storage devices do not meet the above encryption requirements, B/Ds should consider using network printers without built-in storage device and connecting the printers to a trusted network. Alternatively, local printers without built-in storage devices may be used.</p>
+</li>
+<li><p id="_1dc7d2f7-79ad-c435-e432-097c0153beea">If classified information is stored in network printers&#x2019; storage devices, the network printers shall be installed in a physically secure environment. Security measures preventing any possible interfering of the printers shall be put in place.</p>
+</li>
+<li><p id="_259b959d-d660-6e73-2689-717edf208e81">Completely clear or destroy all classified information stored in network printers when they are no longer required.</p>
+</li>
+</ol>
+</div>
+
+<div id="_awareness_training"><h3>5.3.3.&#xA0; Awareness Training</h3>
+
+<p id="_c52b08ac-8475-7db9-0732-f7c397c10356">Awareness training is an important activity to promote both administrators and users security awareness in using network printers. Awareness training to administrators should be arranged to enable them to fully understand the potential security threats encountered, the security requirements of network printers and possible security measures. For general users, trainings may be via user guide, circular or email to raise their awareness of best practices of using network printers.</p>
+
+<p id="_5e1b4a0f-7712-cdec-df6a-92c5702a3001">Generally speaking, awareness training should include but not limited to:</p>
+
+<ol type="1" id="_d27dda9a-72c2-0273-014e-b6b4f899125e"><li><p id="_95906eef-4a45-60d6-3677-2b406990c26e">Information classification and corresponding security requirements for handling information with network printers.</p>
+</li>
+<li><p id="_193d90d8-3ac8-13ad-3364-f18410c1ab12">Protection of printouts.</p>
+</li>
+<li><p id="_f7277ebc-8fec-cb2a-578d-5c644901be4a">Security requirements for network printers in provision, using and decommissioning stages.</p>
+</li>
+</ol>
+</div>
+</div>
+        <div id="_decommissioning_of_network_printers"><h2 id="toc18">5.4.&#xA0; Decommissioning of Network Printers</h2>
+
+<p id="_afd0acf9-7dc5-1963-f714-631237a32080">At the last stage of network printer management life cycle, network printers may be decommissioned due to physical damage, end of support, re-use by other staff or other B/Ds, etc. B/Ds should define device decommission procedures covering secure data deletion and network printers factory reset and disposal such that network printers can be re-used or securely disposed without data leakage.</p>
+
+<ol type="1" id="_8193429a-e7b2-1b75-1bcc-7a4983354600"><li><p id="_63e31ce0-568a-8af0-09fd-3ec0aba50b9f">Secure Data Deletion</p>
+<ul id="_ef58e7d6-3f9b-7744-dcbc-730d32ef35bd"><li><p id="_f047ad9a-590e-040b-9c0a-c25352881675">Clear all the logs and data from network printers. Some network printers provide features to remove information from both non-volatile random-access memory (NVRAM) and hard drive. If no such feature, the NVRAM and hard drive should be wiped manually using data removal software solution or physical destruction.</p>
+</li>
+</ul>
+</li>
+<li><p id="_cf664e1e-84ae-24b9-ff98-ae9198e4aebf">Factory Reset</p>
+<ul id="_0c15544b-bd54-8fa3-6c41-75ebb74eaa58"><li><p id="_247d055e-21f3-6678-4574-01289cb39806">Restore network printers to default factory setting. It could be done by using the &#x201C;Restore Factory Settings&#x201D; function, if available. B/Ds may seek advice from the corresponding product vendors, if necessary.</p>
+</li>
+</ul>
+</li>
+</ol>
+
+<p id="_00023cfb-7b46-1425-a238-148b4950bcde">All classified information stored in network printers shall be completely cleared from the storage media before disposal, re-use or repair in accordance with government security requirements. If for any reason this is not feasible, the storage media must be physically destroyed to prevent the recovery of the classified information.</p>
+</div>
+      </div>
+      <br />
+      <div id="annex-sample-checklist" class="Section3">
+        <h1 class="Annex" id="toc19"><b>Annex A</b><br />(informative)<br /><b>Sample Checklist on Security Configuration for Network Printers</b></h1>
+        <p id="_ec5adbaa-c8f4-342b-2d63-fdcd45ddbbb2">The following list of configuration is recommended for securing network printers used in the offices. B/Ds may adjust the checklist based on their specific business requirements and advice from product vendors or third party consultants, if applicable.</p>
+        <table id="_3fca46bc-d5ec-1870-d396-ea079ed0b978" class="MsoISOTable" style="border-width:1px;border-spacing:0;">
+          <tbody>
+            <tr>
+              <th colspan="2" style="font-weight:bold;text-align:center;vertical-align:middle;border-top:solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;" scope="row">Configurations</th>
+            </tr>
+            <tr>
+              <th colspan="2" style="font-weight:bold;text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;" scope="row">Preparation and Installation</th>
+            </tr>
+            <tr>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">1.</td>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">Isolate the network printer from other systems until the secure configuration is installed and hardened.</td>
+            </tr>
+            <tr>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">2.</td>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">Install the network printer in physically secure environment.</td>
+            </tr>
+            <tr>
+              <th colspan="2" style="font-weight:bold;text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;" scope="row">Network Control</th>
+            </tr>
+            <tr>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">3.</td>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">Disable all protocols<a href="#_3fca46bc-d5ec-1870-d396-ea079ed0b978a" class="TableFootnoteRef">a</a> if they are not being utilised (e.g. AppleTalk, IPX/SPX).</td>
+            </tr>
+            <tr>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">4.</td>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">Assign the network printer with a static IP address<a href="#_3fca46bc-d5ec-1870-d396-ea079ed0b978b" class="TableFootnoteRef">b</a> or limit network access to the printer as possible such as access control lists in the printer configuration.</td>
+            </tr>
+            <tr>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">5.</td>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">Use secure communications (e.g. enable HTTPS for web-based management).</td>
+            </tr>
+            <tr>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">6.</td>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">Encrypt network traffic (e.g. IPsec or SSL/TLS).</td>
+            </tr>
+            <tr>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">7.</td>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">Disable wireless network connection for handling classified information.</td>
+            </tr>
+            <tr>
+              <th colspan="2" style="font-weight:bold;text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;" scope="row">Data Protection Control</th>
+            </tr>
+            <tr>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">8.</td>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">Encrypt data stored in the printer&#x2019;s storage devices, if applicable.</td>
+            </tr>
+            <tr>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">9.</td>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">Ensure that data stored in printer&#x2019;s storage devices is erased completely before decommission.</td>
+            </tr>
+            <tr>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">10.</td>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">If printer&#x2019;s storage devices are used for printing, copying, scanning, faxing or emailing documents, configure the network printer to remove any spooled files, images, and other temporary data from the storage devices using a secure overwrite between jobs.</td>
+            </tr>
+            <tr>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">11.</td>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">Enable authenticated retrieval of print jobs for users, e.g. pull / private printing.</td>
+            </tr>
+            <tr>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">12.</td>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">Enable Secure Multipurpose Internet Mail Extensions (S/MIME) for email transmission of documents, if applicable.
+Administration Control</td>
+            </tr>
+            <tr>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">13.</td>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">Disable all services not used (e.g. FAX, scanner). If the web interface is not required, consider disabling the web server.</td>
+            </tr>
+            <tr>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">14.</td>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">Change the default administrator account name / password, if applicable.</td>
+            </tr>
+            <tr>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">15.</td>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">Set strong passwords for administrator accounts according to password policy.</td>
+            </tr>
+            <tr>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">16.</td>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">Restrict access to management console.</td>
+            </tr>
+            <tr>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">17.</td>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">Disable unneeded services and management protocols<a href="#_3fca46bc-d5ec-1870-d396-ea079ed0b978c" class="TableFootnoteRef">c</a>.</td>
+            </tr>
+            <tr>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">18.</td>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">Apply latest patches for printer&#x2019;s operating system and/or firmware.</td>
+            </tr>
+            <tr>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">19.</td>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">Disable unused communication ports (e.g. Bluetooth, Wi-Fi, NFC, USB).</td>
+            </tr>
+            <tr>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">20.</td>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">Disable unauthorised remote access.</td>
+            </tr>
+            <tr>
+              <th colspan="2" style="font-weight:bold;text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;" scope="row">User Authentication / Authorisation Control</th>
+            </tr>
+            <tr>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">21.</td>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">Enable user identification and authentication for privileged access.</td>
+            </tr>
+            <tr>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">22.</td>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">Restrict users to change the configuration settings.</td>
+            </tr>
+            <tr>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">23.</td>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;">Ensure that only authorised users can modify the global configuration from the console by requiring a password.</td>
+            </tr>
+            <tr>
+              <th colspan="2" style="font-weight:bold;text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.0pt;" scope="row">Logging</th>
+            </tr>
+            <tr>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.5pt;">24.</td>
+              <td style="text-align:left;vertical-align:middle;border-top:none;border-bottom:solid windowtext 1.5pt;">Enable logging (e.g. access log) and review the logs regularly, if applicable.</td>
+            </tr>
+          </tbody>
+        <tfoot><tr><td colspan="2" style="border-top:0pt;border-bottom:solid windowtext 1.5pt;"><div class="TableFootnote"><div id="fn:_3fca46bc-d5ec-1870-d396-ea079ed0b978a"><p id="_955738e1-2f57-aee4-8d16-c8d730604a50" class="TableFootnote"><span><span id="_3fca46bc-d5ec-1870-d396-ea079ed0b978a" class="TableFootnoteRef">a</span>&#xA0; </span>For examples: i) IPP: If the Internet Printing Protocol is not used, then disable it. ii) FTP: This feature is not used in most environments and should be disabled. iii) SMB: Most printers do not provide status report when using SMB printing and should be disabled.</p>
+</div></div><div class="TableFootnote"><div id="fn:_3fca46bc-d5ec-1870-d396-ea079ed0b978b"><p id="_20a94aa4-f0b6-45ac-36e1-68a41d9a51e2" class="TableFootnote"><span><span id="_3fca46bc-d5ec-1870-d396-ea079ed0b978b" class="TableFootnoteRef">b</span>&#xA0; </span>Giving static IP addresses or DHCP reservations makes it easier to monitor the printers and apply access lists on hardware-based firewalls. Consider placing sensitive printers on their own subnet, which may make them easier to identify and secure.</p>
+</div></div><div class="TableFootnote"><div id="fn:_3fca46bc-d5ec-1870-d396-ea079ed0b978c"><p id="_9cbe6844-3d60-2ae6-8495-394178d29e01" class="TableFootnote"><span><span id="_3fca46bc-d5ec-1870-d396-ea079ed0b978c" class="TableFootnoteRef">c</span>&#xA0; </span>For examples: i) Disable web interface if possible; otherwise, enable HTTPS and disable HTTP at least. ii) Disable telnet management interface. iii) Disable SNMP if not used for printing management in your office; otherwise, choose SNMPv3 for its authentication and encryption features if possible.</p>
+</div></div></td></tr></tfoot></table>
+        <p id="_c9526363-9085-83fc-a2c0-66762d061159">The above checklist is NOT exhaustive and only includes some of the most common practices on printer configuration.</p>
+      </div>
+      <br />
+      <div id="annex-use-network" class="Section3">
+        <h1 class="Annex" id="toc20"><b>Annex B</b><br />(informative)<br /><b>Use of Network Printers</b></h1>
+        <p id="_cdadac6b-2671-1512-0811-933517cf949c">Even the network printers have been prepared for secure operation, users should follow the best practices as follows:</p>
+        <ol type="1" id="_df588a45-fa17-59ec-c968-b77e56b95200"><li><p id="_72843522-c885-f502-4ea8-c8e413de7b0c">Use authorised network printers.</p>
+</li>
+<li><p id="_6081affb-3fd9-6f45-ff11-1a6c745d48b2">Do not use printer&#x2019;s wireless connection functionality to handle classified information.</p>
+</li>
+<li><p id="_ea001a94-fbb6-2b9b-7717-5132c7f1d6d7">Observe the security requirements of printing, copying, scanning, faxing and emailing classified documents.</p>
+</li>
+<li><p id="_ad073ef4-54f4-043c-53a8-834673b9b0a5">Use pull / private printing feature so that printouts are only released upon user authentication (e.g. PIN, smart cards) to prevent unintended disclosure of printouts containing classified information.</p>
+</li>
+<li><p id="_9d3cdb6c-1079-4f7b-8033-5cd40b258d1c">Collect the printouts as soon as possible.</p>
+</li>
+<li><p id="_2ed3e9a4-2429-c990-0b38-19d872c5c04c">Do not collect or copy printouts which belong to others and put them back if they are collected unintentionally.</p>
+</li>
+<li><p id="_2a1daf48-019b-33a8-0283-3ff918178672">Set user passwords and select strong encryption method for scanning documents, if applicable.</p>
+</li>
+</ol>
+      </div>
+      <aside id="fn:1" class="footnote"><p id="_c4f9025d-ab3c-32ae-b3c4-b48e58bbe957"><a class="FootnoteRef" href="#fn:1"><sup>1</sup></a>Some printers do not support file overwrite when SSD is used as storage device. B/D could select HDD if the file overwrite feature is necessary.</p>
+<a href="#fnref:1">&#x21A9;</a></aside>
+    </main>
+  <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    "HTML-CSS": { preferredFont: "STIX" },
+    asciimath2jax: { delimiters: [['(#(', ')#)']] }
+ });
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=MML_HTMLorMML-full" async="async"></script>
+<script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"></script>  <script>
+    $("#toc").on('click', 'li', function(e) {
+    $(this).parent().find('li.toc-active').removeClass('toc-active');
+    $(this).addClass('toc-active');
+});
+  </script>
+
+  <script>
+  //TOC toggle animation
+$('#toggle').on('click', function(){
+    if( $('nav').is(':visible') ) {
+        $('nav').animate({ 'left': '-353px' }, 'slow', function(){
+            $('nav').hide();
+        });
+        $('body').animate({ 'margin-left': '0' }, 'slow');
+    }
+    else {
+        $('nav').show();
+        $('nav').animate({ 'left': '0px' }, 'slow');
+        $('body').animate({ 'margin-left': '298px' }, 'slow');
+    }
+});
+</script>
+
+<script>
+    // Scroll to top button
+    window.onscroll = function() {scrollFunction()};
+
+    function scrollFunction() {
+        if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+            document.getElementById("myBtn").style.display = "block";
+        } else {
+            document.getElementById("myBtn").style.display = "none";
+        }
+    }
+
+    // When the user clicks on the button, scroll to the top of the document
+    function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+    }
+    </script>
+
+<script>
+/*
+  $(document).ready(function() {
+	  $('[id^=toc]').each(function ()
+	  {
+	     var currentToc = $(this);
+       var url = window.location.href;
+            currentToc.wrap("<a href='" + url + "#" + currentToc.attr("id") + "'></a>");
+	  });
+});
+*/
+</script>
+
+  <script>
+    document.querySelectorAll('*|svg a').forEach(function(item) {
+      var loc = item.getAttribute('href');
+      if (loc !== null && loc.startsWith('#')) {
+  item.setAttribute('href', location.pathname + loc);
+      }
+});
+  </script>
+
+
+<script>
+
+// jQuery Inline Footnotes v1.0.3
+// Copyright (c) 2011 Vesa Vänskä, released under the MIT License.
+
+// Generated by CoffeeScript 1.6.1
+(function() {
+
+  (function($) {
+    $.inlineFootnote = function(el, options) {
+      var _this = this;
+      this.el = $(el);
+      this.el.data("inlineFootnote", this);
+      this.initialize = function() {
+        this.options = $.extend({}, $.inlineFootnote.defaultOptions, options);
+        this.footnoteId = this.el.attr("href").match(/#(.*)/)[1];
+        if (this.footnoteId) {
+          this.el.mouseenter(this.openBox);
+          return $("body").mousemove(this.closeBox);
+        }
+      };
+      this.openBox = function(event) {
+        var footnoteContent, linkOffset;
+        if (!_this.box) {
+          footnoteContent = $("[id='" + _this.footnoteId + "']").children().filter(":not('" + _this.options.hideFromContent + "')");
+          linkOffset = _this.el.offset();
+          _this.box = $("<div />", {
+            id: _this.options.boxId,
+            html: footnoteContent.clone().find(_this.options.hideFromContent).remove().end(),
+            css: {
+              position: "absolute",
+              top: linkOffset.top,
+              left: linkOffset.left + _this.el.outerWidth()
+            }
+          }).appendTo("body");
+          return _this.positionBox();
+        }
+      };
+      this.closeBox = function(event) {
+        if (_this.box) {
+          if (_this.isHoveringFootnote(event)) {
+            clearTimeout(_this.closeTimeout);
+            return _this.closeTimeout = null;
+          } else {
+            if (!_this.closeTimeout) {
+              return _this.closeTimeout = setTimeout((function() {
+                _this.box.remove();
+                return _this.box = null;
+              }), _this.options.hideDelay);
+            }
+          }
+        }
+      };
+      this.isHoveringFootnote = function(event) {
+        return this.box.is(event.target) || $(event.target).closest(this.box).length > 0 || event.target === this.el[0];
+      };
+      this.positionBox = function() {
+        var boxHorizontalPadding, boxLeft, boxWidth, linkLeftOffset, windowWidth;
+        boxHorizontalPadding = parseInt(this.box.css("padding-left")) + parseInt(this.box.css("padding-right"));
+        linkLeftOffset = this.el.offset().left;
+        windowWidth = $(window).width();
+        if ((windowWidth / 2) > linkLeftOffset) {
+          boxLeft = linkLeftOffset + 20;
+          boxWidth = windowWidth - boxLeft - boxHorizontalPadding - this.options.boxMargin * 2;
+          if (boxWidth > this.options.maximumBoxWidth) {
+            boxWidth = this.options.maximumBoxWidth;
+          }
+        } else {
+          boxWidth = linkLeftOffset - boxHorizontalPadding - this.options.boxMargin * 2;
+          if (boxWidth > this.options.maximumBoxWidth) {
+            boxWidth = this.options.maximumBoxWidth;
+          }
+          boxLeft = linkLeftOffset - boxWidth - this.options.boxMargin * 2;
+        }
+        return this.box.css({
+          width: boxWidth,
+          left: boxLeft
+        });
+      };
+      return this.initialize();
+    };
+    $.inlineFootnote.defaultOptions = {
+      boxMargin: 20,
+      hideDelay: 200,
+      hideFromContent: "[rel=footnote]",
+      maximumBoxWidth: 500,
+      boxId: "footnote_box"
+    };
+    return $.fn.inlineFootnote = function(options) {
+      return this.each(function() {
+        return new $.inlineFootnote(this, options);
+      });
+    };
+  })(jQuery);
+
+}).call(this);
+</script>
+
+<script>
+      $(function() {
+        $("[rel=footnote]").inlineFootnote();
+        });
+</script>
+  <script>
+// @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&dn=expat.txt Expat
+//
+// AnchorJS - v4.2.2 - 2020-04-20
+// https://www.bryanbraun.com/anchorjs/
+// Copyright (c) 2020 Bryan Braun; Licensed MIT
+//
+// @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&dn=expat.txt Expat
+!function(A,e){"use strict";"function"==typeof define&&define.amd?define([],e):"object"==typeof module&&module.exports?module.exports=e():(A.AnchorJS=e(),A.anchors=new A.AnchorJS)}(this,function(){"use strict";return function(A){function f(A){A.icon=A.hasOwnProperty("icon")?A.icon:"",A.visible=A.hasOwnProperty("visible")?A.visible:"hover",A.placement=A.hasOwnProperty("placement")?A.placement:"right",A.ariaLabel=A.hasOwnProperty("ariaLabel")?A.ariaLabel:"Anchor",A.class=A.hasOwnProperty("class")?A.class:"",A.base=A.hasOwnProperty("base")?A.base:"",A.truncate=A.hasOwnProperty("truncate")?Math.floor(A.truncate):64,A.titleText=A.hasOwnProperty("titleText")?A.titleText:""}function p(A){var e;if("string"==typeof A||A instanceof String)e=[].slice.call(document.querySelectorAll(A));else{if(!(Array.isArray(A)||A instanceof NodeList))throw new Error("The selector provided to AnchorJS was invalid.");e=[].slice.call(A)}return e}this.options=A||{},this.elements=[],f(this.options),this.isTouchDevice=function(){return!!("ontouchstart"in window||window.DocumentTouch&&document instanceof DocumentTouch)},this.add=function(A){var e,t,i,n,o,s,a,r,c,h,l,u,d=[];if(f(this.options),"touch"===(l=this.options.visible)&&(l=this.isTouchDevice()?"always":"hover"),0===(e=p(A=A||"h2, h3, h4, h5, h6")).length)return this;for(!function(){if(null!==document.head.querySelector("style.anchorjs"))return;var A,e=document.createElement("style");e.className="anchorjs",e.appendChild(document.createTextNode("")),void 0===(A=document.head.querySelector('[rel="stylesheet"],style'))?document.head.appendChild(e):document.head.insertBefore(e,A);e.sheet.insertRule(".anchorjs-link{opacity:0;text-decoration:none;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}",e.sheet.cssRules.length),e.sheet.insertRule(":hover>.anchorjs-link,.anchorjs-link:focus{opacity:1}",e.sheet.cssRules.length),e.sheet.insertRule("[data-anchorjs-icon]::after{content:attr(data-anchorjs-icon)}",e.sheet.cssRules.length),e.sheet.insertRule('@font-face{font-family:anchorjs-icons;src:url(data:n/a;base64,AAEAAAALAIAAAwAwT1MvMg8yG2cAAAE4AAAAYGNtYXDp3gC3AAABpAAAAExnYXNwAAAAEAAAA9wAAAAIZ2x5ZlQCcfwAAAH4AAABCGhlYWQHFvHyAAAAvAAAADZoaGVhBnACFwAAAPQAAAAkaG10eASAADEAAAGYAAAADGxvY2EACACEAAAB8AAAAAhtYXhwAAYAVwAAARgAAAAgbmFtZQGOH9cAAAMAAAAAunBvc3QAAwAAAAADvAAAACAAAQAAAAEAAHzE2p9fDzz1AAkEAAAAAADRecUWAAAAANQA6R8AAAAAAoACwAAAAAgAAgAAAAAAAAABAAADwP/AAAACgAAA/9MCrQABAAAAAAAAAAAAAAAAAAAAAwABAAAAAwBVAAIAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAMCQAGQAAUAAAKZAswAAACPApkCzAAAAesAMwEJAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAAAAAAAAAAAAAQAAg//0DwP/AAEADwABAAAAAAQAAAAAAAAAAAAAAIAAAAAAAAAIAAAACgAAxAAAAAwAAAAMAAAAcAAEAAwAAABwAAwABAAAAHAAEADAAAAAIAAgAAgAAACDpy//9//8AAAAg6cv//f///+EWNwADAAEAAAAAAAAAAAAAAAAACACEAAEAAAAAAAAAAAAAAAAxAAACAAQARAKAAsAAKwBUAAABIiYnJjQ3NzY2MzIWFxYUBwcGIicmNDc3NjQnJiYjIgYHBwYUFxYUBwYGIwciJicmNDc3NjIXFhQHBwYUFxYWMzI2Nzc2NCcmNDc2MhcWFAcHBgYjARQGDAUtLXoWOR8fORYtLTgKGwoKCjgaGg0gEhIgDXoaGgkJBQwHdR85Fi0tOAobCgoKOBoaDSASEiANehoaCQkKGwotLXoWOR8BMwUFLYEuehYXFxYugC44CQkKGwo4GkoaDQ0NDXoaShoKGwoFBe8XFi6ALjgJCQobCjgaShoNDQ0NehpKGgobCgoKLYEuehYXAAAADACWAAEAAAAAAAEACAAAAAEAAAAAAAIAAwAIAAEAAAAAAAMACAAAAAEAAAAAAAQACAAAAAEAAAAAAAUAAQALAAEAAAAAAAYACAAAAAMAAQQJAAEAEAAMAAMAAQQJAAIABgAcAAMAAQQJAAMAEAAMAAMAAQQJAAQAEAAMAAMAAQQJAAUAAgAiAAMAAQQJAAYAEAAMYW5jaG9yanM0MDBAAGEAbgBjAGgAbwByAGoAcwA0ADAAMABAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAH//wAP) format("truetype")}',e.sheet.cssRules.length)}(),t=document.querySelectorAll("[id]"),i=[].map.call(t,function(A){return A.id}),o=0;o<e.length;o++)if(this.hasAnchorJSLink(e[o]))d.push(o);else{if(e[o].hasAttribute("id"))n=e[o].getAttribute("id");else if(e[o].hasAttribute("data-anchor-id"))n=e[o].getAttribute("data-anchor-id");else{for(c=r=this.urlify(e[o].textContent),a=0;void 0!==s&&(c=r+"-"+a),a+=1,-1!==(s=i.indexOf(c)););s=void 0,i.push(c),e[o].setAttribute("id",c),n=c}(h=document.createElement("a")).className="anchorjs-link "+this.options.class,h.setAttribute("aria-label",this.options.ariaLabel),h.setAttribute("data-anchorjs-icon",this.options.icon),this.options.titleText&&(h.title=this.options.titleText),u=document.querySelector("base")?window.location.pathname+window.location.search:"",u=this.options.base||u,h.href=u+"#"+n,"always"===l&&(h.style.opacity="1"),""===this.options.icon&&(h.style.font="1em/1 anchorjs-icons","left"===this.options.placement&&(h.style.lineHeight="inherit")),"left"===this.options.placement?(h.style.position="absolute",h.style.marginLeft="-1em",h.style.paddingRight="0.5em",e[o].insertBefore(h,e[o].firstChild)):(h.style.paddingLeft="0.375em",e[o].appendChild(h))}for(o=0;o<d.length;o++)e.splice(d[o]-o,1);return this.elements=this.elements.concat(e),this},this.remove=function(A){for(var e,t,i=p(A),n=0;n<i.length;n++)(t=i[n].querySelector(".anchorjs-link"))&&(-1!==(e=this.elements.indexOf(i[n]))&&this.elements.splice(e,1),i[n].removeChild(t));return this},this.removeAll=function(){this.remove(this.elements)},this.urlify=function(A){return this.options.truncate||f(this.options),A.trim().replace(/\'/gi,"").replace(/[& +$,:;=?@"#{}|^~[`%!'<>\]\.\/\(\)\*\\\n\t\b\v]/g,"-").replace(/-{2,}/g,"-").substring(0,this.options.truncate).replace(/^-+|-+$/gm,"").toLowerCase()},this.hasAnchorJSLink=function(A){var e=A.firstChild&&-1<(" "+A.firstChild.className+" ").indexOf(" anchorjs-link "),t=A.lastChild&&-1<(" "+A.lastChild.className+" ").indexOf(" anchorjs-link ");return e||t||!1}}});
+// @license-end
+  </script>
+    <script>
+  anchors.options = {
+  placement: 'left'
+};
+anchors.add('h1, h2, h3, h4');
+</script>
+
+</body>
+</html>

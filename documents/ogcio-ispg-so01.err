@@ -1,0 +1,80 @@
+/__w/hk-ogcio-infosec-docs/hk-ogcio-infosec-docs/site/documents/ogcio-ispg-so01.err errors
+
+
+== Document Attributes
+
+(): '' is not a legal document type: reverting to 'standard'
+(): '' is not a permitted subtype of Standard: reverting to 'implementation'
+
+
+== Style
+
+(): Abstract is missing!
+(): Keywords are missing!
+(): Preface is missing!
+(): Submitting Organizations is missing!
+(): Submitters is missing!
+(): Prefatory material must be followed by (clause) Scope
+(): Scope must be followed by Conformance
+(): Normative References must be followed by Terms and Definitions
+(): Normative References are mandatory
+
+
+== Metanorma XML Style Warning
+
+(XML Line 000031): Table should have title
+	<table id="_fafce796-5207-1e30-fe28-8fc25e79db72" unnumbered="true"><tbody><tr><th colspan="5" valign="middle" align="center">Amendment History</th>
+	</tr><tr><th valign="middle" align="center">Change Number</th>
+	<th valign="middle" align="center">Revision Description</th>
+	<th valign="middle" align="center">Pages Affected</th>
+	<th valign="middle" align="center">Revision Number</th>
+(XML Line 000041): Hanging paragraph in clause
+	<clause id="_introduction" obligation="normative">
+	<title>Introduction</title>
+	<p id="_acfd0048-376a-e390-6158-c2685fd77036">Nowadays, new generation of network printers are “smart” machines that have central processing units, the capability of storing information they processed in their internal storage devices; and connecting to wired or wireless networks. With these capabilities, most of the current network printers can be used for more than just printing; they can also be used for copying, scanning, faxing and emailing documents. Some of the network printers even have internal servers or routers. Hence, network printers are similar to other computer equipment which could be suffered from various types of security threats (e.g. data leakage) if they are not properly protected / used.</p>
+	
+	<p id="_1a388b78-0090-53d9-692a-814f22ea499f">This practice guide is developed to provide guidance notes for Bureaux/Departments (B/Ds) to make reference in securing the use of network printers in their offices.</p>
+(XML Line 000069): Table should have title
+	<table id="_4cba4631-bf78-a281-314a-fcfbed39fde6" unnumbered="true"><tbody><tr><th colspan="2" valign="middle" align="left">Abbreviation and Terms</th>
+	</tr><tr><td valign="middle" align="left">N/A</td>
+	<td valign="middle" align="left">N/A</td>
+	</tr></tbody>
+	</table>
+(XML Line 000090): Hanging paragraph in clause
+	<clause id="_information_security_management" obligation="normative">
+	<title>Information Security Management</title>
+	<p id="_71f579a6-d180-acdc-c4f1-274a0cd23c40">Information security is about the planning, implementation and continuous enhancement of security controls and measures to protect the confidentiality, integrity and availability of information assets, whether in storage, processing, or transmission and its associated information systems. Information security management is a set of principles relating to the functions of planning, organising, directing, controlling, and the application of these principles in harnessing physical, financial, human and informational resources efficiently and effectively to assure the safety of information assets and information systems.</p>
+	
+	<p id="_5d0529d4-09f9-68d6-5fe2-46dd7e4ecd11">Information security management involves a series of activities that require continuous monitoring and control. These activities include but not limited to the following functional areas:</p>
+(XML Line 000159): Hanging paragraph in clause
+	<clause id="_network_printer_security" obligation="normative">
+	<title>Network Printer Security</title>
+	<p id="_d56c6d00-e0dd-4cf3-988c-380be2bf2847">In information security management, the “Security Operations” functional area includes the deployment of proper security protection and safeguards to reduce the risk of successful attacks. In light of the ever-increasing abilities of network printers which have the similar capabilities of networked computer equipment, network printers are also facing similar security threats that need to be properly managed. Network printer security is, therefore, a major area under the “Security Operations” functional area of information security management.</p>
+	
+	<p id="_5236d293-253f-6a2f-23cc-e4563c331872">This section highlights the security measures and best practices to address the common security concerns and illustrates how they should be incorporated in the major stages of network printer management life cycle including provision, use and decommission. B/Ds may select and map the security measures and best practices to their own management life cycle model based on their business needs.</p>
+(XML Line 000165): Hanging paragraph in clause
+	<clause id="_security_concerns_of_network_printers" obligation="normative">
+	<title>Security Concerns of Network Printers</title>
+	<p id="_aaa9d392-2ecc-b0d7-f665-ec2b640c0210">Network printers have the capabilities of storing data in their storage devices and connecting to wired or wireless networks for printing, copying, scanning, faxing and emailing documents. They can also use network protocols commonly available in computer equipment, such as File Transfer Protocol (FTP), Hyper Text Transport Protocol (HTTP), Hyper Text Transport Protocol Secure (HTTPS), Internet Printing Protocol (IPP), Server Message Block (SMB), Simple Network Management Protocol (SNMP) and telnet. Hence, network printers expose similar security threats faced by other connected computing devices. Major threats applicable to network printers are highlighted below. B/Ds should take reference of these common security threats and avoid them in using network printers.</p>
+	
+	<clause id="_general_threats_and_vulnerabilities" obligation="normative">
+(XML Line 000286): Hanging paragraph in clause
+	<clause id="_management_of_network_printers" obligation="normative">
+	<title>Management of Network Printers</title>
+	<p id="_fc223d34-efcf-8e2c-8e93-e82bd013303e">Even if the security requirements have been fully considered in the provisioning stage, people and process are two main factors for keeping network printers in a safe environment. Therefore, this section focuses on the best practices related to on-going operation process for the management of network printers whereas best practices for using network printers by end-users are provided at <xref target="annex-use-network"/>.</p>
+	
+	<clause id="_on_going_operation_of_network_printers" obligation="normative">
+(XML Line 000383): Table should have title
+	<table id="_3fca46bc-d5ec-1870-d396-ea079ed0b978" unnumbered="true"><tbody><tr><th colspan="2" valign="middle" align="center">Configurations</th>
+	</tr><tr><th colspan="2" valign="middle" align="left">Preparation and Installation</th>
+	</tr><tr><td valign="middle" align="left">1.</td>
+	<td valign="middle" align="left">Isolate the network printer from other systems until the secure configuration is installed and hardened.</td>
+	</tr><tr><td valign="middle" align="left">2.</td>
+
+
+== Metanorma XML Syntax
+
+(XML Line 000009:113): element "ext" incomplete; missing required element "editorialgroup"
+(XML Line 000129:102): element "clause" not allowed here; expected element "abstract" or "foreword"
+(XML Line 000129:269): element "preface" incomplete; missing required element "foreword"
+(XML Line 000587:16): element "ogc-standard" incomplete; missing required element "bibliography"

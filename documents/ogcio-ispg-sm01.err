@@ -1,0 +1,144 @@
+/__w/hk-ogcio-infosec-docs/hk-ogcio-infosec-docs/site/documents/ogcio-ispg-sm01.err errors
+
+
+== Document Attributes
+
+(): '' is not a legal document type: reverting to 'standard'
+(): '' is not a permitted subtype of Standard: reverting to 'implementation'
+
+
+== Style
+
+(): Abstract is missing!
+(): Keywords are missing!
+(): Submitting Organizations is missing!
+(): Submitters is missing!
+(): Prefatory material must be followed by (clause) Scope
+(): Scope must be followed by Conformance
+(): Normative References must be followed by Terms and Definitions
+(): Normative References are mandatory
+
+
+== Metanorma XML Style Warning
+
+(XML Line 000033): Table should have title
+	<table id="_bdcd1914-25ce-bda2-7914-53c6756ad3f6" unnumbered="true"><tbody><tr><th colspan="5" valign="middle" align="left">Amendment History</th>
+	</tr><tr><td valign="middle" align="center">Change Number</td>
+	<td valign="middle" align="center">Revision Description</td>
+	<td valign="middle" align="center">Pages Affected</td>
+	<td valign="middle" align="center">Revision Number</td>
+(XML Line 000053): Hanging paragraph in clause
+	<clause id="_introduction" obligation="normative">
+	<title>Introduction</title>
+	<p id="_02825768-9565-ebe5-ab86-cf7693309780">Information Technology (IT) security risk assessment and security audit are the major components of information security management. This document provides a reference model to facilitate the alignment on the coverage, methodology, and deliverables of the services to be provided by independent security consultants or auditors. With this model, managerial users, IT managers, system administrators and other technical and operational staff can have more understanding about security risk assessment and audit. They should be able to understand what preparations are required, which areas should be noted, and what results would be obtained. It is not the intention of this document to focus on how to conduct a security risk assessment or audit.</p>
+	
+	<clause id="_purpose" obligation="normative">
+(XML Line 000087): Table should have title
+	<table id="_535c7247-0c59-8241-aa75-5aba169b6499" unnumbered="true"><tbody><tr><th colspan="2" valign="middle" align="left">Abbreviation and Terms</th>
+	</tr><tr><td valign="middle" align="left">Security Risk Assessment</td>
+	<td valign="middle" align="left">It is a process to identify, analyse and evaluate the security risks, and determine the mitigation measures to reduce the risks to an acceptable level.</td>
+	</tr><tr><td valign="middle" align="left">Security Audit</td>
+	<td valign="middle" align="left">It is an audit on the level of compliance with the security policy or standards as a basis to determine the overall state of the existing protection and to verify whether the existing protection has been performed properly.</td>
+(XML Line 000200): Table should have title
+	<table id="_b107335b-bc4d-1314-63c1-29f5315ab248" unnumbered="true"><tbody><tr><th valign="middle" align="left">Security Risk Assessment</th>
+	<th valign="middle" align="left">Security Audit</th>
+	</tr><tr><td valign="middle" align="left">The identification of threat and vulnerabilities, evaluation of the levels of risk involved, and determination of an acceptable level of risk and corresponding risk mitigation strategies</td>
+	<td valign="middle" align="left">The processes to ascertain the effective implementation of security measures against the departmental IT security policies, standards, and other contractual or legal requirements</td>
+	</tr><tr><td valign="middle" align="left">Focus on the risk perspective, assessment areas not necessarily related to security policies and standards</td>
+(XML Line 000220): Hanging paragraph in clause
+	<clause id="security_risk_assessment" obligation="normative">
+	<title>Security Risk Assessment</title>
+	<p id="_fc57a00f-0082-2981-b299-5cf482acecb4">Security risk assessment is the process to identify, analyse and evaluate the security risks, and determine the mitigation measures to reduce the risks to an acceptable level. The assessment process of a system includes the identification and analysis of :</p>
+	
+	<ul id="_ba64642a-7ed0-71dd-699f-6a5c642a5cbe"><li><p id="_fe66ce02-31df-1943-dc78-f087ef4d6d37">all assets of and processes related to the system</p>
+(XML Line 000276): Hanging paragraph in clause
+	<clause id="_steps_on_security_risk_assessment" obligation="normative">
+	<title>Steps on Security Risk Assessment</title>
+	<p id="_b57b7af8-cca7-55b5-7a72-f244dd85068c">Security Risk Assessment involves several major activities as shown in <xref target="fig2"/>.
+	They are : Planning, Information Gathering, Risk Analysis, Identifying and Selecting Safeguards and Monitoring &amp; Implementation.</p>
+	
+(XML Line 000285): Hanging paragraph in clause
+	<clause id="_planning" obligation="normative">
+	<title>Planning</title>
+	<p id="_57d1f169-fe0e-9244-2544-f6c4108f026c">Before a security risk assessment can start, planning is required for proper preparation, monitor and control. One suggestion is to inform the stakeholders, such as the network team, the application team and the security incident handling team in advance if risk assessment exercises covering penetration testing or vulnerability scanning are to be carried out to avoid excessive false alarms generated that might impact the daily operation. Below are several major items that should be defined first.</p>
+	
+	<ul id="_b33fa493-7339-f602-7044-5e4bbdc4c623"><li><p id="_a685081a-666e-0e47-3c6a-50b79bc507f1">Project Scopes and Objectives</p>
+(XML Line 000369): Hanging paragraph in clause
+	<clause id="information_gathering" obligation="normative">
+	<title>Information Gathering</title>
+	<p id="_9b1975e1-4873-a9f8-0827-6b1ceecc3d6d">The objective is to understand the existing system and environment and identify the risks through analysis of the information / data collected.</p>
+	
+	<p id="_fc749ae8-b07f-abfd-ee58-786f7a18e78a">By default, all relevant information should be collected irrespective of storage format. Below are several kinds of information that are often collected.</p>
+(XML Line 000528): Hanging paragraph in clause
+	<clause id="_risk_analysis" obligation="normative">
+	<title>Risk Analysis</title>
+	<p id="_74f38bd4-401c-d1d4-3244-c77d7f22d16a">Risk analysis helps to determine the value of the assets and their associated risks. Risk analysis on every aspect should be performed which include, but is not limited to, the following:</p>
+	
+	<ul id="_018b2cd3-28fe-ec31-4563-f35f4b7118ba"><li><p id="_e1acb731-e30e-aa70-b985-339fbb9d356f">Human resource security</p>
+(XML Line 000883): Hanging paragraph in clause
+	<clause id="_identifying_and_selecting_safeguards" obligation="normative">
+	<title>Identifying and Selecting Safeguards</title>
+	<p id="_b8822fd8-a8d6-18fe-d6f7-d74b796b468d">After reviewing the results of security risk assessment, safeguards may be identified and evaluated for their effectiveness. Security assessment team would recommend possible safeguards to reduce the likelihood and impact of identified threats and vulnerabilities to an acceptable level.</p>
+	
+	<clause id="_common_types_of_safeguards" obligation="normative">
+(XML Line 001030): Hanging paragraph in clause
+	<clause id="security_audit" obligation="normative">
+	<title>Security Audit</title>
+	<p id="_2dbfbf87-dad5-3f17-caa5-d0498031b131">Security Audit is an audit on the level of compliance with the security policy or standards as a basis to determine the overall state of the existing protection and to verify whether the existing protection has been performed properly. It targets at finding out whether the current environment is securely protected in accordance with the defined security policy. It should be performed periodically to ensure the compliance of the security policies and effective implementation of security measures.</p>
+	
+	<p id="_d4f5675f-d666-fecc-596a-7ed972bb3445">A security audit will require security policy and standards, audit checklists and an inventory list, which may cover different areas such as web application, network architecture, wireless communication, etc. <xref target="annexC"/> lists different audit areas. <xref target="annexD"/> provides a sample checklist where items to be checked under different security areas. Security audit may also involve the use of different auditing tools and different review techniques in order to reveal the security non-compliance and loopholes. After the audit process, an audit report will be prepared to highlight the conformance and gaps existed between the current protection and the requirements specified in the security policies.</p>
+(XML Line 001090): Hanging paragraph in clause
+	<clause id="_auditing_steps" obligation="normative">
+	<title>Auditing Steps</title>
+	<p id="_40d60cf3-b2c7-8522-abbe-7beb93f4d34c">In general, a security audit can be divided into the following steps:</p>
+	
+	<ul id="_964309d1-c4c3-bb05-7929-90280e298169"><li><p id="_7fb5ea4e-5c6f-1278-7aef-b1a75b859ce7">Planning</p>
+(XML Line 001112): Hanging paragraph in clause
+	<clause id="_planning_2" obligation="normative">
+	<title>Planning</title>
+	<p id="_f8a1437e-564d-a310-9c29-5563b3a785fb">Planning helps to determine and select effective and efficient methods for performing the audit and obtaining all necessary information. The required time for planning depends on the nature, extent and complexity of the audit.</p>
+	
+	<clause id="_project_scopes_and_objectives_2" obligation="normative">
+(XML Line 001434): Hanging paragraph in clause
+	<clause id="_commitment" obligation="normative">
+	<title>Commitment</title>
+	<p id="_03788093-624d-1d0a-edd1-cee2fa4e76cb">Individual and departmental commitment is important for implementation of the recommendations. Security consultants / auditors, staff and management may have different interests, emphasis and priority given to the recommendations.</p>
+	
+	<clause id="_security_consultants_auditors" obligation="normative">
+(XML Line 001484): Hanging paragraph in clause
+	<clause id="_monitoring_and_follow_up" obligation="normative">
+	<title>Monitoring and Follow-Up</title>
+	<p id="_35b9e8eb-6a17-8a2e-b0a8-3a9498e242ac">Monitoring and follow-up consists of three major steps:</p>
+	
+	<ul id="_82cd9f18-9b5d-b8d2-7f28-328106af9682"><li><p id="_9ea7dce9-222b-dfb5-6c37-5d43dc15395a">Set up an effective monitoring and follow-up system.</p>
+(XML Line 001518): Hanging paragraph in clause
+	<clause id="_perform_active_monitoring_reporting" obligation="normative">
+	<title>Perform Active Monitoring &amp; Reporting</title>
+	<p id="_0d31bc3f-f0b7-fd1f-1b88-e0c389a23a4d">Proactively monitoring and reporting the progress and status of actions, and taking follow-up actions on all recommendations are required until implementation is completed.</p>
+	
+	<clause id="_progress_status_of_actions" obligation="normative">
+(XML Line 001571): Table should have title
+	<table id="_9c54eb81-6577-31cd-2a9a-dd5d7e264cb7" unnumbered="true"><tbody><tr><th valign="middle" align="left">Sample Questions</th>
+	</tr><tr><td valign="middle" align="left"><strong><em>Rules &amp; Policy</em></strong></td>
+	</tr><tr><td valign="middle" align="left">- Are there any appropriate security policy, guidelines or procedures established?<br/>
+	- Do the existing security policy/procedures/guidelines adequately state what are allowed or not allowed to do?<br/>
+	- Are staff and users informed of their obligation with regard to the relevant laws, security policy and procedures before giving access rights?<br/>
+(XML Line 002062): Table should have title
+	<table id="_d08097bd-5f37-1d1f-b618-44c47a586112" unnumbered="true"><tbody><tr><th valign="middle" align="left">Items to be checked</th>
+	</tr><tr><td valign="middle" align="left"><strong><em>Management Responsibilities</em></strong></td>
+	</tr><tr><td valign="middle" align="left">- Departmental IT security organisational framework and the associated roles and responsibilities are defined.<br/>
+	- Sufficient segregation of duties to avoid execution of all security functions of an information system by a single individual is applied.<br/>
+	- Departmental budget covers the provision for necessary security safeguards and resources.</td>
+(XML Line 002226): Table should have title
+	<table id="_c18f2a7e-3783-0882-bafe-43823fc2cc64" unnumbered="true"><tbody><tr><th valign="middle" align="center">No.</th>
+	<th valign="middle" align="center">Documented Evidence</th>
+	</tr><tr><td valign="middle" align="center">1</td>
+	<td valign="middle" align="left">IT Organisation Chart (with staff names &amp; posts)</td>
+	</tr><tr><td valign="middle" align="center">2</td>
+
+
+== Metanorma XML Syntax
+
+(XML Line 000009:113): element "ext" incomplete; missing required element "editorialgroup"
+(XML Line 000133:104): element "clause" not allowed here; expected the element end-tag or element "submitters"
+(XML Line 002479:16): element "ogc-standard" incomplete; missing required element "bibliography"

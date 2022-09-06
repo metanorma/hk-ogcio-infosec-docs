@@ -1,0 +1,102 @@
+/__w/hk-ogcio-infosec-docs/hk-ogcio-infosec-docs/site/documents/ogcio-ispg-sm04.err errors
+
+
+== Document Attributes
+
+(): '' is not a legal document type: reverting to 'standard'
+(): '' is not a permitted subtype of Standard: reverting to 'implementation'
+
+
+== Style
+
+(): Abstract is missing!
+(): Keywords are missing!
+(): Submitting Organizations is missing!
+(): Submitters is missing!
+(): Prefatory material must be followed by (clause) Scope
+(): Scope must be followed by Conformance
+(): Normative References must be followed by Terms and Definitions
+(): Normative References are mandatory
+
+
+== Metanorma XML Style Warning
+
+(XML Line 000033): Table should have title
+	<table id="_b4a9bf15-f1f0-7584-54cb-e5b0da2d4fb1" unnumbered="true"><tbody><tr><th colspan="5" valign="middle" align="center">Amendment History</th>
+	</tr><tr><td valign="middle" align="center">Change Number</td>
+	<td valign="middle" align="center">Revision Description</td>
+	<td valign="middle" align="center">Pages Affected</td>
+	<td valign="middle" align="center">Revision Number</td>
+(XML Line 000048): Hanging paragraph in clause
+	<clause id="_introduction" obligation="normative">
+	<title>Introduction</title>
+	<p id="_88e8a2ee-4f09-98c9-16c4-fc0975fdedb8">This document is intended to serve a diverse group of audience, such as management staff, IT administrators, system owners and information security stakeholders, who have the responsibility to assess the security impact in embracing various cloud computing models for the storage, processing, or transmission of government information.</p>
+	
+	<p id="_fbf531ed-e62b-beaa-b0a0-ca64b60123c5">As cloud computing is rapidly evolving and advancing, new forms of cloud or various derivative combinations of existing ones may emerge. The materials included in this document can generally be applicable. As each cloud computing deployment may have its own characteristics, implementers should consider and select those practices that are applicable to their own environment.</p>
+(XML Line 000099): Table should have title
+	<table id="_88806bcc-8391-25c0-6a5c-214661817b4b" unnumbered="true"><tbody><tr><th colspan="2" valign="middle" align="left">Abbreviation and Terms</th>
+	</tr><tr><td valign="middle" align="left">Cloud Service Provider</td>
+	<td valign="middle" align="left">A company that provides cloud-based platform, infrastructure, application, or storage services to other organisations and/or individuals, usually for a fee.</td>
+	</tr></tbody>
+	</table>
+(XML Line 000228): Table should have title
+	<table id="_6a706660-5dde-e87c-4e6a-20c582041396" unnumbered="true"><tbody><tr><th valign="middle" align="left">Aspects</th>
+	<th valign="middle" align="center">Public Cloud</th>
+	<th valign="middle" align="center">Private Cloud</th>
+	<th valign="middle" align="center">Community Cloud</th>
+	<th valign="middle" align="center">Hybrid Cloud</th>
+(XML Line 000255): Hanging paragraph in clause
+	<clause id="_cloud_security_overview" obligation="normative">
+	<title>Cloud Security Overview</title>
+	<p id="_f5f21f21-306d-7c04-91f7-e603f0ac5b32">As with any new computing model or technology, cloud computing may pose new security risks. A risk-based approach should be adopted when considering use of cloud computing. It is important for B/Ds to consider various security areas such as data confidentiality, integrity, redundancy, resilience, jurisdiction, etc. It is also important to understand what data are being considered moving to the cloud, their risk tolerance, and the service and deployment models being chosen. Users or potential users of cloud services must understand the challenges and risks involved so that they can be better prepared to mitigate or control them. Appropriate security measures and controls should be deployed commensurate with the assessed risk level and the value of the data.</p>
+	
+	<clause id="_cloud_service_model_and_information_security" obligation="normative">
+(XML Line 000276): Hanging paragraph in clause
+	<clause id="_cloud_implementation_scenarios_and_information_security" obligation="normative">
+	<title>Cloud Implementation Scenarios and Information Security</title>
+	<p id="_2f0abae4-2e69-b971-d4a9-8291882d81a7">The degree of security control under the client organisation varies between the public cloud and private cloud. As public cloud is provisioned for the general public and shared use by multiple tenants while private cloud is provisioned for exclusive use by a single organisation, private cloud would give the organisation better control over the network infrastructure and security policies with stronger access controls. Hence, public cloud may face more security threats while private cloud may be more robust to security threats. Implementation scenarios on whether the cloud services are in-house or outsourced as well as on premises or off premises are also important to the security protection for a cloud environment.</p>
+	
+	<figure id="fig3">
+(XML Line 000332): Hanging paragraph in clause
+	<clause id="security_consideration" obligation="normative">
+	<title>Security Consideration and Controls for Cloud Services</title>
+	<p id="_04385352-c0e6-08f8-5b5f-2eee43d61a6f">After understanding the basic concepts of cloud computing and cloud security, the security controls are examined in this chapter. Cloud computing can be viewed as a new way of delivering IT based services to enterprises, rather than a new technology on its own. Specific technologies, of course, gain significant importance in a cloud computing environment, such as virtualisation. For the most part, cloud computing uses similar management tools, operating systems, databases, server platforms, network infrastructure, network protocol, storage arrays, and so on. Therefore, security controls in cloud are largely similar to those controls in traditional IT environment. As such, security controls described in government security documents including the Baseline IT Security Policy [S17] and IT Security Guidelines [G3] will still apply. However, due to the characteristics of the cloud service models and deployment models, and the technologies used to enable cloud services, certain risks in a cloud environment may become more significant and certain risks that do not exist in a traditional IT environment may exist in a cloud environment. The following sub-sections will describe the challenges and cloud-specific security practices for handling such risks. The description will focus on the following security domains.</p>
+	
+	<ul id="_cc0e0669-1485-2335-2d87-01dca7bdcffa"><li><p id="_7fc1ae1c-f6bd-760d-45f5-1f28889e14fc">Management Responsibilities</p>
+(XML Line 000581): Hanging paragraph in clause
+	<clause id="_communications_security" obligation="normative">
+	<title>Communications Security</title>
+	<p id="_91bedffd-dafb-dc2f-fcec-1016f8793969">In a cloud data centre, physical servers and network components are virtualised and probably shared by multiple tenants. Security measures applied to traditional network systems may not effectively protect against network attacks between virtual machines (VM) on the same server in the cloud environment. As some security threats are unique to a virtualisation infrastructure including communication blind spots, inter-VM attacks, and mixed trust level VMs, the dynamic and fluid nature of VM will make it difficult to maintain the security standards and ensure that records can be audited. The ease of cloning and distribution between physical servers could result in the propagation of configuration errors and other vulnerabilities. These security threats and issues arising from virtualisation are required to deal with when adopting and implementing cloud infrastructure.</p>
+	
+	<p id="_f4d9d36a-d017-3961-8995-20699ff832ed">Furthermore, for cloud services, data may be transported across untrusted network (e.g. Internet, public network) and/or government network as data are shared in distributed cloud deployments. Data in transit should be well secured. The security practices on network and communication are crucial to a cloud service.</p>
+(XML Line 000721): Hanging paragraph in clause
+	<clause id="_information_security_incident_management" obligation="normative">
+	<title>Information Security Incident Management</title>
+	<p id="_2a71765a-25e7-f764-752b-be2625876b45">Despite all necessary security measures adopted in an information system, security incidents do occasionally occur in the system. Security incident handling is a set of continuous processes governing the activities before, during and after a security incident occurs. The nature of cloud computing makes it more difficult for client organisations to determine what to do in case of a security incident, data breach or other security issues that require investigation. For example, the client organisation may consider a security incident be classified as critical, but the CSP may not agree and exert little effort for follow-up on the case.</p>
+	
+	<p id="_1cd4bcab-fcbf-c56d-0c3d-ea736379f0d8">The adoption of cloud computing alters the fabric of incident response. Especially, in public clouds, the client organisation does not have direct access to network logs because it does not own the network. Some CSPs, as declared in their standard SLAs, do not have any obligations to investigate any security violations and misuse of services which may lead to security incidents. Client organisations are advised to take note of the security practices on incident monitoring and response as described below.</p>
+(XML Line 000767): Hanging paragraph in clause
+	<clause id="_compliance" obligation="normative">
+	<title>Compliance</title>
+	<p id="_0bac3f07-f022-d80d-108f-f33dcd522285">In consideration of economy of scale, CSPs implement multi-tenancy environment and commingle resources pool. Particularly for public clouds, the data centres, computing devices, data storage and human resources are shared by users. Due to privacy issues, conducting in-depth assessment and audit exercises by specific client organisation is normally not permitted. In most public clouds, the CSP may not be able to agree to custom audit obligations for a specific client organisation. If a CSP does not allow clients to directly conduct SRAA on it, it should be requested to provide third party audit reports which meet industry standards and satisfy B/D’s requirement.</p>
+	
+	<p id="_ae2b6a27-8976-3d4b-282e-e449d960a7a9">It is important to note that cloud computing can refer to several different service models, including SaaS, PaaS and IaaS. The risks and security controls associated with each model as well as the key considerations in outsourcing for the model of service will differ. As a result, the process for conducting the SRAA may also be different.</p>
+(XML Line 000808): Table should have title
+	<table id="_205efb3e-75d9-9b12-2a68-a56bada07117" unnumbered="true"><tbody><tr><th valign="middle" align="center">Security Controls</th>
+	<th valign="middle" align="center">[I]</th>
+	<th valign="middle" align="center">[O]</th>
+	<th valign="middle" align="center">[P]</th>
+	</tr><tr><th colspan="4" valign="middle" align="left">5.1 Management Responsibilities</th>
+(XML Line 001112): Hanging paragraph in clause
+	<annex id="annexB" obligation="informative">
+	<title>Emerging Technologies of Cloud Security</title>
+	<p id="_e97fe2d7-3636-bdd3-4527-9c854cd11b06">With wide adoption of cloud computing, traditional security controls may not be sufficient to protect information assets of an organisation in cloud environment. Because of this, security vendors introduce some new measures for cloud computing security in order to address the related security concerns. Below highlights some examples of emerging technologies in related to cloud security.</p>
+	
+	<clause id="_identity_management_as_a_service_idaas" obligation="informative">
+
+
+== Metanorma XML Syntax
+
+(XML Line 000009:113): element "ext" incomplete; missing required element "editorialgroup"
+(XML Line 000133:104): element "clause" not allowed here; expected the element end-tag or element "submitters"
+(XML Line 001328:16): element "ogc-standard" incomplete; missing required element "bibliography"
