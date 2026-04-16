@@ -1,0 +1,3729 @@
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_2d3acfee.6e9a.40b5"
+
+------=_NextPart_2d3acfee.6e9a.40b5
+Content-ID: <ogcio-ispg-so01.htm>
+Content-Disposition: inline; filename="ogcio-ispg-so01.htm"
+Content-Type: text/html; charset="utf-8"
+
+<?xml version="1.0"?>
+<html xmlns:epub="http://www.idpf.org/2007/ops" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40" lang="en" xml:lang="en">
+  <head>
+<xml>
+<w:WordDocument>
+<w:View>Print</w:View>
+<w:Zoom>100</w:Zoom>
+<w:DoNotOptimizeForBrowser/>
+</w:WordDocument>
+</xml>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8"/>
+
+  <link rel=File-List href="cid:filelist.xml"/>
+<style><![CDATA[
+<!--
+@charset "UTF-8";
+/* Font Definitions */
+@font-face {
+  font-family: Wingdings;
+  panose-1: 5 0 0 0 0 0 0 0 0 0;
+  mso-font-charset: 2;
+  mso-generic-font-family: decorative;
+  mso-font-pitch: variable;
+  mso-font-signature: 0 268435456 0 0 -2147483648 0;
+}
+@font-face {
+  font-family: "MS Mincho";
+  panose-1: 2 2 6 9 4 2 5 8 3 4;
+  mso-font-alt: "ＭＳ 明朝";
+  mso-font-charset: 128;
+  mso-generic-font-family: modern;
+  mso-font-pitch: fixed;
+  mso-font-signature: -536870145 1791491579 134217746 0 131231 0;
+}
+@font-face {
+  font-family: "Cambria Math";
+  panose-1: 2 4 5 3 5 4 6 3 2 4;
+  mso-font-charset: 0;
+  mso-generic-font-family: roman;
+  mso-font-pitch: variable;
+  mso-font-signature: -536870145 1107305727 0 0 415 0;
+}
+@font-face {
+  font-family: "Arial Narrow";
+  panose-1: 2 11 5 6 2 2 2 3 2 4;
+  mso-font-charset: 0;
+  mso-generic-font-family: swiss;
+  mso-font-pitch: variable;
+  mso-font-signature: 3 0 0 0 1 0;
+}
+@font-face {
+  font-family: "Source Sans Pro";
+  panose-1: 2 11 5 3 3 4 3 2 2 4;
+  mso-font-alt: Arial;
+  mso-font-charset: 77;
+  mso-generic-font-family: swiss;
+  mso-font-pitch: variable;
+  mso-font-signature: 536870919 1 0 0 403 0;
+}
+@font-face {
+  font-family: Tahoma;
+  panose-1: 2 11 6 4 3 5 4 4 2 4;
+  mso-font-charset: 0;
+  mso-generic-font-family: swiss;
+  mso-font-pitch: variable;
+  mso-font-signature: -520081665 -1073717157 41 0 66047 0;
+}
+@font-face {
+  font-family: Times;
+  panose-1: 2 0 5 0 0 0 0 0 0 0;
+  mso-font-charset: 0;
+  mso-generic-font-family: auto;
+  mso-font-pitch: variable;
+  mso-font-signature: -536870145 1342185562 0 0 415 0;
+}
+@font-face {
+  font-family: "Wingdings 2";
+  panose-1: 5 2 1 2 1 5 7 7 7 7;
+  mso-font-charset: 2;
+  mso-generic-font-family: decorative;
+  mso-font-pitch: variable;
+  mso-font-signature: 0 268435456 0 0 -2147483648 0;
+}
+@font-face {
+  font-family: "@MS Mincho";
+  panose-1: 2 2 6 9 4 2 5 8 3 4;
+  mso-font-charset: 128;
+  mso-generic-font-family: modern;
+  mso-font-pitch: fixed;
+  mso-font-signature: -536870145 1791491579 134217746 0 131231 0;
+}
+p.MsoNormal, li.MsoNormal, div.MsoNormal {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin: 0cm;
+  margin-bottom: 12pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.5pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US;
+}
+
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph {
+  mso-style-priority: 34;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12pt;
+  /* do not put in margin-left, it is specific to list level */
+  mso-add-space: auto;
+  mso-pagination: widow-orphan;
+  font-size: 10.5pt;
+  font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US;
+}
+
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst {
+  mso-style-priority: 34;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-type: export-only;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12pt;
+  /* do not put in margin-left, it is specific to list level */
+  mso-add-space: auto;
+  mso-pagination: widow-orphan;
+  font-size: 10.5pt;
+  font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US;
+}
+
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle {
+  mso-style-priority: 34;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-type: export-only;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12pt;
+  /* do not put in margin-left, it is specific to list level */
+  mso-add-space: auto;
+  mso-pagination: widow-orphan;
+  font-size: 10.5pt;
+  font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US;
+}
+
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast {
+  mso-style-priority: 34;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-type: export-only;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12pt;
+  /* do not put in margin-left, it is specific to list level */
+  mso-add-space: auto;
+  mso-pagination: widow-orphan;
+  font-size: 10.5pt;
+  font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US;
+}
+
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText {
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-name: "Comment Text";
+  margin: 0cm;
+  margin-bottom: 0.0001pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.0pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US;
+}
+
+p.MsoHeader, li.MsoHeader, div.MsoHeader {
+  mso-style-unhide: no;
+  margin: 0cm;
+  margin-bottom: 0.0001pt;
+  mso-pagination: widow-orphan;
+  tab-stops: center 216pt right 482pt;
+  font-size: 10.5pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US;
+}
+
+p.MsoHeaderLandscape, li.MsoHeaderLandscape, div.MsoHeaderLandscape {
+  mso-style-unhide: no;
+  margin: 0cm;
+  margin-bottom: 0.0001pt;
+  mso-pagination: widow-orphan;
+  tab-stops: center 367pt right 734pt;
+  font-size: 10.5pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US;
+}
+
+p.MsoFooter, li.MsoFooter, div.MsoFooter {
+  mso-style-unhide: no;
+  margin: 0cm;
+  margin-bottom: 0.0001pt;
+  mso-pagination: widow-orphan;
+  tab-stops: right 482pt;
+  font-size: 10.5pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US;
+}
+
+p.MsoFooterLandscape, li.MsoFooterLandscape, div.MsoFooterLandscape {
+  mso-style-unhide: no;
+  margin: 0cm;
+  margin-bottom: 0.0001pt;
+  mso-pagination: widow-orphan;
+  tab-stops: right 734pt;
+  font-size: 10.5pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US;
+}
+
+span.MsoCommentReference {
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-parent: "";
+  mso-ansi-font-size: 8pt;
+  mso-bidi-font-size: 8pt;
+}
+
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText {
+  mso-style-unhide: no;
+  margin-top: 9pt;
+  margin-right: 0cm;
+  margin-bottom: 0cm;
+  margin-left: 0cm;
+  margin-bottom: 0.0001pt;
+  mso-pagination: widow-orphan;
+  font-size: 12pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-bidi-font-family: "Times New Roman";
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US;
+}
+
+p.MsoTitle, li.MsoTitle, div.MsoTitle {
+  mso-style-priority: 10;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-link: "Title Char";
+  mso-style-next: Normal;
+  margin: 0cm;
+  margin-bottom: 0.0001pt;
+  mso-add-space: auto;
+  mso-pagination: widow-orphan;
+  font-size: 28pt;
+  font-family: "Calibri Light", sans-serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-bidi-font-family: "Times New Roman";
+  letter-spacing: -0.5pt;
+  mso-font-kerning: 14pt;
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US;
+}
+
+p.MsoTitleCxSpFirst, li.MsoTitleCxSpFirst, div.MsoTitleCxSpFirst {
+  mso-style-priority: 10;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-link: "Title Char";
+  mso-style-next: Normal;
+  mso-style-type: export-only;
+  margin: 0cm;
+  margin-bottom: 0.0001pt;
+  mso-add-space: auto;
+  mso-pagination: widow-orphan;
+  font-size: 28pt;
+  font-family: "Calibri Light", sans-serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-bidi-font-family: "Times New Roman";
+  letter-spacing: -0.5pt;
+  mso-font-kerning: 14pt;
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US;
+}
+
+p.MsoTitleCxSpMiddle, li.MsoTitleCxSpMiddle, div.MsoTitleCxSpMiddle {
+  mso-style-priority: 10;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-link: "Title Char";
+  mso-style-next: Normal;
+  mso-style-type: export-only;
+  margin: 0cm;
+  margin-bottom: 0.0001pt;
+  mso-add-space: auto;
+  mso-pagination: widow-orphan;
+  font-size: 28pt;
+  font-family: "Calibri Light", sans-serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-bidi-font-family: "Times New Roman";
+  letter-spacing: -0.5pt;
+  mso-font-kerning: 14pt;
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US;
+}
+
+p.MsoTitleCxSpLast, li.MsoTitleCxSpLast, div.MsoTitleCxSpLast {
+  mso-style-priority: 10;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-link: "Title Char";
+  mso-style-next: Normal;
+  mso-style-type: export-only;
+  margin: 0cm;
+  margin-bottom: 0.0001pt;
+  mso-add-space: auto;
+  mso-pagination: widow-orphan;
+  font-size: 28pt;
+  font-family: "Calibri Light", sans-serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-bidi-font-family: "Times New Roman";
+  letter-spacing: -0.5pt;
+  mso-font-kerning: 14pt;
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US;
+}
+
+a:link, span.MsoHyperlink {
+  mso-style-unhide: no;
+  mso-style-parent: "";
+  color: blue;
+  text-decoration: underline;
+  text-underline: single;
+}
+
+a:visited, span.MsoHyperlinkFollowed {
+  mso-style-unhide: no;
+  mso-style-parent: "";
+  color: purple;
+  text-decoration: underline;
+  text-underline: single;
+}
+
+p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject {
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-parent: "Comment Text";
+  mso-style-next: "Comment Text";
+  margin: 0cm;
+  margin-bottom: 0.0001pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.0pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US;
+  font-weight: bold;
+}
+
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate {
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  margin: 0cm;
+  margin-bottom: 0.0001pt;
+  mso-pagination: widow-orphan;
+  font-size: 8pt;
+  font-family: "Tahoma", sans-serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US;
+}
+
+span.blackgraphtxsidebar {
+  mso-style-name: blackgraphtxsidebar;
+  mso-style-unhide: no;
+  mso-style-parent: "";
+}
+
+span.blackgraphtx {
+  mso-style-name: blackgraphtx;
+  mso-style-unhide: no;
+  mso-style-parent: "";
+}
+
+.MsoChpDefault {
+  mso-style-type: export-only;
+  mso-default-props: yes;
+}
+
+div.figure, p.figure {
+  text-align: center;
+}
+
+h1, .h1 {
+  mso-style-priority: 1;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-name: "Heading 1";
+  mso-style-link: "Heading 1 Char";
+  mso-style-next: Normal;
+  margin-top: 13.5pt;
+  margin-right: 0cm;
+  margin-bottom: 12pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 13.5pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 0.7cm;
+  font-size: 13pt;
+  mso-bidi-font-size: 11pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  color: #0E1A85;
+  mso-font-kerning: 0pt;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal;
+}
+
+h1 {
+  mso-outline-level: 1;
+  mso-list: l1 level1 lfo6;
+}
+
+h1.Annex {
+  mso-style-priority: 1;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-link: "Heading 1 Char";
+  mso-style-next: Normal;
+  margin-top: 3pt;
+  margin-right: 0cm;
+  margin-bottom: 12pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.5pt;
+  text-align: center;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  font-weight: normal;
+  mso-outline-level: 1;
+  mso-list: l1 level1 lfo6;
+  mso-hyphenate: none;
+  tab-stops: 1cm;
+  font-size: 12pt;
+  mso-bidi-font-size: 11pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  color: #0E1A85;
+  mso-font-kerning: 0pt;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal;
+}
+
+.h2Annex {
+  mso-style-priority: 2;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "Heading 1";
+  mso-style-link: "Heading 2 Char";
+  mso-style-next: Normal;
+  margin-top: 3pt;
+  margin-right: 0cm;
+  margin-bottom: 12pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.5pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 2;
+  mso-hyphenate: none;
+  tab-stops: 1cm;
+  font-size: 12pt;
+  font-weight: bold;
+  mso-bidi-font-size: 11pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  color: #0E1A85;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal;
+}
+
+h2, .h2 {
+  mso-style-priority: 2;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-name: "Heading 2";
+  mso-style-parent: "Heading 1";
+  mso-style-link: "Heading 2 Char";
+  mso-style-next: Normal;
+  margin-top: 3pt;
+  margin-right: 0cm;
+  margin-bottom: 12pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.5pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 1cm;
+  font-size: 12pt;
+  mso-bidi-font-size: 11pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  color: #0E1A85;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal;
+}
+
+h2 {
+  mso-outline-level: 2;
+  mso-list: l1 level2 lfo6;
+}
+
+h3, .h3 {
+  mso-style-priority: 3;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-name: "Heading 3";
+  mso-style-parent: "Heading 2";
+  mso-style-link: "Heading 3 Char";
+  mso-style-next: Normal;
+  margin-top: 3pt;
+  margin-right: 0cm;
+  margin-bottom: 12pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 1.3cm;
+  font-size: 11pt;
+  font-family: "EB Garamond",serif;
+  color: #0E1A85;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal;
+}
+
+h3 {
+  mso-outline-level: 3;
+  mso-list: l1 level3 lfo6;
+}
+
+h4, .h4 {
+  mso-style-priority: 4;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-name: "Heading 4";
+  mso-style-parent: "Heading 3";
+  mso-style-link: "Heading 4 Char";
+  mso-style-next: Normal;
+  margin-top: 3pt;
+  margin-right: 0cm;
+  margin-bottom: 12pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 1.6cm;
+  font-size: 11pt;
+  font-family: "EB Garamond",serif;
+  color: #0E1A85;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal;
+}
+
+h4 {
+  mso-outline-level: 4;
+  mso-list: l1 level4 lfo6;
+}
+
+h5, .h5 {
+  mso-style-priority: 5;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-name: "Heading 5";
+  mso-style-parent: "Heading 4";
+  mso-style-link: "Heading 5 Char";
+  mso-style-next: Normal;
+  margin-top: 3pt;
+  margin-right: 0cm;
+  margin-bottom: 12pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 1.9cm;
+  font-size: 11pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  color: #0E1A85;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal;
+}
+
+h5 {
+  mso-outline-level: 5;
+  mso-list: l1 level5 lfo6;
+}
+
+h6, .h6 {
+  mso-style-priority: 6;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-name: "Heading 6";
+  mso-style-parent: "Heading 5";
+  mso-style-link: "Heading 6 Char";
+  mso-style-next: Normal;
+  margin-top: 3pt;
+  margin-right: 0cm;
+  margin-bottom: 12pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 2.2cm;
+  font-size: 11pt;
+  font-family: "EB Garamond",serif;
+  color: #0E1A85;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal;
+}
+
+h6 {
+  mso-outline-level: 6;
+  mso-list: l1 level6 lfo6;
+}
+
+p.MsoToc1, li.MsoToc1, div.MsoToc1 {
+  mso-style-priority: 39;
+  mso-style-unhide: no;
+  mso-style-name: "TOC 1";
+  mso-style-next: Normal;
+  margin-top: 6pt;
+  margin-right: 25pt;
+  margin-bottom: 0cm;
+  margin-left: 36pt;
+  margin-bottom: 0.0001pt;
+  text-indent: -36pt;
+  line-height: 12pt;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt 36pt right dotted 487.6pt;
+  font-size: 10.5pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal;
+}
+
+p.MsoToc2, li.MsoToc2, div.MsoToc2 {
+  mso-style-noshow: yes;
+  mso-style-priority: 39;
+  mso-style-unhide: no;
+  mso-style-name: "TOC 2";
+  mso-style-parent: "TOC 1";
+  mso-style-next: Normal;
+  margin-top: 0cm;
+  margin-right: 25pt;
+  margin-bottom: 0cm;
+  margin-left: 36pt;
+  margin-bottom: 0.0001pt;
+  text-indent: -36pt;
+  line-height: 12pt;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt 36pt right dotted 487.6pt;
+  font-size: 10.5pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal;
+}
+
+p.MsoToc3, li.MsoToc3, div.MsoToc3 {
+  mso-style-noshow: yes;
+  mso-style-priority: 39;
+  mso-style-unhide: no;
+  mso-style-name: "TOC 3";
+  mso-style-parent: "TOC 2";
+  mso-style-next: Normal;
+  margin-top: 0cm;
+  margin-right: 25pt;
+  margin-bottom: 0cm;
+  margin-left: 36pt;
+  margin-bottom: 0.0001pt;
+  text-indent: -36pt;
+  line-height: 12pt;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt 36pt right dotted 487.6pt;
+  font-size: 10.5pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal;
+}
+
+p.MsoToc4, li.MsoToc4, div.MsoToc4 {
+  mso-style-noshow: yes;
+  mso-style-priority: 39;
+  mso-style-unhide: no;
+  mso-style-name: "TOC 4";
+  mso-style-parent: "TOC 3";
+  mso-style-next: Normal;
+  margin-top: 0cm;
+  margin-right: 25pt;
+  margin-bottom: 0cm;
+  margin-left: 36pt;
+  margin-bottom: 0.0001pt;
+  text-indent: -36pt;
+  line-height: 12pt;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt 47.9pt right dotted 487.6pt;
+  font-size: 10.5pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal;
+}
+
+p.MsoToc5, li.MsoToc5, div.MsoToc5 {
+  mso-style-noshow: yes;
+  mso-style-priority: 39;
+  mso-style-unhide: no;
+  mso-style-name: "TOC 5";
+  mso-style-parent: "TOC 4";
+  mso-style-next: Normal;
+  margin-top: 0cm;
+  margin-right: 25pt;
+  margin-bottom: 0cm;
+  margin-left: 36pt;
+  margin-bottom: 0.0001pt;
+  text-indent: -36pt;
+  line-height: 12pt;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt 47.9pt right dotted 487.6pt;
+  font-size: 10.5pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal;
+}
+
+p.MsoToc6, li.MsoToc6, div.MsoToc6 {
+  mso-style-noshow: yes;
+  mso-style-priority: 39;
+  mso-style-unhide: no;
+  mso-style-name: "TOC 6";
+  mso-style-parent: "TOC 5";
+  mso-style-next: Normal;
+  margin-top: 0cm;
+  margin-right: 25pt;
+  margin-bottom: 0cm;
+  margin-left: 36pt;
+  margin-bottom: 0.0001pt;
+  text-indent: -36pt;
+  line-height: 12pt;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt 55pt right dotted 487.6pt;
+  font-size: 10.5pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal;
+}
+
+p.MsoToc7, li.MsoToc7, div.MsoToc7 {
+  mso-style-noshow: yes;
+  mso-style-priority: 39;
+  mso-style-unhide: no;
+  mso-style-name: "TOC 7";
+  mso-style-parent: "TOC 6";
+  mso-style-next: Normal;
+  margin-top: 0cm;
+  margin-right: 25pt;
+  margin-bottom: 0cm;
+  margin-left: 36pt;
+  margin-bottom: 0.0001pt;
+  text-indent: -36pt;
+  line-height: 12pt;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt 62.7pt right dotted 487.6pt;
+  font-size: 10.5pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal;
+}
+
+p.MsoToc8, li.MsoToc8, div.MsoToc8 {
+  mso-style-noshow: yes;
+  mso-style-priority: 39;
+  mso-style-unhide: no;
+  mso-style-name: "TOC 8";
+  mso-style-parent: "TOC 7";
+  mso-style-next: Normal;
+  margin-top: 0cm;
+  margin-right: 25pt;
+  margin-bottom: 0cm;
+  margin-left: 36pt;
+  margin-bottom: 0.0001pt;
+  text-indent: -36pt;
+  line-height: 12pt;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt 70.3pt right dotted 487.6pt;
+  font-size: 10.5pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal;
+}
+
+p.MsoToc9, li.MsoToc9, div.MsoToc9 {
+  mso-style-noshow: yes;
+  mso-style-priority: 39;
+  mso-style-unhide: no;
+  mso-style-name: "TOC 9";
+  mso-style-parent: "TOC 8";
+  mso-style-next: Normal;
+  margin-top: 0cm;
+  margin-right: 25pt;
+  margin-bottom: 0cm;
+  margin-left: 36pt;
+  margin-bottom: 0.0001pt;
+  text-indent: -36pt;
+  line-height: 12pt;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt 78pt right dotted 487.6pt;
+  font-size: 10.5pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal;
+}
+
+span.MsoFootnoteReference {
+  mso-style-priority: 99;
+  mso-style-name: "Footnote Reference";
+  vertical-align: super;
+}
+
+p.MsoFootnoteText, li.MsoFootnoteText, div.MsoFootnoteText {
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-link: "Footnote Text Char";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12pt;
+  margin-left: 0cm;
+  text-align: left;
+  line-height: 12pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 10.0pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: EN-US;
+}
+
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText {
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-unhide: no;
+  mso-style-link: "Body Text Char";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6pt;
+  margin-left: 0cm;
+  text-align: left;
+  line-height: 12pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.5pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+}
+
+span.Heading1Char {
+  mso-style-name: "Heading 1 Char";
+  mso-style-priority: 1;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 1";
+  mso-ansi-font-size: 13pt;
+  font-family: "EB Garamond",serif;
+  mso-ascii-font-family: Cambria;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-hansi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal;
+}
+
+span.Heading2Char {
+  mso-style-name: "Heading 2 Char";
+  mso-style-priority: 2;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 2";
+  mso-ansi-font-size: 12pt;
+  font-family: "EB Garamond",serif;
+  mso-ascii-font-family: Cambria;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-hansi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal;
+}
+
+span.Heading3Char {
+  mso-style-name: "Heading 3 Char";
+  mso-style-priority: 3;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 3";
+  mso-ansi-font-size: 11pt;
+  font-family: "EB Garamond",serif;
+  mso-ascii-font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-hansi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal;
+}
+
+span.Heading4Char {
+  mso-style-name: "Heading 4 Char";
+  mso-style-priority: 4;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 4";
+  mso-ansi-font-size: 11pt;
+  font-family: "EB Garamond",serif;
+  mso-ascii-font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-hansi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal;
+}
+
+span.Heading5Char {
+  mso-style-name: "Heading 5 Char";
+  mso-style-priority: 5;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 5";
+  mso-ansi-font-size: 11pt;
+  font-family: "EB Garamond",serif;
+  mso-ascii-font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-hansi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal;
+}
+
+span.Heading6Char {
+  mso-style-name: "Heading 6 Char";
+  mso-style-priority: 6;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 6";
+  mso-ansi-font-size: 11pt;
+  font-family: "EB Garamond",serif;
+  mso-ascii-font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-hansi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal;
+}
+
+p.Tablebody, li.Tablebody, div.Tablebody {
+  mso-style-name: "Table body";
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  margin-top: 3pt;
+  margin-right: 0cm;
+  margin-bottom: 3pt;
+  margin-left: 0cm;
+  line-height: 10.5pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.0pt;
+  mso-bidi-font-size: 11pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+}
+
+/* Page Definitions */
+@page {
+  size: 612pt 792pt;
+  margin: 36pt 53.85pt 21.55pt 53.85pt;
+  mso-header-margin: 42.55pt;
+  mso-footer-margin: 43.1pt;
+  mso-footnote-separator: url(cid:header.html) fs;
+  mso-footnote-continuation-separator: url(cid:header.html) fcs;
+  mso-endnote-separator: url(cid:header.html) es;
+  mso-endnote-continuation-separator: url(cid:header.html) ecs;
+}
+/* List Definitions */
+@list l0 {
+  mso-list-id: 145051656;
+  mso-list-template-ids: 2112159680;
+}
+@list l0:level1 {
+  mso-level-number-format: alpha-upper;
+  mso-level-style-link: ANNEX;
+  mso-level-suffix: none;
+  mso-level-text: "Annex %1";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-ansi-font-size: 14pt;
+  mso-bidi-font-size: 14pt;
+  font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal;
+}
+@list l0:level2 {
+  mso-level-style-link: a2;
+  mso-level-text: "%1.%2";
+  mso-level-tab-stop: 18pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal;
+}
+@list l0:level3 {
+  mso-level-style-link: a3;
+  mso-level-text: "%1.%2.%3";
+  mso-level-tab-stop: 36pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal;
+}
+@list l0:level4 {
+  mso-level-style-link: a4;
+  mso-level-text: "%1.%2.%3.%4";
+  mso-level-tab-stop: 54pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal;
+}
+@list l0:level5 {
+  mso-level-style-link: a5;
+  mso-level-text: "%1.%2.%3.%4.%5";
+  mso-level-tab-stop: 54pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal;
+}
+@list l0:level6 {
+  mso-level-style-link: a6;
+  mso-level-text: "%1.%2.%3.%4.%5.%6";
+  mso-level-tab-stop: 72pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal;
+}
+@list l0:level7 {
+  mso-level-reset-level: level2;
+  mso-level-suffix: space;
+  mso-level-text: "Figure %1.%7 —";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "EB Garamond",serif;
+}
+@list l0:level8 {
+  mso-level-reset-level: level2;
+  mso-level-suffix: space;
+  mso-level-text: "Table %1.%8 —";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "EB Garamond",serif;
+}
+@list l0:level9 {
+  mso-level-number-format: roman-lower;
+  mso-level-text: "(%9)";
+  mso-level-tab-stop: 306pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "EB Garamond",serif;
+}
+@list l1 {
+  mso-list-id: 866942648;
+  mso-list-template-ids: -1756330000;
+}
+@list l1:level1 {
+  mso-level-style-link: "Heading 1";
+  mso-level-text: "%1";
+  mso-level-tab-stop: 21.6pt;
+  mso-level-number-position: left;
+  margin-left: 21.6pt;
+  text-indent: -21.6pt;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal;
+}
+@list l1:level2 {
+  mso-level-style-link: "Heading 2";
+  mso-level-text: "%1.%2";
+  mso-level-tab-stop: 18pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal;
+}
+@list l1:level3 {
+  mso-level-style-link: "Heading 3";
+  mso-level-text: "%1.%2.%3";
+  mso-level-tab-stop: 36pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal;
+}
+@list l1:level4 {
+  mso-level-style-link: "Heading 4";
+  mso-level-text: "%1.%2.%3.%4";
+  mso-level-tab-stop: 54pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal;
+}
+@list l1:level5 {
+  mso-level-style-link: "Heading 5";
+  mso-level-text: "%1.%2.%3.%4.%5";
+  mso-level-tab-stop: 54pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal;
+}
+@list l1:level6 {
+  mso-level-style-link: "Heading 6";
+  mso-level-text: "%1.%2.%3.%4.%5.%6";
+  mso-level-tab-stop: 72pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal;
+}
+@list l1:level7 {
+  mso-level-text: "%1.%2.%3.%4.%5.%6.%7";
+  mso-level-tab-stop: 72pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "EB Garamond",serif;
+}
+@list l1:level8 {
+  mso-level-text: "%1.%2.%3.%4.%5.%6.%7.%8";
+  mso-level-tab-stop: 90pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "EB Garamond",serif;
+}
+@list l1:level9 {
+  mso-level-text: "%1.%2.%3.%4.%5.%6.%7.%8.%9";
+  mso-level-tab-stop: 90pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "EB Garamond",serif;
+}
+/* ordered list */
+@list l2 {
+  mso-list-id: 525294607;
+  mso-list-template-ids: 67633181;
+}
+@list l2:level1 {
+  mso-level-number-format: alpha-lower;
+  mso-level-text: "%1)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 18pt;
+  text-indent: -18pt;
+}
+@list l2:level2 {
+  mso-level-text: "%2)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 36pt;
+  text-indent: -18pt;
+}
+@list l2:level3 {
+  mso-level-number-format: roman-lower;
+  mso-level-text: "%3)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 54pt;
+  text-indent: -18pt;
+}
+@list l2:level4 {
+  mso-level-number-format: alpha-upper;
+  mso-level-text: "%4)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 72pt;
+  text-indent: -18pt;
+}
+@list l2:level5 {
+  mso-level-number-format: roman-upper;
+  mso-level-text: "%5)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 90pt;
+  text-indent: -18pt;
+}
+@list l2:level6 {
+  mso-level-number-format: alpha-lower;
+  mso-level-text: "%6)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 108pt;
+  text-indent: -18pt;
+}
+@list l2:level7 {
+  mso-level-tab-stop: none;
+  mso-level-text: "%7)";
+  mso-level-number-position: left;
+  margin-left: 126pt;
+  text-indent: -18pt;
+}
+@list l2:level8 {
+  mso-level-number-format: roman-lower;
+  mso-level-text: "%8)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 144pt;
+  text-indent: -18pt;
+}
+@list l2:level9 {
+  mso-level-number-format: alpha-upper;
+  mso-level-text: "%9)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 162pt;
+  text-indent: -18pt;
+}
+/* Unordered list */
+@list l3 {
+  mso-list-id: 1308196397;
+  mso-list-type: hybrid;
+  mso-list-template-ids: -277327948 -457018030 67633155 67633157 67633153 67633155 67633157 67633153 67633155 67633157;
+}
+@list l3:level1 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 18pt;
+  text-indent: -18pt;
+}
+@list l3:level2 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 36pt;
+  text-indent: -18pt;
+}
+@list l3:level3 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 54pt;
+  text-indent: -18pt;
+}
+@list l3:level4 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 72pt;
+  text-indent: -18pt;
+}
+@list l3:level5 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 90pt;
+  text-indent: -18pt;
+}
+@list l3:level6 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 108pt;
+  text-indent: -18pt;
+}
+@list l3:level7 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 126pt;
+  text-indent: -18pt;
+}
+@list l3:level8 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 144pt;
+  text-indent: -18pt;
+}
+@list l3:level9 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 162pt;
+  text-indent: -18pt;
+}
+/* steps ordered list: all numbers */
+@list l4 {
+  mso-list-id: 525294608;
+  mso-list-template-ids: 676331812;
+}
+@list l4:level1 {
+  mso-level-text: "%1.";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 18pt;
+  text-indent: -18pt;
+}
+@list l4:level2 {
+  mso-level-text: "%2.";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 36pt;
+  text-indent: -18pt;
+}
+@list l4:level3 {
+  mso-level-text: "%3.";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 54pt;
+  text-indent: -18pt;
+}
+@list l4:level4 {
+  mso-level-text: "%4.";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 72pt;
+  text-indent: -18pt;
+}
+@list l4:level5 {
+  mso-level-text: "%5.";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 90pt;
+  text-indent: -18pt;
+}
+@list l4:level6 {
+  mso-level-text: "%6.";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 108pt;
+  text-indent: -18pt;
+}
+@list l4:level7 {
+  mso-level-tab-stop: none;
+  mso-level-text: "%7.";
+  mso-level-number-position: left;
+  margin-left: 126pt;
+  text-indent: -18pt;
+}
+@list l4:level8 {
+  mso-level-text: "%8.";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 144pt;
+  text-indent: -18pt;
+}
+@list l4:level9 {
+  mso-level-text: "%9.";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 162pt;
+  text-indent: -18pt;
+}
+div.ListContLevel1 {
+  mso-style-priority: 34;
+  margin-left: 18pt;
+  margin-right: 0cm;
+}
+
+div.ListContLevel2 {
+  mso-style-priority: 34;
+  margin-top: 0cm;
+  margin-left: 36pt;
+  margin-right: 0cm;
+}
+
+div.ListContLevel3 {
+  mso-style-priority: 34;
+  margin-left: 54pt;
+  margin-right: 0cm;
+}
+
+div.ListContLevel4 {
+  mso-style-priority: 34;
+  margin-left: 72pt;
+  margin-right: 0cm;
+}
+
+div.ListContLevel5 {
+  mso-style-priority: 34;
+  margin-left: 90pt;
+  margin-right: 0cm;
+}
+
+div.ListContLevel6 {
+  mso-style-priority: 34;
+  margin-left: 108pt;
+  margin-right: 0cm;
+}
+
+div.ListContLevel7 {
+  mso-style-priority: 34;
+  margin-left: 126pt;
+  margin-right: 0cm;
+}
+
+div.ListContLevel8 {
+  mso-style-priority: 34;
+  margin-left: 144pt;
+  margin-right: 0cm;
+}
+
+div.ListContLevel9 {
+  mso-style-priority: 34;
+  margin-left: 162pt;
+  margin-right: 0cm;
+}
+
+table.MsoNormalTable {
+  mso-style-name: "Table Normal";
+  mso-tstyle-rowband-size: 0;
+  mso-tstyle-colband-size: 0;
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-parent: "";
+  mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;
+  mso-para-margin: 0cm;
+  mso-para-margin-bottom: 0.0001pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.0pt;
+  font-family: "EB Garamond",serif;
+}
+
+ol {
+  margin-bottom: 0cm;
+  margin-left: 18pt;
+}
+
+ul {
+  margin-bottom: 0cm;
+  margin-left: 18pt;
+}
+p.Sourcecode table td { padding: 5px; }
+p.Sourcecode table pre { margin: 0; }
+p.Sourcecode, p.Sourcecode .w {
+  color: #444444;
+}
+p.Sourcecode .cp {
+  color: #CC00A3;
+}
+p.Sourcecode .cs {
+  color: #CC00A3;
+}
+p.Sourcecode .c, p.Sourcecode .ch, p.Sourcecode .cd, p.Sourcecode .cm, p.Sourcecode .cpf, p.Sourcecode .c1 {
+  color: #1E90FF;
+}
+p.Sourcecode .kc {
+  color: #C34E00;
+}
+p.Sourcecode .kd {
+  color: #0000FF;
+}
+p.Sourcecode .kr {
+  color: #007575;
+}
+p.Sourcecode .k, p.Sourcecode .kn, p.Sourcecode .kp, p.Sourcecode .kt, p.Sourcecode .kv {
+  color: #0000FF;
+}
+p.Sourcecode .s, p.Sourcecode .sb, p.Sourcecode .sc, p.Sourcecode .ld, p.Sourcecode .sd, p.Sourcecode .s2, p.Sourcecode .se, p.Sourcecode .sh, p.Sourcecode .si, p.Sourcecode .sx, p.Sourcecode .sr, p.Sourcecode .s1, p.Sourcecode .ss {
+  color: #009C00;
+}
+p.Sourcecode .sa {
+  color: #0000FF;
+}
+p.Sourcecode .nb, p.Sourcecode .bp {
+  color: #C34E00;
+}
+p.Sourcecode .nt {
+  color: #0000FF;
+}
+
+
+-->
+]]></style><meta http-equiv=Content-Type content="text/html; charset=UTF-8"/><style>
+  <!--
+
+
+ol
+        {margin-bottom:0cm;}
+ul
+        {margin-bottom:0cm;}
+
+table.MsoISOTable tr
+    {page-break-inside:avoid;}
+
+td { page-break-inside:avoid; }
+tr { page-break-after:avoid; }
+
+table.MsoISOTableBig tr
+    {page-break-inside:auto;}
+
+table.MsoISOTableBig td
+    {page-break-inside:auto;}
+
+span.stem
+    {font-family:"Cambria Math",serif;
+    mso-ascii-font-family:"Cambria Math";
+    font-style:italic;}
+
+dt
+    {page-break-inside:avoid;
+    page-break-after:avoid}
+
+br.section
+    {page-break-before:always;
+    mso-break-type:section-break;}
+br.pagebreak
+    {page-break-before:always;
+    mso-special-character:line-break;}
+
+span.addition {
+        color: blue;
+}
+span.deletion {
+        color: red;
+        text-decoration: line-through;
+}
+
+table.rouge-line-table {
+  border:none;
+  mso-border-alt:none;
+  mso-border-insideh:none;
+  mso-border-insidev:none;
+}
+
+td.rouge-code p.Sourcecode {
+  margin: 0px;
+}
+
+div.table_container {
+  margin-bottom: 14pt;
+}
+
+-->
+</style><style>
+  <!--
+p.Sourcecode, li.Sourcecode, div.Sourcecode, pre.Sourcecode, pre {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 6pt;
+  margin-right: 0cm;
+  margin-bottom: 6pt;
+  margin-left: 0cm;
+  text-align: left;
+  mso-pagination: widow-orphan;
+  tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229pt 274.8pt 320.6pt 366.4pt 412.2pt 458pt 503.8pt 549.6pt 595.4pt 641.2pt 687pt 732.8pt;
+  font-size: 10.0pt;
+  font-family: "Courier Prime",monospace;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Courier New";
+  mso-ansi-language: EN-GB;
+}
+
+p.pseudocode, li.pseudocode, div.pseudocode {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 6pt;
+  margin-right: 0cm;
+  margin-bottom: 6pt;
+  margin-left: 0cm;
+  text-align: left;
+  mso-pagination: widow-orphan;
+  tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229pt 274.8pt 320.6pt 366.4pt 412.2pt 458pt 503.8pt 549.6pt 595.4pt 641.2pt 687pt 732.8pt;
+  font-size: 10.5pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Courier New";
+  mso-ansi-language: EN-GB;
+}
+
+p.Biblio, li.Biblio, div.Biblio, p.NormRef, li.NormRef, div.NormRef {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12pt;
+  margin-left: 33.15pt;
+  text-indent: -33.15pt;
+  tab-stops: 33.15pt;
+  line-height: 12pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.5pt;
+  font-weight: normal;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+}
+
+p.FigureTitle {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6pt;
+  margin-left: 0cm;
+  text-align: center;
+  line-height: 12pt;
+  page-break-before: avoid;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11pt;
+  font-weight: bold;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+}
+
+p.SourceTitle {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6pt;
+  margin-left: 0cm;
+  text-align: center;
+  line-height: 12pt;
+  page-break-before: avoid;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11pt;
+  font-weight: bold;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+}
+
+p.AdmonitionTitle, p.RecommendationTitle, p.RecommendationTestTitle {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6pt;
+  margin-left: 0cm;
+  text-align: center;
+  line-height: 12pt;
+  page-break-after: avoid;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11pt;
+  font-weight: bold;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+}
+
+p.TableTitle, p.ListTitle {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6pt;
+  margin-left: 0cm;
+  text-align: center;
+  page-break-after: avoid;
+  line-height: 12pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+}
+
+p.Note, div.Note, li.Note, p.TableFootnote, div.TableFootnote, li.TableFootnote {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12pt;
+  margin-left: 0cm;
+  text-align: left;
+  line-height: 12pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 2cm;
+  mso-bidi-font-size: 11pt;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+}
+
+p.Note, li.Note, p.TableFootnote, div.TableFootnote, li.TableFootnote {
+  font-size: 10.0pt;
+  font-family: "EB Garamond",serif;
+}
+
+p.ANNEX, li.ANNEX, div.ANNEX {
+  mso-style-name: ANNEX;
+  mso-style-priority: 10;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 24pt;
+  margin-left: 0cm;
+  text-align: center;
+  text-indent: 0cm;
+  line-height: 15.5pt;
+  mso-line-height-rule: exactly;
+  page-break-before: always;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 1;
+  mso-list: l0 level1 lfo12;
+  tab-stops: 20.15pt;
+  font-size: 14pt;
+  mso-bidi-font-size: 11pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal;
+}
+
+p.BiblioTitle, li.BiblioTitle, div.BiblioTitle {
+  mso-style-name: "Biblio Title";
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 15.5pt;
+  margin-left: 0cm;
+  text-align: center;
+  line-height: 15.5pt;
+  mso-pagination: widow-orphan;
+  mso-outline-level: 1;
+  tab-stops: 20.15pt;
+  font-size: 14pt;
+  mso-bidi-font-size: 11pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal;
+}
+
+p.Definition, li.Definition, div.Definition {
+  mso-style-name: Definition;
+  mso-style-priority: 9;
+  mso-style-unhide: no;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12pt;
+  margin-left: 0cm;
+  text-align: left;
+  line-height: 12pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+}
+
+p.ForewordTitle, li.ForewordTitle, div.ForewordTitle {
+  mso-style-name: "Foreword Title";
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 15.5pt;
+  margin-left: 0cm;
+  text-align: left;
+  line-height: 15.5pt;
+  page-break-before: always;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 1;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 14pt;
+  mso-bidi-font-size: 11pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal;
+}
+
+p.IntroTitle, li.IntroTitle, div.IntroTitle {
+  mso-style-name: "Intro Title";
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-parent: "Foreword Title";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 15.5pt;
+  margin-left: 0cm;
+  text-align: left;
+  line-height: 15.5pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 1;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 14pt;
+  mso-bidi-font-size: 11pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  page-break-before: always;
+  mso-bidi-font-weight: normal;
+}
+
+p.TitlePageSubhead, li.TitlePageSubhead, div.TitlePageSubhead {
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-parent: "Foreword Title";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 0pt;
+  margin-left: 0cm;
+  text-align: center;
+  line-height: 15.5pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 10.5pt;
+  mso-bidi-font-size: 11pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal;
+}
+
+p.Terms, li.Terms, div.Terms {
+  mso-style-name: "Term(s)";
+  mso-style-priority: 8;
+  mso-style-unhide: no;
+  mso-style-next: Definition;
+  margin: 0cm;
+  margin-bottom: 0.0001pt;
+  line-height: 12pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 11pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  mso-bidi-font-weight: normal;
+}
+
+p.AltTerms, li.AltTerms, div.AltTerms {
+  mso-style-name: "AltTerm(s)";
+  mso-style-priority: 8;
+  mso-style-unhide: no;
+  mso-style-next: Definition;
+  margin: 0cm;
+  margin-bottom: 0.0001pt;
+  line-height: 12pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 11pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  mso-bidi-font-weight: normal;
+}
+
+p.DeprecatedTerms, li.DeprecatedTerms, div.DeprecatedTerms {
+  mso-style-name: "DeprecatedTerm(s)";
+  mso-style-priority: 8;
+  mso-style-unhide: no;
+  mso-style-next: Definition;
+  margin: 0cm;
+  margin-bottom: 0.0001pt;
+  line-height: 12pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 11pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  mso-bidi-font-weight: normal;
+}
+
+p.TermNum, li.TermNum, div.TermNum {
+  mso-style-name: TermNum;
+  mso-style-priority: 7;
+  mso-style-unhide: no;
+  mso-style-next: "Term(s)";
+  margin: 0cm;
+  margin-bottom: 0.0001pt;
+  line-height: 12pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  tab-stops: 20.15pt;
+  font-size: 11pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal;
+}
+
+p.zzContents, li.zzContents, div.zzContents {
+  mso-style-name: zzContents;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-next: "TOC 1";
+  margin-top: 48pt;
+  margin-right: 0cm;
+  margin-bottom: 15.5pt;
+  margin-left: 0cm;
+  line-height: 15.5pt;
+  mso-line-height-rule: exactly;
+  page-break-before: always;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 14pt;
+  mso-bidi-font-size: 11pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal;
+}
+
+p.TOCTitle, li.TOCTitle, div.TOCTitle {
+  mso-style-name: zzContents;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-next: "TOC 1";
+  margin-top: 48pt;
+  margin-right: 0cm;
+  margin-bottom: 15.5pt;
+  margin-left: 0cm;
+  line-height: 15.5pt;
+  mso-line-height-rule: exactly;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 14pt;
+  mso-bidi-font-size: 11pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal;
+}
+
+p.zzCopyright, li.zzCopyright {
+  mso-style-name: zzCopyright;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 0cm;
+  margin-right: 14.2pt;
+  margin-bottom: 12pt;
+  margin-left: 14.2pt;
+  text-align: left;
+  line-height: 12pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt 25.7pt 481.15pt;
+  padding: 0cm;
+  mso-padding-alt: 1pt 4pt 1pt 4pt;
+  font-size: 10.5pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+}
+
+div.zzCopyright {
+  mso-element: para-border-div;
+  border: solid windowtext 1pt;
+  mso-border-top-alt: solid windowtext 0.5pt;
+  mso-border-left-alt: solid windowtext 0.5pt;
+  mso-border-right-alt: solid windowtext 0.5pt;
+  mso-border-bottom-alt: solid windowtext 0.5pt;
+  padding: 1pt 4pt 0cm 4pt;
+  margin-left: 5.1pt;
+  margin-right: 5.1pt;
+}
+
+p.zzCopyright_address {
+  margin-top: 0cm;
+  margin-right: 14.2pt;
+  margin-bottom: 0pt;
+  margin-left: 14.2pt;
+  mso-layout-grid-align: none;
+  text-autospace: none;
+  padding-left: 20pt;
+  mso-padding-alt-left: 20pt;
+  font-size: 10pt;
+  text-align: left;
+  mso-bidi-font-size: 11pt;
+}
+
+p.zzSTDTitle, li.zzSTDTitle, div.zzSTDTitle {
+  mso-style-name: zzSTDTitle;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 20pt;
+  margin-right: 0cm;
+  margin-bottom: 38pt;
+  margin-left: 0cm;
+  line-height: 17.5pt;
+  mso-line-height-rule: exactly;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 16pt;
+  mso-bidi-font-size: 11pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal;
+}
+
+p.zzSTDTitle1, li.zzSTDTitle1, div.zzSTDTitle1 {
+  mso-style-name: zzSTDTitle;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 0pt;
+  margin-right: 0cm;
+  margin-bottom: 18pt;
+  margin-left: 0cm;
+  line-height: 17.5pt;
+  mso-line-height-rule: exactly;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 16pt;
+  mso-bidi-font-size: 11pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal;
+}
+
+p.Quote, li.Quote, div.Quote {
+  mso-style-priority: 99;
+  margin-top: 0cm;
+  margin-right: 36pt;
+  margin-bottom: 0cm;
+  margin-left: 36pt;
+  text-align: left;
+  line-height: 12pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+}
+
+p.Quote, li.Quote {
+  font-size: 10.5pt;
+  font-family: "EB Garamond",serif;
+}
+
+p.QuoteAttribution {
+  text-align: right;
+  mso-style-priority: 99;
+  margin-top: 0cm;
+  margin-right: 36pt;
+  margin-bottom: 0cm;
+  margin-left: 36pt;
+  line-height: 12pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 10.5pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+}
+
+p.Admonition, li.Admonition, div.Admonition {
+  mso-style-priority: 99;
+  margin-top: 0cm;
+  margin-right: 57.6pt;
+  margin-bottom: 0cm;
+  margin-left: 57.6pt;
+  margin-bottom: 0.0001pt;
+  mso-pagination: widow-orphan;
+  border: none;
+  mso-border-alt: solid #4472C4 0.25pt;
+  mso-border-themecolor: accent1;
+  padding: 0cm;
+  mso-padding-alt: 10pt 10pt 10pt 10pt;
+  mso-ascii-font-family: "EB Garamond",serif;
+  mso-ascii-theme-font: minor-latin;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-fareast-theme-font: minor-fareast;
+  mso-hansi-font-family: "EB Garamond",serif;
+  mso-hansi-theme-font: minor-latin;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-bidi-theme-font: minor-bidi;
+  color: #4472C4;
+  mso-themecolor: accent1;
+  mso-ansi-language: EN-AU;
+}
+
+p.Admonition, li.Admonition {
+  font-size: 12pt;
+  font-family: "EB Garamond",serif;
+  font-style: italic;
+}
+
+p.Code, li.Code, div.Code {
+  mso-style-name: Code;
+  mso-style-priority: 16;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  margin: 0cm;
+  margin-bottom: 0.0001pt;
+  line-height: 10pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 9pt;
+  mso-bidi-font-size: 11pt;
+  font-family: "Courier Prime",monospace;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Source Sans Pro";
+  mso-ansi-language: EN-GB;
+}
+
+p.Formula, li.Formula, div.Formula {
+  mso-style-name: Formula;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 11pt;
+  margin-left: 20.15pt;
+  line-height: 12pt;
+  mso-pagination: widow-orphan;
+  tab-stops: right 487.45pt;
+  font-size: 10.5pt;
+  font-family: "EB Garamond",serif;
+  mso-fareast-font-family: "EB Garamond",serif;
+  mso-bidi-font-family: "EB Garamond",serif;
+  mso-ansi-language: EN-GB;
+}
+
+@page {
+  mso-facing-pages: yes;
+}
+@page WordSection1 {
+  size: 595.3pt 841.9pt;
+  margin: 39.7pt 53.85pt 1cm 53.85pt;
+  mso-header-margin: 35.45pt;
+  mso-footer-margin: 14.2pt;
+  mso-even-header: url(cid:header.html) eh1;
+  mso-header: url(cid:header.html) h1;
+  mso-even-footer: url(cid:header.html) ef1;
+  mso-paper-source: 0;
+}
+div.WordSection1 {
+  page: WordSection1;
+}
+
+@page WordSection2 {
+  size: 595.3pt 841.9pt;
+  margin: 39.7pt 53.85pt 1cm 53.85pt;
+  mso-header-margin: 35.45pt;
+  mso-footer-margin: 14.2pt;
+  mso-page-numbers: roman-lower;
+  mso-even-header: url(cid:header.html) eh2;
+  mso-header: url(cid:header.html) h2;
+  mso-even-footer: url(cid:header.html) ef2;
+  mso-footer: url(cid:header.html) f2;
+  mso-paper-source: 0;
+}
+@page WordSection2L {
+  size: 841.9pt 595.3pt;
+  margin: 39.7pt 53.85pt 1cm 53.85pt;
+  mso-header-margin: 35.45pt;
+  mso-footer-margin: 14.2pt;
+  mso-even-header: url(cid:header.html) eh2l;
+  mso-header: url(cid:header.html) h2l;
+  mso-even-footer: url(cid:header.html) ef2l;
+  mso-footer: url(cid:header.html) f2l;
+  mso-paper-source: 0;
+}
+@page WordSection2P {
+  size: 595.3pt 841.9pt;
+  margin: 39.7pt 53.85pt 1cm 53.85pt;
+  mso-header-margin: 35.45pt;
+  mso-footer-margin: 14.2pt;
+  mso-even-header: url(cid:header.html) eh2;
+  mso-header: url(cid:header.html) h2;
+  mso-even-footer: url(cid:header.html) ef2;
+  mso-footer: url(cid:header.html) f2;
+  mso-paper-source: 0;
+}
+div.WordSection2 {
+  page: WordSection2;
+}
+
+@page WordSection3 {
+  size: 595.3pt 841.9pt;
+  margin: 39.7pt 53.85pt 1cm 53.85pt;
+  mso-header-margin: 35.45pt;
+  mso-footer-margin: 14.2pt;
+  mso-page-numbers: 1;
+  mso-even-header: url(cid:header.html) eh2;
+  mso-header: url(cid:header.html) h2;
+  mso-even-footer: url(cid:header.html) ef3;
+  mso-footer: url(cid:header.html) f3;
+  mso-paper-source: 0;
+}
+@page WordSection3L {
+  size: 841.9pt 595.3pt;
+  margin: 39.7pt 53.85pt 1cm 53.85pt;
+  mso-header-margin: 35.45pt;
+  mso-footer-margin: 14.2pt;
+  mso-even-header: url(cid:header.html) eh2l;
+  mso-header: url(cid:header.html) h2l;
+  mso-even-footer: url(cid:header.html) ef3l;
+  mso-footer: url(cid:header.html) f3l;
+  mso-paper-source: 0;
+}
+@page WordSection3P {
+  size: 595.3pt 841.9pt;
+  margin: 39.7pt 53.85pt 1cm 53.85pt;
+  mso-header-margin: 35.45pt;
+  mso-footer-margin: 14.2pt;
+  mso-even-header: url(cid:header.html) eh2;
+  mso-header: url(cid:header.html) h2;
+  mso-even-footer: url(cid:header.html) ef3;
+  mso-footer: url(cid:header.html) f3;
+  mso-paper-source: 0;
+}
+div.WordSection3 {
+  page: WordSection3;
+}
+
+table.MsoISOTable, table.MsoISOTableBig {
+  mso-style-name: "Table ISO";
+  mso-tstyle-rowband-size: 0;
+  mso-tstyle-colband-size: 0;
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-parent: "";
+  mso-padding-alt: 0cm 2.85pt 0cm 2.85pt;
+  mso-para-margin: 0cm;
+  mso-para-margin-bottom: 0.0001pt;
+  mso-pagination: widow-orphan;
+  border-collapse: collapse;
+  mso-table-layout-alt: fixed;
+  border: solid windowtext 2pt;
+  mso-border-alt: solid windowtext 2pt;
+  mso-yfti-tbllook: 480;
+  mso-border-insideh: 0.75pt solid windowtext;
+  mso-border-insidev: 0.75pt solid windowtext;
+  font-size: 10.0pt;
+  font-family: "EB Garamond",serif;
+}
+
+table.MsoISOTable th, table.MsoISOTableBig th {
+  border: solid windowtext 1pt;
+  mso-border-alt: solid windowtext 1pt;
+  padding: 0cm 2.85pt 0cm 2.85pt;
+}
+
+table.MsoISOTable td, table.MsoISOTableBig td {
+  border: solid windowtext 1pt;
+  mso-border-alt: solid windowtext 1pt;
+  padding: 0cm 2.85pt 0cm 2.85pt;
+}
+
+table.MsoNormalTable th, table.MsoNormalTable td {
+  border: none;
+  mso-border-alt: none;
+}
+
+table.MsoISOTable p, table.MsoISOTableBig p {
+  font-size: 10.0pt;
+}
+
+table.recommendclass, table.recommendclass p {
+  font-size: 10.0pt;
+}
+
+table.MsoTableGrid {
+  mso-style-name: "Table Grid";
+  mso-tstyle-rowband-size: 0;
+  mso-tstyle-colband-size: 0;
+  mso-style-priority: 39;
+  mso-style-unhide: no;
+  border: solid windowtext 1pt;
+  mso-border-alt: solid windowtext 0.5pt;
+  mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;
+  mso-border-insideh: 0.5pt solid windowtext;
+  mso-border-insidev: 0.5pt solid windowtext;
+  mso-para-margin: 0cm;
+  mso-para-margin-bottom: 0.0001pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.0pt;
+  font-family: "EB Garamond",serif;
+}
+
+div.formula {
+  tab-stops: right 487.45pt;
+}
+
+body {
+  tab-interval: 36pt;
+}
+
+.coverpage_docnumber {
+  text-align: center;
+  font-size: 14pt;
+  font-weight: bold;
+}
+
+.coverpage_techcommittee {
+  text-align: center;
+  font-size: 12pt;
+}
+
+.coverpage_docstage {
+  text-align: center;
+  font-size: 30pt;
+  color: #2e81c2;
+}
+
+div.coverpage_warning {
+  mso-element: para-border-div;
+  border: solid windowtext 1pt #2e81c2;
+  mso-border-alt: solid windowtext 0.5pt;
+  padding: 1pt 4pt 1pt 4pt #2e81c2;
+  font-size: 10pt;
+  margin-left: 4.25pt;
+  margin-right: 4.25pt;
+}
+
+.coverpage_warning {
+  color: #2e81c2;
+  font-size: 10pt;
+}
+
+a.TableFootnoteRef, span.TableFootnoteRef {
+  mso-style-priority: 99;
+  mso-style-parent: "Footnote Reference";
+  vertical-align: super;
+}
+
+aside {
+  font-size: 10.0pt;
+}
+
+.example-title {
+  font-weight: bold;
+  margin-left: -36pt;
+}
+
+p.example, li.example, td.example {
+  margin-right: 0pt;
+  margin-left: 0pt;
+  font-size: 10.0pt;
+  font-family: "EB Garamond",serif;
+}
+
+div.example {
+  margin-right: 36pt;
+  margin-left: 36pt;
+  margin-top: 0cm;
+  margin-bottom: 0cm;
+}
+
+p.example, li.example, div.example, td.example {
+  mso-pagination: none;
+}
+
+td.example p.MsoListParagraph {
+  font-size: 10.0pt;
+}
+
+div.example p.MsoListParagraph {
+  font-size: 10.0pt;
+}
+
+div.Note p.MsoListParagraph {
+  font-size: 10.0pt;
+}
+
+div.Note span.stem {
+  font-size: 10.0pt;
+}
+
+div.Note p.Sourcecode, div.Note pre.Sourcecode {
+  font-size: 8pt;
+  margin-left: 1cm;
+}
+
+div.Note table.dl {
+  font-size: 10.0pt;
+  margin-left: 1cm;
+}
+
+span.note_label, span.example_label, td.example_label, td.note_label {
+  font-size: 10.0pt;
+  font-family: "EB Garamond",serif;
+}
+
+table.dl {
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 11pt;
+  margin-left: 20.15pt;
+}
+
+div.license, p.license {
+  font-size: 8pt;
+  font-family: "EB Garamond",serif;
+}
+
+div.warning p {
+  margin-bottom: 6pt;
+  border: none;
+  mso-border-alt: solid windowtext 0.5pt;
+  padding: 0cm;
+  mso-padding-alt: 1pt 4pt 1pt 4pt;
+}
+
+span.fmt-hi {
+  background-color: yellow;
+}
+
+span.AdmittedLabel, span.DeprecatedLabel {
+  color: #00335b;
+  background-color: #CFE2F3;
+}
+
+-->
+</style></head>
+  <body lang="EN-US" link="blue" vlink="#954F72" xml:lang="EN-US">
+    <div class="WordSection1"><p class="MsoNormal" align="right" style="text-align:right">
+  <b style="mso-bidi-font-weight: normal">
+    <span lang="EN-GB" style="font-size:18.0pt;mso-no-proof:yes" xml:lang="EN-GB">Open Geospatial Consortium</span>
+  </b>
+  <b style="mso-bidi-font-weight:normal">
+    <span lang="EN-GB" style="font-size:14.0pt" xml:lang="EN-GB">
+      <o:p class="MsoNormal"></o:p>
+    </span>
+  </b>
+</p>
+
+<p class="MsoNormal" align="right" style="text-align:right">
+  <span lang="EN-GB" style="mso-no-proof:yes;font-size:10.0pt" xml:lang="EN-GB">Submission Date: XXX</span>
+</p><p class="MsoNormal">&#xA0;</p></div>
+    <p class="MsoNormal">
+      <br clear="all" class="section"/>
+    </p>
+    <div class="WordSection2"><div class="license">
+  <div class="boilerplate-license">
+
+<div><a name="_45f6bdf5-80f3-f775-9740-2adafc90b1f7" id="_45f6bdf5-80f3-f775-9740-2adafc90b1f7"></a><p class="TitlePageSubhead">License Agreement</p>
+
+<p class="license"><a name="_772872dd-928c-666f-92c5-676f7f5d3071" id="_772872dd-928c-666f-92c5-676f7f5d3071"></a>Use of this document is subject to the license agreement at <a href="https://www.ogc.org/license">https://www.ogc.org/license</a></p>
+</div>
+</div>
+
+
+<div class="boilerplate-feedback">
+
+<div><a name="boilerplate-standard-feedback" id="boilerplate-standard-feedback"></a><p class="MsoNormal"><a name="_cb0581b2-acf2-995c-21c5-080c40d2dfd0" id="_cb0581b2-acf2-995c-21c5-080c40d2dfd0"></a>Suggested additions, changes and comments on this document are welcome and encouraged. Such suggestions may be submitted using the online change request form on OGC web site: <a href="http://ogc.standardstracker.org/">http://ogc.standardstracker.org/</a></p>
+</div>
+</div>
+
+</div>
+
+<span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif; mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-US;mso-fareast-language: EN-US;mso-bidi-language:AR-SA" xml:lang="EN-US"><br clear="all" style="mso-special-character:line-break;page-break-before:always">
+</br>
+
+</span><div class="authority"><div class="boilerplate-copyright">
+
+<div><a name="_0dd7fcba-8864-d1c9-1a66-41cb867b3e96" id="_0dd7fcba-8864-d1c9-1a66-41cb867b3e96"></a><p class="TitlePageSubhead">Copyright notice</p>
+
+<p style="text-align:center;" align="center" class="MsoNormal"><a name="_4bcb45d4-9570-659a-f07b-b1b30b9944ab" id="_4bcb45d4-9570-659a-f07b-b1b30b9944ab"></a>Copyright &#xA9; 2018 Open Geospatial Consortium<br/> To obtain additional rights of use, visit <a href="https://www.ogc.org/legal">https://www.ogc.org/legal</a></p>
+</div>
+
+<div><a name="_6908548e-204b-56e7-9062-6924cccf2315" id="_6908548e-204b-56e7-9062-6924cccf2315"></a><p class="TitlePageSubhead">Note</p>
+
+<p style="text-align:left;" align="left" class="MsoNormal"><a name="_e1d5d5c4-54c3-2761-be2c-22547f01c057" id="_e1d5d5c4-54c3-2761-be2c-22547f01c057"></a>Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. The Open Geospatial Consortium shall not be held responsible for identifying any or all such patent rights.</p>
+
+<p style="text-align:left;" align="left" class="MsoNormal"><a name="_02892e94-7b43-630a-129c-d2e0f75ff92b" id="_02892e94-7b43-630a-129c-d2e0f75ff92b"></a>Recipients of this document are requested to submit, with their comments, notification of any relevant patent claims or other intellectual property rights of which they may be aware that might be infringed by any implementation of the standard set forth in this document, and to provide supporting documentation.</p>
+</div>
+</div>
+
+
+
+<div class="boilerplate-legal">
+
+<div><a name="_3cc6ff6c-e690-5288-92ca-f91e83434633" id="_3cc6ff6c-e690-5288-92ca-f91e83434633"></a><p class="TitlePageSubhead">Notice</p>
+
+<p class="MsoNormal"><a name="_3dee3cc3-7a55-e571-5aa0-115dce238c68" id="_3dee3cc3-7a55-e571-5aa0-115dce238c68"></a>This document is an OGC Member approved international standard. This document is available on a royalty free, non-discriminatory basis. Recipients of this document are invited to submit, with their comments, notification of any relevant patent rights of which they are aware and to provide supporting documentation.</p>
+</div>
+</div>
+
+
+</div><p class="MsoNormal"><br clear="all" style="mso-special-character:line-break;page-break-before:always"/></p><div class="TOC"><a name="_13d7055e-30fc-845a-c60e-8972faf092d9" id="_13d7055e-30fc-845a-c60e-8972faf092d9"></a><p class="zzContents">Contents</p><p class="MsoToc1"><span lang="EN-GB" xml:lang="EN-GB"><span style="mso-element:field-begin"></span><span style="mso-spacerun:yes">&#xA0;</span>TOC \o "1-2" \h \z \u <span style="mso-element:field-separator"></span></span>
+<span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc440078484">Copyright notice<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc440078484 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc575331545">Note<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc575331545 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc418555827">License Agreement<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc418555827 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc070767465">Notice<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc070767465 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc453453607">I. Security considerations<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc453453607 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc111990706">1. COPYRIGHT NOTICE<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc111990706 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc346853628">2. Amendment History<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc346853628 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc392884366">3. Introduction<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc392884366 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc2"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc237478599">3.1. Purpose<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc237478599 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc2"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc326869643">3.2. Normative References<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc326869643 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc2"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc648387487">3.3. Terms and Convention<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc648387487 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc2"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc515660379">3.4. Contact<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc515660379 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc390654180">4. Information Security Management<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc390654180 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc2"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc921309170">4.1. Security Management Framework and Organisation<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc921309170 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc2"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc423971241">4.2. Governance, Risk Management and Compliance<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc423971241 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc2"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc181186408">4.3. Security Operations<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc181186408 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc2"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc050776931">4.4. Security Event and Incident Management<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc050776931 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc2"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc750117095">4.5. Awareness Training and Capability Building<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc750117095 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc2"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc751582193">4.6. Situational Awareness and Information Sharing<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc751582193 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc046781751">5. Network Printer Security<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc046781751 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc2"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc795827314">5.1. Security Concerns of Network Printers<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc795827314 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc2"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc536621007">5.2. Provision of Network Printers<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc536621007 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc2"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc252162895">5.3. Management of Network Printers<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc252162895 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc2"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc369202592">5.4. Decommissioning of Network Printers<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc369202592 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc487864386"><b>Annex A</b> (informative) <b>Sample Checklist on Security Configuration for Network Printers</b><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc487864386 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc412605115">
+  <b>Use of Network Printers</b>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc412605115 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc1"><span lang="EN-GB" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span><span lang="EN-GB" xml:lang="EN-GB"><o:p class="MsoNormal">&#xA0;</o:p></span></p>
+</div><div class="Section3"><a name="_11f014e9-c98a-c81d-eeb6-de3baa47ebea" id="_11f014e9-c98a-c81d-eeb6-de3baa47ebea"></a><h1 class="IntroTitle">I.<span style="mso-tab-count:1">&#xA0; </span>Security considerations</h1><p class="MsoNormal"><a name="_87632f48-a936-3f14-4cc0-36d21a86a8b8" id="_87632f48-a936-3f14-4cc0-36d21a86a8b8"></a>No security considerations have been made for this document.</p></div><p class="MsoNormal">&#xA0;</p></div>
+    <p class="MsoNormal">
+      <br clear="all" class="section"/>
+    </p>
+    <div class="WordSection3">
+      <div>
+        <a name="_3e07eb9e-ff1b-c7ec-a68e-c42fbb04bd69" id="_3e07eb9e-ff1b-c7ec-a68e-c42fbb04bd69"></a>
+        <h1>1.<span style="mso-tab-count:1">&#xA0; </span>COPYRIGHT NOTICE</h1>
+        <p class="MsoNormal"><a name="_3bd72de1-9a0b-b802-313e-e53c351523e0" id="_3bd72de1-9a0b-b802-313e-e53c351523e0"></a>&#xA9; 2018 by the Government of the Hong Kong Special Administrative Region</p>
+        <p class="MsoNormal"><a name="_2861e279-6e2e-44ca-a241-24666e7d2370" id="_2861e279-6e2e-44ca-a241-24666e7d2370"></a>Unless otherwise indicated, the copyright in the works contained in this publication is owned by the Government of the Hong Kong Special Administrative Region. You may generally copy and distribute these materials in any format or medium provided the following conditions are met -</p>
+        <div class="ol_wrap"><p style="mso-list:l2 level1 lfo8;" class="MsoListParagraphCxSpFirst"><a name="_b9d49bed-b9ad-f33a-b62a-fa07eec7a20a" id="_b9d49bed-b9ad-f33a-b62a-fa07eec7a20a"></a>the particular item has not been specifically indicated to be excluded and is therefore not to be copied or distributed;
+</p>
+<p style="mso-list:l2 level1 lfo8;" class="MsoListParagraphCxSpMiddle"><a name="_55cb7309-0719-30c9-d464-88a87414cc06" id="_55cb7309-0719-30c9-d464-88a87414cc06"></a>the copying is not done for the purpose of creating copies for sale;
+</p>
+<p style="mso-list:l2 level1 lfo8;" class="MsoListParagraphCxSpMiddle"><a name="_35266da8-f56a-82a0-2e15-d1ba39b09558" id="_35266da8-f56a-82a0-2e15-d1ba39b09558"></a>the materials must be reproduced accurately and must not be used in a misleading context; and
+</p>
+<p style="mso-list:l2 level1 lfo8;" class="MsoListParagraphCxSpLast"><a name="_5e40bbc3-946c-b455-fbec-1bd9a9779374" id="_5e40bbc3-946c-b455-fbec-1bd9a9779374"></a>the copies shall be accompanied by the words &#x201C;<tt>copied/distributed with the permission of the Government of the Hong Kong Special Administrative Region. All rights reserved.</tt>&#x201D;
+</p>
+</div>
+        <p class="MsoNormal"><a name="_4d2bb587-0cfb-60c9-85f1-9cc4ff9b4edc" id="_4d2bb587-0cfb-60c9-85f1-9cc4ff9b4edc"></a>If you wish to make copies for purposes other than that permitted above, you should seek permission by contacting the Office of the Government Chief Information Officer.</p>
+      </div>
+      <div>
+        <a name="_95072987-5d80-7926-b404-205efe7886d2" id="_95072987-5d80-7926-b404-205efe7886d2"></a>
+        <h1>2.<span style="mso-tab-count:1">&#xA0; </span>Amendment History</h1>
+        <div align="center" class="table_container">
+          <table class="MsoISOTable" style="mso-table-anchor-horizontal:column;mso-table-overlap:never;border-spacing:0;border-width:1px;">
+            <a name="_807a3f94-de6a-5884-cbc3-bad00080472b" id="_807a3f94-de6a-5884-cbc3-bad00080472b"></a>
+            <tbody>
+              <tr>
+                <th colspan="5" valign="middle" align="center" style="font-weight:bold;border-top:solid windowtext 1.5pt;mso-border-top-alt:solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:avoid;">Amendment History</th>
+              </tr>
+              <tr>
+                <th valign="middle" align="center" style="font-weight:bold;border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.5pt;mso-border-bottom-alt:solid windowtext 1.5pt;page-break-after:auto;">Change Number</th>
+                <th valign="middle" align="center" style="font-weight:bold;border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.5pt;mso-border-bottom-alt:solid windowtext 1.5pt;page-break-after:auto;">Revision Description</th>
+                <th valign="middle" align="center" style="font-weight:bold;border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.5pt;mso-border-bottom-alt:solid windowtext 1.5pt;page-break-after:auto;">Pages Affected</th>
+                <th valign="middle" align="center" style="font-weight:bold;border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.5pt;mso-border-bottom-alt:solid windowtext 1.5pt;page-break-after:auto;">Revision Number</th>
+                <th valign="middle" align="center" style="font-weight:bold;border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.5pt;mso-border-bottom-alt:solid windowtext 1.5pt;page-break-after:auto;">Date</th>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div>
+        <a name="_1a6db90b-1b8d-c41f-07fe-4b588c3a50b8" id="_1a6db90b-1b8d-c41f-07fe-4b588c3a50b8"></a>
+        <h1>3.<span style="mso-tab-count:1">&#xA0; </span>Introduction</h1>
+        <p class="MsoNormal"><a name="_c52c04dc-694f-de39-153f-2cff159d65b2" id="_c52c04dc-694f-de39-153f-2cff159d65b2"></a>Nowadays, new generation of network printers are &#x201C;<tt>smart</tt>&#x201D; machines that have central processing units, the capability of storing information they processed in their internal storage devices; and connecting to wired or wireless networks. With these capabilities, most of the current network printers can be used for more than just printing; they can also be used for copying, scanning, faxing and emailing documents. Some of the network printers even have internal servers or routers. Hence, network printers are similar to other computer equipment which could be suffered from various types of security threats (e.g. data leakage) if they are not properly protected / used.</p>
+        <p class="MsoNormal"><a name="_de222bd6-9f41-6e75-a0ae-f5e962786bac" id="_de222bd6-9f41-6e75-a0ae-f5e962786bac"></a>This practice guide is developed to provide guidance notes for Bureaux/Departments (B/Ds) to make reference in securing the use of network printers in their offices.</p>
+        <div><a name="_f69da6b4-eff5-85ce-023c-077c50671c3a" id="_f69da6b4-eff5-85ce-023c-077c50671c3a"></a><h2>3.1.<span style="mso-tab-count:1">&#xA0; </span>Purpose</h2>
+
+<p class="MsoNormal"><a name="_9b7cbecb-56f4-da2a-4136-c69f31289ec1" id="_9b7cbecb-56f4-da2a-4136-c69f31289ec1"></a>This document provides guidance notes for the administration and other technical and operational staff who are involved in managing network printers. Common security considerations and best practices on major stages of network printer management life cycle for using network printers are provided in this document. B/Ds should consider the security measures and best practices recommended in this document and implement adequate security protection for their network printers. This document should be used in conjunction with the established government requirements and documents including Baseline IT Security Policy [S17], IT Security Guidelines [G3], relevant procedures and guidelines, where applicable. In addition to the government security requirements, B/Ds should assess the security risks before the adoption of network printers based on their business needs.</p>
+
+<p class="MsoNormal"><a name="_be173888-c86a-2656-4e78-559c74c103dc" id="_be173888-c86a-2656-4e78-559c74c103dc"></a>This document is intended to provide practical guidance notes on and references for management and use of network printers in the offices. It is not intended to cover technical requirements of a specific network printer model. B/Ds should consult corresponding system administrators, technical support staff and product vendors for these technical details.</p>
+</div>
+        <div><a name="_a13f0229-4fc3-2376-1e30-44910a73ea98" id="_a13f0229-4fc3-2376-1e30-44910a73ea98"></a><h2>3.2.<span style="mso-tab-count:1">&#xA0; </span>Normative References</h2>
+
+<p class="MsoNormal"><a name="_fba490a4-85a6-97d9-e6bc-627b971320d9" id="_fba490a4-85a6-97d9-e6bc-627b971320d9"></a>The following referenced documents are indispensable for the application of this document.</p>
+
+<div class="ul_wrap"><p style="mso-list:l3 level1 lfo1;" class="MsoListParagraphCxSpFirst"><a name="_def0da49-0b31-3390-d391-53efd2f01215" id="_def0da49-0b31-3390-d391-53efd2f01215"></a>Baseline IT Security Policy [S17], the Government of the Hong Kong Special Administrative Region
+</p>
+<p style="mso-list:l3 level1 lfo1;" class="MsoListParagraphCxSpLast"><a name="_318f9513-8d02-2071-6cee-6418490e2462" id="_318f9513-8d02-2071-6cee-6418490e2462"></a>IT Security Guidelines [G3], the Government of the Hong Kong Special Administrative Region
+</p>
+</div>
+</div>
+        <div><a name="_e6a07995-12de-7aaa-b103-dc38cdabc455" id="_e6a07995-12de-7aaa-b103-dc38cdabc455"></a><h2>3.3.<span style="mso-tab-count:1">&#xA0; </span>Terms and Convention</h2>
+
+<p class="MsoNormal"><a name="_1993870f-a06c-42ff-7618-016ac2b44448" id="_1993870f-a06c-42ff-7618-016ac2b44448"></a>For the purposes of this document, the terms and convention given in S17, G3, and the following shall apply</p>
+
+<div align="center" class="table_container"><table class="MsoISOTable" style="mso-table-anchor-horizontal:column;mso-table-overlap:never;border-spacing:0;border-width:1px;"><a name="_86a43710-2370-3106-36e6-f2cf4af916d0" id="_86a43710-2370-3106-36e6-f2cf4af916d0"></a><tbody><tr><th colspan="2" valign="middle" align="left" style="font-weight:bold;border-top:solid windowtext 1.5pt;mso-border-top-alt:solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:avoid;">Abbreviation and Terms</th></tr><tr><td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.5pt;mso-border-bottom-alt:solid windowtext 1.5pt;page-break-after:auto;">N/A</td><td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.5pt;mso-border-bottom-alt:solid windowtext 1.5pt;page-break-after:auto;">N/A</td></tr></tbody></table></div>
+</div>
+        <div><a name="_53f8cc50-c4ce-58c8-dad3-0309a65678fc" id="_53f8cc50-c4ce-58c8-dad3-0309a65678fc"></a><h2>3.4.<span style="mso-tab-count:1">&#xA0; </span>Contact</h2>
+
+<p class="MsoNormal"><a name="_03f6985f-3044-16a3-c61c-1a072b12522a" id="_03f6985f-3044-16a3-c61c-1a072b12522a"></a>This document is produced and maintained by the Office of the Government Chief Information Office (OGCIO). For comments and suggestions, please send to:</p>
+
+<div align="left"><table class="dl"><a name="_4e74b2d3-068c-a8ea-b504-c2a6086094ce" id="_4e74b2d3-068c-a8ea-b504-c2a6086094ce"></a><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="MsoNormal">Email</p></td><td valign="top"><p class="MsoNormal"><a name="_f703b202-1ae8-a646-2ba9-c4cdba2836e2" id="_f703b202-1ae8-a646-2ba9-c4cdba2836e2"></a><a href="mailto:it_security@ogcio.gov.hk">it_security@ogcio.gov.hk</a></p>
+</td></tr><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="MsoNormal">Lotus Notes mail</p></td><td valign="top"><p class="MsoNormal"><a name="_8d067e65-b650-42e2-3a83-9914339b2a93" id="_8d067e65-b650-42e2-3a83-9914339b2a93"></a>IT Security Team/OGCIO/HKSARG</p>
+</td></tr></table></div>
+</div>
+      </div>
+      <div>
+        <a name="_e3b0d5a5-d5a1-ad66-2313-36935beb0e1d" id="_e3b0d5a5-d5a1-ad66-2313-36935beb0e1d"></a>
+        <h1>4.<span style="mso-tab-count:1">&#xA0; </span>Information Security Management</h1>
+        <p class="MsoNormal"><a name="_66f9d948-1ca4-d19c-7c62-c77d72170c08" id="_66f9d948-1ca4-d19c-7c62-c77d72170c08"></a>Information security is about the planning, implementation and continuous enhancement of security controls and measures to protect the confidentiality, integrity and availability of information assets, whether in storage, processing, or transmission and its associated information systems. Information security management is a set of principles relating to the functions of planning, organising, directing, controlling, and the application of these principles in harnessing physical, financial, human and informational resources efficiently and effectively to assure the safety of information assets and information systems.</p>
+        <p class="MsoNormal"><a name="_d0c6e1db-b788-9179-e07d-6b8e287d0749" id="_d0c6e1db-b788-9179-e07d-6b8e287d0749"></a>Information security management involves a series of activities that require continuous monitoring and control. These activities include but not limited to the following functional areas:</p>
+        <div class="ul_wrap"><p style="mso-list:l3 level1 lfo2;" class="MsoListParagraphCxSpFirst"><a name="_9041bd3c-a127-b3b3-0f53-7f7ac3c79490" id="_9041bd3c-a127-b3b3-0f53-7f7ac3c79490"></a>Security Management Framework and the Organisation;
+</p>
+<p style="mso-list:l3 level1 lfo2;" class="MsoListParagraphCxSpMiddle"><a name="_1373d8e3-2ac5-9f5d-04a3-8dc86faa2b1a" id="_1373d8e3-2ac5-9f5d-04a3-8dc86faa2b1a"></a>Governance, Risk Management, and Compliance;
+</p>
+<p style="mso-list:l3 level1 lfo2;" class="MsoListParagraphCxSpMiddle"><a name="_6daac668-8c1a-5aa4-4514-d334a8176f54" id="_6daac668-8c1a-5aa4-4514-d334a8176f54"></a>Security Operations;
+</p>
+<p style="mso-list:l3 level1 lfo2;" class="MsoListParagraphCxSpMiddle"><a name="_1ada5df9-6dab-65d0-aa73-9df2cc189f2c" id="_1ada5df9-6dab-65d0-aa73-9df2cc189f2c"></a>Security Event and Incident Management;
+</p>
+<p style="mso-list:l3 level1 lfo2;" class="MsoListParagraphCxSpMiddle"><a name="_62dd0d84-2838-7903-7671-b28fa62b546d" id="_62dd0d84-2838-7903-7671-b28fa62b546d"></a>Awareness Training and Capability Building; and
+</p>
+<p style="mso-list:l3 level1 lfo2;" class="MsoListParagraphCxSpLast"><a name="_4da8260e-2e87-13c8-b8f7-41302b005f72" id="_4da8260e-2e87-13c8-b8f7-41302b005f72"></a>Situational Awareness and Information Sharing.
+</p>
+</div>
+        <div><a name="_a2c5a046-900f-e417-b35e-3dfa069d0b48" id="_a2c5a046-900f-e417-b35e-3dfa069d0b48"></a><h2>4.1.<span style="mso-tab-count:1">&#xA0; </span>Security Management Framework and Organisation</h2>
+
+<p class="MsoNormal"><a name="_aa56e5b4-c8a7-6d40-bcd7-8839db5b905c" id="_aa56e5b4-c8a7-6d40-bcd7-8839db5b905c"></a>B/Ds shall establish and enforce departmental information security policies, standards, guidelines and procedures in accordance with the business needs and the government security requirements.</p>
+
+<p class="MsoNormal"><a name="_c2d54688-dc10-147d-53e8-9b39f26acc93" id="_c2d54688-dc10-147d-53e8-9b39f26acc93"></a>B/Ds shall also define the organisation structure on information security and provide clear definitions and proper assignment of security accountability and responsibility to involved parties.</p>
+</div>
+        <div><a name="_d72ed10a-925b-a360-3d84-a0c96de6e03b" id="_d72ed10a-925b-a360-3d84-a0c96de6e03b"></a><h2>4.2.<span style="mso-tab-count:1">&#xA0; </span>Governance, Risk Management and Compliance</h2>
+
+<p class="MsoNormal"><a name="_f6b42884-d3d5-4d14-bc74-72c7a86607bd" id="_f6b42884-d3d5-4d14-bc74-72c7a86607bd"></a>B/Ds shall adopt a risk based approach to identify, prioritise and address the security risks of information systems in a consistent and effective manner.</p>
+
+<p class="MsoNormal"><a name="_c76c8ed3-94a8-0bc7-147d-e4f1ddf8486f" id="_c76c8ed3-94a8-0bc7-147d-e4f1ddf8486f"></a>B/Ds shall perform security risk assessments for information systems and production applications periodically and when necessary so as to identify risks and consequences associated with vulnerabilities, and to provide a basis to establish a cost-effective security program and implement appropriate security protection and safeguards.</p>
+
+<p class="MsoNormal"><a name="_bec37540-5858-86dd-41ab-ba402b0e2475" id="_bec37540-5858-86dd-41ab-ba402b0e2475"></a>B/Ds shall also perform security audit on information systems regularly to ensure that current security measures comply with departmental information security policies, standards, and other contractual or legal requirements.</p>
+</div>
+        <div><a name="_7210a1e6-a39a-f623-6010-33c37e4e2a0d" id="_7210a1e6-a39a-f623-6010-33c37e4e2a0d"></a><h2>4.3.<span style="mso-tab-count:1">&#xA0; </span>Security Operations</h2>
+
+<p class="MsoNormal"><a name="_4113fd11-fbab-12f3-dac5-ea77f2a9acd2" id="_4113fd11-fbab-12f3-dac5-ea77f2a9acd2"></a>To protect information assets and information systems, B/Ds should implement comprehensive security measures based on their business needs, covering different technological areas in their business, and adopt the principle of &#x201C;<tt>Prevent, Detect, Respond and Recover</tt>&#x201D; in their daily operations.</p>
+
+<div class="ul_wrap"><p style="mso-list:l3 level1 lfo3;" class="MsoListParagraphCxSpFirst"><a name="_a079a682-1059-b791-799e-053e9d9f2f71" id="_a079a682-1059-b791-799e-053e9d9f2f71"></a>Preventive measures avoid or deter the occurrence of an undesirable event;
+</p>
+<p style="mso-list:l3 level1 lfo3;" class="MsoListParagraphCxSpMiddle"><a name="_18a8e327-5b70-61fb-7e80-9701f1b2672d" id="_18a8e327-5b70-61fb-7e80-9701f1b2672d"></a>Detective measures identify the occurrence of an undesirable event;
+</p>
+<p style="mso-list:l3 level1 lfo3;" class="MsoListParagraphCxSpMiddle"><a name="_d1685bb7-6560-250d-1769-d2915e8bd850" id="_d1685bb7-6560-250d-1769-d2915e8bd850"></a>Response measures refer to coordinated actions to contain damage when an undesirable event or incident occurs; and
+</p>
+<p style="mso-list:l3 level1 lfo3;" class="MsoListParagraphCxSpLast"><a name="_002f129a-0505-1a3e-dd87-7183d68ef9b2" id="_002f129a-0505-1a3e-dd87-7183d68ef9b2"></a>Recovery measures are for restoring the confidentiality, integrity and availability of information systems to their expected state.
+</p>
+</div>
+</div>
+        <div><a name="_5ecaf389-ce4d-2e1a-d133-d77d4ae5df39" id="_5ecaf389-ce4d-2e1a-d133-d77d4ae5df39"></a><h2>4.4.<span style="mso-tab-count:1">&#xA0; </span>Security Event and Incident Management</h2>
+
+<p class="MsoNormal"><a name="_4cc8dad0-5afa-b610-bd9b-6cad67785d1b" id="_4cc8dad0-5afa-b610-bd9b-6cad67785d1b"></a>In reality, security incidents might still occur due to unforeseeable, disruptive events. In cases where security events compromise business continuity or give rise to risk of data security, B/Ds shall activate their standing incident management plan to identifying, managing, recording, and analysing security threats, attacks, or incidents in real-time. B/Ds should also prepare to communicate appropriately with relevant parties by sharing information on response for security risks to subdue distrust or unnecessary speculation. When developing an incident management plan, B/Ds should plan and prepare the right resources as well as develop the procedures to address necessary follow-up investigations.</p>
+</div>
+        <div><a name="_f2a3462a-4c36-fceb-0571-702391268514" id="_f2a3462a-4c36-fceb-0571-702391268514"></a><h2>4.5.<span style="mso-tab-count:1">&#xA0; </span>Awareness Training and Capability Building</h2>
+
+<p class="MsoNormal"><a name="_20ca0b21-107b-fa28-cd6c-676c0168c002" id="_20ca0b21-107b-fa28-cd6c-676c0168c002"></a>As information security is everyone&#x2019;s business, B/Ds should continuously promote information security awareness throughout the organisations and arrange training and education to ensure that all related parties understand the risks, observe the security regulations and requirements, and conform to security best practices.</p>
+</div>
+        <div><a name="_d562a494-701c-1318-5cb3-1283daa87f8c" id="_d562a494-701c-1318-5cb3-1283daa87f8c"></a><h2>4.6.<span style="mso-tab-count:1">&#xA0; </span>Situational Awareness and Information Sharing</h2>
+
+<p class="MsoNormal"><a name="_0e7abe85-f554-062a-bfd7-2c785dfbacea" id="_0e7abe85-f554-062a-bfd7-2c785dfbacea"></a>As cyber threat landscape is constantly changing, B/Ds should also constantly attend to current vulnerabilities information, threat alerts, and important notices disseminated by the security industry and the GovCERT.HK. The security alerts on impending and actual threats should be disseminated to and shared with those responsible colleagues within B/Ds so that timely mitigation measures could be taken.</p>
+
+<p class="MsoNormal"><a name="_8dc8065f-ea51-d4fb-d43f-3edae59a9297" id="_8dc8065f-ea51-d4fb-d43f-3edae59a9297"></a>B/Ds could make use of the cyber risk information sharing platform to receive and share information regarding security issues, vulnerabilities, and cyber threat intelligence.</p>
+</div>
+      </div>
+      <div>
+        <a name="_e78053c9-d1ce-5731-3430-44522b4376c8" id="_e78053c9-d1ce-5731-3430-44522b4376c8"></a>
+        <h1>5.<span style="mso-tab-count:1">&#xA0; </span>Network Printer Security</h1>
+        <p class="MsoNormal"><a name="_8d222368-d80c-150d-10ee-8a125b7bb7a6" id="_8d222368-d80c-150d-10ee-8a125b7bb7a6"></a>In information security management, the &#x201C;Security Operations&#x201D; functional area includes the deployment of proper security protection and safeguards to reduce the risk of successful attacks. In light of the ever-increasing abilities of network printers which have the similar capabilities of networked computer equipment, network printers are also facing similar security threats that need to be properly managed. Network printer security is, therefore, a major area under the &#x201C;Security Operations&#x201D; functional area of information security management.</p>
+        <p class="MsoNormal"><a name="_bcdae2dd-8151-be3a-8cbd-ff90025768f0" id="_bcdae2dd-8151-be3a-8cbd-ff90025768f0"></a>This section highlights the security measures and best practices to address the common security concerns and illustrates how they should be incorporated in the major stages of network printer management life cycle including provision, use and decommission. B/Ds may select and map the security measures and best practices to their own management life cycle model based on their business needs.</p>
+        <div><a name="_4a4f21d8-3381-218e-357d-7893d05e3d4a" id="_4a4f21d8-3381-218e-357d-7893d05e3d4a"></a><h2>5.1.<span style="mso-tab-count:1">&#xA0; </span>Security Concerns of Network Printers</h2>
+
+<p class="MsoNormal"><a name="_725c5a5d-70fc-92e2-2a92-d9e3d369e840" id="_725c5a5d-70fc-92e2-2a92-d9e3d369e840"></a>Network printers have the capabilities of storing data in their storage devices and connecting to wired or wireless networks for printing, copying, scanning, faxing and emailing documents. They can also use network protocols commonly available in computer equipment, such as File Transfer Protocol (FTP), Hyper Text Transport Protocol (HTTP), Hyper Text Transport Protocol Secure (HTTPS), Internet Printing Protocol (IPP), Server Message Block (SMB), Simple Network Management Protocol (SNMP) and telnet. Hence, network printers expose similar security threats faced by other connected computing devices. Major threats applicable to network printers are highlighted below. B/Ds should take reference of these common security threats and avoid them in using network printers.</p>
+
+<div><a name="_b113dda2-473e-ad58-3dfa-9894a2737fa8" id="_b113dda2-473e-ad58-3dfa-9894a2737fa8"></a><h3>5.1.1.<span style="mso-tab-count:1">&#xA0; </span>General Threats and Vulnerabilities</h3>
+
+<p class="MsoNormal"><a name="_dde51784-6a4f-ddb5-1a02-52901f685eba" id="_dde51784-6a4f-ddb5-1a02-52901f685eba"></a>General threats, vulnerabilities, and related exploits that may affect network printers:</p>
+
+<div class="ul_wrap"><p style="mso-list:l3 level1 lfo4;" class="MsoListParagraphCxSpFirst"><a name="_af5eb7bb-53d8-36dd-ca6f-caeae3e015e1" id="_af5eb7bb-53d8-36dd-ca6f-caeae3e015e1"></a><b>Default administrator account name and password</b>&#x2009;&#x2014;&#x2009;Attackers easily gain access and control of network printers if default administrator account name and password is left unchanged or weak password is used.
+</p>
+<p style="mso-list:l3 level1 lfo4;" class="MsoListParagraphCxSpMiddle"><a name="_5d9bace5-fc6b-79d1-5e63-97bbe5bf7edb" id="_5d9bace5-fc6b-79d1-5e63-97bbe5bf7edb"></a><b>Outdated and/or unpatched operating systems and firmware</b>&#x2009;&#x2014;&#x2009;Network printers run embedded commercial operating systems which render them subject to the same threats and vulnerabilities as any other computing devices running the same operating system. Attackers may exploit vulnerabilities to gain access and control of network printers if the operating system and firmware are unpatched or outdated.
+</p>
+<p style="mso-list:l3 level1 lfo4;" class="MsoListParagraphCxSpMiddle"><a name="_969a795d-3fa8-344f-a284-ced219b126f3" id="_969a795d-3fa8-344f-a284-ced219b126f3"></a><b>Lack of physical security controls</b>&#x2009;&#x2014;&#x2009;Network printers and their built-in storage devices have the risk of lost or stolen if the printers are installed in uncontrolled places.
+</p>
+<p style="mso-list:l3 level1 lfo4;" class="MsoListParagraphCxSpLast"><a name="_68d2c025-3174-afc4-7dff-dc57cc63d63e" id="_68d2c025-3174-afc4-7dff-dc57cc63d63e"></a><b>Document theft</b>&#x2009;&#x2014;&#x2009;The printouts could be seen or taken by unintended parties.
+</p>
+</div>
+</div>
+
+<div><a name="_a6006733-c08e-72f0-89fc-02904c8de76f" id="_a6006733-c08e-72f0-89fc-02904c8de76f"></a><h3>5.1.2.<span style="mso-tab-count:1">&#xA0; </span>Network Connectivity Threats and Vulnerabilities</h3>
+
+<p class="MsoNormal"><a name="_7284f6ea-aca7-bd1a-ce33-a250555b2e6a" id="_7284f6ea-aca7-bd1a-ce33-a250555b2e6a"></a>Although using network printers is convenient and may be more cost-effective than using separate local printers, scanners and fax machines; network connectivity comes with greater risk of exposing the device and information to threats. Some potential threats, vulnerabilities, and related exploits associated with network connectivity include:</p>
+
+<div class="ul_wrap"><p style="mso-list:l3 level1 lfo5;" class="MsoListParagraphCxSpFirst"><a name="_cd893e8f-a878-fa62-b269-79b8bc4bccf9" id="_cd893e8f-a878-fa62-b269-79b8bc4bccf9"></a>Unencrypted information&#x2009;&#x2014;&#x2009;Any information, including configuration data or passwords, sent unencrypted to network printers could be intercepted, exposed and/or altered.
+</p>
+<p style="mso-list:l3 level1 lfo5;" class="MsoListParagraphCxSpMiddle"><a name="_47de525f-c741-4e37-1136-488451c03ee1" id="_47de525f-c741-4e37-1136-488451c03ee1"></a>Wireless connectivity&#x2009;&#x2014;&#x2009;Wireless networks, such as Wi-Fi network, are inherently unsafe and susceptible to eavesdropping, which place information transmitted at risk of compromise and may lead to a security breach.
+</p>
+<p style="mso-list:l3 level1 lfo5;" class="MsoListParagraphCxSpLast"><a name="_c75d1976-8040-25ed-be24-4a3184da93eb" id="_c75d1976-8040-25ed-be24-4a3184da93eb"></a>Network protocols&#x2009;&#x2014;&#x2009;Most network printers provide services via variety of network protocols such as FTP, HTTP, IPP, SMB, SNMP and telnet. Yet each protocol has its own threats and vulnerabilities to be managed. Therefore, unused services / protocols shall be disabled to minimise the associated risks.
+</p>
+</div>
+</div>
+
+<div><a name="_629f4b89-6fa0-09f6-157c-b07c0d7fbc87" id="_629f4b89-6fa0-09f6-157c-b07c0d7fbc87"></a><h3>5.1.3.<span style="mso-tab-count:1">&#xA0; </span>Data Storage Threats and Vulnerabilities</h3>
+
+<p class="MsoNormal"><a name="_cb046ee2-ca83-50e3-9fc2-ebdfc62638c2" id="_cb046ee2-ca83-50e3-9fc2-ebdfc62638c2"></a>Data storage in network printers is most often in the form of hard disk drive (HDD) or solid-state drive (SSD). Information stored in network printers may leave organisational information vulnerable to numerous exploits and leakage in the following conditions:</p>
+
+<div class="ul_wrap"><p style="mso-list:l3 level1 lfo6;" class="MsoListParagraphCxSpFirst"><a name="_3ffcfc26-c475-bb43-23ce-9501e602f41a" id="_3ffcfc26-c475-bb43-23ce-9501e602f41a"></a><b>Unencrypted information</b>&#x2009;&#x2014;&#x2009;Any information stored unencrypted on network printers could be exposed and/or modified by anyone with access or in the event of a successful network-based attack.
+</p>
+<p style="mso-list:l3 level1 lfo6;" class="MsoListParagraphCxSpMiddle"><a name="_c83c043e-ae1a-b78c-7170-af3771beceb6" id="_c83c043e-ae1a-b78c-7170-af3771beceb6"></a><b>Sanitisation</b>&#x2009;&#x2014;&#x2009;If network printers are disposed without properly data erasure, unauthorised personnel may recover the information left inside the storage device.
+</p>
+<p style="mso-list:l3 level1 lfo6;" class="MsoListParagraphCxSpLast"><a name="_21ecb586-0005-4cfc-89a8-9806fd7dfcae" id="_21ecb586-0005-4cfc-89a8-9806fd7dfcae"></a><b>Unauthorised access</b>&#x2009;&#x2014;&#x2009;External maintenance or personnel with physical or remote access to network printers could download or copy the stored information.
+</p>
+</div>
+</div>
+</div>
+        <div><a name="_d6b2f28c-664b-4bc8-52a1-cc33acf32cb6" id="_d6b2f28c-664b-4bc8-52a1-cc33acf32cb6"></a><h2>5.2.<span style="mso-tab-count:1">&#xA0; </span>Provision of Network Printers</h2>
+
+<p class="MsoNormal"><a name="_697c0528-4de5-ebaa-89a3-cc9cb929533c" id="_697c0528-4de5-ebaa-89a3-cc9cb929533c"></a>When considering security adoption of network printers, B/Ds should identify the needs for network printers and how the network printers would support B/Ds&#x2019; businesses. A network printer security policy should be established to specify the business and security requirements for the use of network printers with the following considerations:</p>
+
+<div class="ul_wrap"><p style="mso-list:l3 level1 lfo7;" class="MsoListParagraphCxSpFirst"><a name="_2b9312b2-a0ff-dbb6-da47-e4066d39ff74" id="_2b9312b2-a0ff-dbb6-da47-e4066d39ff74"></a>The types of approved network printers and the approval mechanism.
+</p>
+<p style="mso-list:l3 level1 lfo7;" class="MsoListParagraphCxSpMiddle"><a name="_4b0a3a2d-1714-6106-9b1d-fc7c53ec1cd4" id="_4b0a3a2d-1714-6106-9b1d-fc7c53ec1cd4"></a>The data classification permitted on each type of network printer. Classified information shall be encrypted when stored in network printers.
+</p>
+<p style="mso-list:l3 level1 lfo7;" class="MsoListParagraphCxSpMiddle"><a name="_8838a784-d767-2056-7fa9-1e489ac5133a" id="_8838a784-d767-2056-7fa9-1e489ac5133a"></a>The control mechanism to ensure the compliance with the government security requirements based on the data classification.
+</p>
+<p style="mso-list:l3 level1 lfo7;" class="MsoListParagraphCxSpLast"><a name="_75a4833b-bc7c-1c49-eaf1-9ff33feb8f4a" id="_75a4833b-bc7c-1c49-eaf1-9ff33feb8f4a"></a>The procedures to ensure complete erasure of government data stored in network printers when they are disposed.
+</p>
+</div>
+
+<p class="MsoNormal"><a name="_de1c2a24-f6a7-fef6-e9ed-8ba0f9f7c2c0" id="_de1c2a24-f6a7-fef6-e9ed-8ba0f9f7c2c0"></a>Based on the business and security requirements, B/Ds should develop adequate processes and procedures for the provision of network printers. In particular, security configuration procedures of network printers should be developed to enforce security configurations in accordance with government security requirements and the network printer security policy. Network printers should be configured according to the security configuration procedures before deployment. For sample checklist regarding security configuration of a network printer, please refer to <a href="#annex-sample-checklist">Annex A</a>.</p>
+
+<p class="MsoNormal"><a name="_4c15629b-e07f-9f76-fb3c-404b88090c4b" id="_4c15629b-e07f-9f76-fb3c-404b88090c4b"></a>The following best practices should be included in the provisioning stage:</p>
+
+<div class="ol_wrap"><p style="mso-list:l2 level1 lfo9;" class="MsoListParagraphCxSpFirst"><a name="_40cad2bd-870e-1189-ecb3-38614f48cb73" id="_40cad2bd-870e-1189-ecb3-38614f48cb73"></a>Identify the list of supported model that fulfils B/Ds&#x2019; operations and security requirements.
+</p>
+<p style="mso-list:l2 level1 lfo9;" class="MsoListParagraphCxSpMiddle"><a name="_a7ef7a1c-5c2b-0af6-eb66-21ed16b8555e" id="_a7ef7a1c-5c2b-0af6-eb66-21ed16b8555e"></a>Perform risk assessments prior to deployment of new network printers, and implement a continuous risk monitoring mechanism for evaluating changes in or new risks associated with the network printers.
+</p>
+<p style="mso-list:l2 level1 lfo9;" class="MsoListParagraphCxSpMiddle"><a name="_c1f714ca-7215-8bb5-74d8-5f4985ff0d00" id="_c1f714ca-7215-8bb5-74d8-5f4985ff0d00"></a>Disseminate the acceptable use policy and security reminders; as well as provide security awareness trainings to users to remind them to use network printers in a secure manner.
+</p>
+<p style="mso-list:l2 level1 lfo9;" class="MsoListParagraphCxSpMiddle"><a name="_9d82f6d3-1259-f349-d3e3-13892ca3fefc" id="_9d82f6d3-1259-f349-d3e3-13892ca3fefc"></a>Maintain asset-tracking information such as serial number and keep track of them for audit and development of B/Ds&#x2019; technology replacement strategy for network printers.
+</p>
+<p style="mso-list:l2 level1 lfo9;" class="MsoListParagraphCxSpMiddle"><a name="_da375fea-743e-04a3-c89d-594c292f964b" id="_da375fea-743e-04a3-c89d-594c292f964b"></a>Apply secure configuration
+<div class="ListContLevel1"><div class="ul_wrap"><p style="mso-list:l3 level2 lfo9;" class="MsoListParagraphCxSpFirst"><a name="_b0bcf65e-58af-2a0d-34ab-15296ab9961e" id="_b0bcf65e-58af-2a0d-34ab-15296ab9961e"></a>Isolate network printers from other systems until the secure configuration is completed;
+</p>
+<p style="mso-list:l3 level2 lfo9;" class="MsoListParagraphCxSpMiddle"><a name="_39d24de4-5d1c-a8e1-41e1-197149d5f088" id="_39d24de4-5d1c-a8e1-41e1-197149d5f088"></a>Remove unused applications from network printers, e.g. Internet browsers;
+</p>
+<p style="mso-list:l3 level2 lfo9;" class="MsoListParagraphCxSpMiddle"><a name="_1039bc55-9cd0-7cd0-87e8-a389208e414b" id="_1039bc55-9cd0-7cd0-87e8-a389208e414b"></a>Enable all applicable security features of network printers according to the security configuration procedures of the network printers, including strong password for administrators of network printers and encryption of data stored on storage devices;
+</p>
+<p style="mso-list:l3 level2 lfo9;" class="MsoListParagraphCxSpMiddle"><a name="_ce521e91-23dc-7274-6c8d-e598f82bfc5d" id="_ce521e91-23dc-7274-6c8d-e598f82bfc5d"></a>Enable immediate file overwrite to delete temporary file of each job<span style="mso-bookmark:_Ref357134584" class="MsoFootnoteReference"><a class="FootnoteRef" epub:type="footnote" href="#_ftn1" style="mso-footnote-id:ftn1" name="_ftnref1" title="" id="_ftnref1"><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"></span></span></a></span>;
+</p>
+<p style="mso-list:l3 level2 lfo9;" class="MsoListParagraphCxSpMiddle"><a name="_b60bc12a-0a7b-e337-c418-8549bf611105" id="_b60bc12a-0a7b-e337-c418-8549bf611105"></a>Enable regular off-hours overwrite, if applicable;
+</p>
+<p style="mso-list:l3 level2 lfo9;" class="MsoListParagraphCxSpMiddle"><a name="_cb10543f-f60a-6467-2782-b7aad0dbec30" id="_cb10543f-f60a-6467-2782-b7aad0dbec30"></a>Enable pull / private printing solutions which allow setting password for a print job and users can release this print job only when the password is entered;
+</p>
+<p style="mso-list:l3 level2 lfo9;" class="MsoListParagraphCxSpMiddle"><a name="_3493d9a9-226f-81b7-6a36-8b0a0fc15659" id="_3493d9a9-226f-81b7-6a36-8b0a0fc15659"></a>Enable removal of print jobs for pull / private printing from the printer&#x2019;s storage devices after predefined timeout period; and
+</p>
+<p style="mso-list:l3 level2 lfo9;" class="MsoListParagraphCxSpLast"><a name="_4c010a47-8341-3c01-db2c-d87c04cea903" id="_4c010a47-8341-3c01-db2c-d87c04cea903"></a>Change default administrator account names / passwords and use strong passwords for network printers.
+</p>
+</div></div>
+</p>
+<p style="mso-list:l2 level1 lfo9;" class="MsoListParagraphCxSpMiddle"><a name="_bfcfc19d-9947-0995-1249-0c36d80be8ed" id="_bfcfc19d-9947-0995-1249-0c36d80be8ed"></a>Enable network security
+<div class="ListContLevel1"><div class="ul_wrap"><p style="mso-list:l3 level2 lfo9;" class="MsoListParagraphCxSpFirst"><a name="_a81d688e-eb1a-aec4-13b6-d11475e89e44" id="_a81d688e-eb1a-aec4-13b6-d11475e89e44"></a>Restrict network printers from accessing the Internet and configure the network printers to work within B/Ds&#x2019; internal trusted networks;
+</p>
+<p style="mso-list:l3 level2 lfo9;" class="MsoListParagraphCxSpMiddle"><a name="_b9cff070-e5d5-ba17-34da-dd5cc7804b69" id="_b9cff070-e5d5-ba17-34da-dd5cc7804b69"></a>Protect printers with firewall, if available, to only allow authorised traffic from/to the printers;
+</p>
+<p style="mso-list:l3 level2 lfo9;" class="MsoListParagraphCxSpMiddle"><a name="_37a72b8c-8a91-feb6-ab73-a5d22bd7db86" id="_37a72b8c-8a91-feb6-ab73-a5d22bd7db86"></a>Enable HTTPS for web interface, if available, to access the printers&#x2019; admin functions; and
+</p>
+<p style="mso-list:l3 level2 lfo9;" class="MsoListParagraphCxSpLast"><a name="_ddff6287-a879-0143-e803-ec2f9cdcb844" id="_ddff6287-a879-0143-e803-ec2f9cdcb844"></a>Enable network encryption protocols (e.g. SSL/TLS, IPsec), if available, to ensure that messages sent between computers and the printers are kept secure.
+</p>
+</div></div>
+</p>
+<p style="mso-list:l2 level1 lfo9;" class="MsoListParagraphCxSpLast"><a name="_2e5f8656-c5cf-696d-a939-e1c9380ff449" id="_2e5f8656-c5cf-696d-a939-e1c9380ff449"></a>Limit/restrict access
+<div class="ListContLevel1"><div class="ul_wrap"><p style="mso-list:l3 level2 lfo9;" class="MsoListParagraphCxSpFirst"><a name="_416eb00e-9884-9006-b134-a1d179621018" id="_416eb00e-9884-9006-b134-a1d179621018"></a>Enable identification and authentication for privileged access (e.g. change the configuration settings);
+</p>
+<p style="mso-list:l3 level2 lfo9;" class="MsoListParagraphCxSpMiddle"><a name="_1417463d-785b-b69b-24e8-b38daf4960f4" id="_1417463d-785b-b69b-24e8-b38daf4960f4"></a>Disable unauthorised remote access of network printers;
+</p>
+<p style="mso-list:l3 level2 lfo9;" class="MsoListParagraphCxSpMiddle"><a name="_f6700aa3-4279-1322-0aca-0af300316de0" id="_f6700aa3-4279-1322-0aca-0af300316de0"></a>Disable unneeded management services, ports and protocols;
+</p>
+<p style="mso-list:l3 level2 lfo9;" class="MsoListParagraphCxSpMiddle"><a name="_2acb1799-39d0-784a-719a-2957c4058465" id="_2acb1799-39d0-784a-719a-2957c4058465"></a>Disable wireless network connection for handling classified information;
+</p>
+<p style="mso-list:l3 level2 lfo9;" class="MsoListParagraphCxSpMiddle"><a name="_c5cc9d1a-2def-4aa3-e011-b68fa4d3014f" id="_c5cc9d1a-2def-4aa3-e011-b68fa4d3014f"></a>Whitelist or blacklist specific Media Access Control (MAC) addresses and/or IP addresses; and
+</p>
+<p style="mso-list:l3 level2 lfo9;" class="MsoListParagraphCxSpLast"><a name="_26ebd382-d139-cb73-b5d8-760799351086" id="_26ebd382-d139-cb73-b5d8-760799351086"></a>Implement appropriate physical security.
+</p>
+</div></div>
+</p>
+</div>
+</div>
+        <div><a name="_83473005-8e89-1cf3-82d5-f6b54dfd6ee9" id="_83473005-8e89-1cf3-82d5-f6b54dfd6ee9"></a><h2>5.3.<span style="mso-tab-count:1">&#xA0; </span>Management of Network Printers</h2>
+
+<p class="MsoNormal"><a name="_8407a034-3e97-1df8-4a96-8b277e0078ca" id="_8407a034-3e97-1df8-4a96-8b277e0078ca"></a>Even if the security requirements have been fully considered in the provisioning stage, people and process are two main factors for keeping network printers in a safe environment. Therefore, this section focuses on the best practices related to on-going operation process for the management of network printers whereas best practices for using network printers by end-users are provided at <a href="#annex-use-network">Use of Network Printers</a>.</p>
+
+<div><a name="_7c135056-6d51-7195-a16c-187c61b64080" id="_7c135056-6d51-7195-a16c-187c61b64080"></a><h3>5.3.1.<span style="mso-tab-count:1">&#xA0; </span>On-going Operation of Network Printers</h3>
+
+<p class="MsoNormal"><a name="_8b855a57-7151-d218-f9d6-9d141fed26fb" id="_8b855a57-7151-d218-f9d6-9d141fed26fb"></a>Administrators should follow the best practices as follows:</p>
+
+<div class="ol_wrap"><p style="mso-list:l2 level1 lfo10;" class="MsoListParagraphCxSpFirst"><a name="_94f79df5-c362-fb67-c5bd-f5133c969a6b" id="_94f79df5-c362-fb67-c5bd-f5133c969a6b"></a>Check the status of network printers regularly to ensure security measures are in place;
+</p>
+<p style="mso-list:l2 level1 lfo10;" class="MsoListParagraphCxSpMiddle"><a name="_322cdb61-0d29-4f08-c250-9e43c06510ca" id="_322cdb61-0d29-4f08-c250-9e43c06510ca"></a>Change password for administrators of network printers regularly;
+</p>
+<p style="mso-list:l2 level1 lfo10;" class="MsoListParagraphCxSpMiddle"><a name="_38c524b5-6ef1-f06b-67b3-9cd7aa8ed84b" id="_38c524b5-6ef1-f06b-67b3-9cd7aa8ed84b"></a>Review user accounts and privileges regularly to prevent unauthorised access of network printers;
+</p>
+<p style="mso-list:l2 level1 lfo10;" class="MsoListParagraphCxSpMiddle"><a name="_348c138e-12d2-68f6-f05b-4f195343aa11" id="_348c138e-12d2-68f6-f05b-4f195343aa11"></a>Update the operating system / firmware regularly to patch security vulnerabilities and improve security features;
+</p>
+<p style="mso-list:l2 level1 lfo10;" class="MsoListParagraphCxSpMiddle"><a name="_bfcd8fa9-5f3d-107a-a9c8-3d65afd8bb43" id="_bfcd8fa9-5f3d-107a-a9c8-3d65afd8bb43"></a>Make sure after any system / firmware updates or cold resets, all the established security controls are reinstated; and
+</p>
+<p style="mso-list:l2 level1 lfo10;" class="MsoListParagraphCxSpLast"><a name="_b27f6377-3e6a-9bcb-b4f4-c680cbbfdac0" id="_b27f6377-3e6a-9bcb-b4f4-c680cbbfdac0"></a>Review the print logs regularly, if applicable, to identify any suspicious activity such as the volume of print jobs or time of printing.
+</p>
+</div>
+</div>
+
+<div><a name="_9ad5b216-5ffb-1140-d89b-addc73c120bf" id="_9ad5b216-5ffb-1140-d89b-addc73c120bf"></a><h3>5.3.2.<span style="mso-tab-count:1">&#xA0; </span>Handling Classified Information</h3>
+
+<p class="MsoNormal"><a name="_ae91c662-83e0-b7c2-c1cb-1d462b9ddeb1" id="_ae91c662-83e0-b7c2-c1cb-1d462b9ddeb1"></a>In compliance with the security requirements of the Government, B/Ds shall observe government security requirements and documents. In addition, B/Ds should adopt the following security practices for handling classified information:</p>
+
+<div class="ol_wrap"><p style="mso-list:l2 level1 lfo11;" class="MsoListParagraphCxSpFirst"><a name="_01d0f1ce-cfe4-526a-c098-a7db73da26bb" id="_01d0f1ce-cfe4-526a-c098-a7db73da26bb"></a>Do not print/copy/scan/fax/email TOP SECRET or SECRET information with network printers.
+</p>
+<p style="mso-list:l2 level1 lfo11;" class="MsoListParagraphCxSpMiddle"><a name="_e290568b-de82-911b-8a22-cb948200a1d1" id="_e290568b-de82-911b-8a22-cb948200a1d1"></a>Wireless network is very vulnerable and must not be used to transmit classified information without any control. If transmission of CONFIDENTIAL information to/from network printers via wireless networks is required, approval from Head of B/D must be sought for both the transmission of CONFIDENTIAL information through the wireless networks and the devices used for the transmission.
+</p>
+<p style="mso-list:l2 level1 lfo11;" class="MsoListParagraphCxSpMiddle"><a name="_acd9189c-c638-a10c-220a-67796725a507" id="_acd9189c-c638-a10c-220a-67796725a507"></a>Encrypt all CONFIDENTIAL or RESTRICTED information when transmitted from/to or stored in network printers (e.g. printer&#x2019;s hard disk drive), either temporarily or permanently for printing, copying, scanning, faxing or emailing documents. B/Ds should check with product vendors to ensure the network printers can meet the encryption requirements for handling classified documents.
+</p>
+<p style="mso-list:l2 level1 lfo11;" class="MsoListParagraphCxSpMiddle"><a name="_80c213e5-b1ab-5656-baf5-89da0cfe21f2" id="_80c213e5-b1ab-5656-baf5-89da0cfe21f2"></a>Detailed encryption requirements for these two types of classified information are given below.
+<div class="ListContLevel1"><p class="MsoNormal"><a name="_41249a5c-f041-45fc-4486-e4aed4566061" id="_41249a5c-f041-45fc-4486-e4aed4566061"></a><i>Encryption requirements on CONFIDENTIAL information</i></p></div>
+
+<div class="ListContLevel1"><div class="ul_wrap"><p style="mso-list:l3 level2 lfo11;" class="MsoListParagraphCxSpFirst"><a name="_e7dbd9bb-276a-75b2-dbba-08264dee2685" id="_e7dbd9bb-276a-75b2-dbba-08264dee2685"></a>CONFIDENTIAL information must be encrypted during storage and transmission over an un-trusted communication network, e.g. wireless network. If symmetric encryption is selected, the key length shall be at least 128-bit for the Advanced Encryption Standard (AES) encryption or equivalent. If asymmetric encryption is selected, the key length shall be at least 2048-bit for the RSA encryption. Alternatively, the requirement can be met by Elliptic Curve Cryptography (ECC) encryption with key length of at least 224-bit or equivalent.
+</p>
+<p style="mso-list:l3 level2 lfo11;" class="MsoListParagraphCxSpLast"><a name="_d5ab396e-12d6-93e0-aced-20208cd90253" id="_d5ab396e-12d6-93e0-aced-20208cd90253"></a>For keys that are used for decrypting CONFIDENTIAL information, they shall be stored separately from the corresponding encrypted information.
+</p>
+</div></div>
+
+<div class="ListContLevel1"><p class="MsoNormal"><a name="_67a57b16-ae39-717b-363d-931b4bd4918f" id="_67a57b16-ae39-717b-363d-931b4bd4918f"></a><i>Encryption requirements on RESTRICTED information</i></p></div>
+
+<div class="ListContLevel1"><div class="ul_wrap"><p style="mso-list:l3 level2 lfo11;" class="MsoListParagraphCxSpFirst"><a name="_321f9c1b-974a-f8c2-105c-e592004ee9b4" id="_321f9c1b-974a-f8c2-105c-e592004ee9b4"></a>RESTRICTED information must be encrypted during storage and transmission over an un-trusted communication network, e.g. wireless network. If symmetric encryption is selected, the key length shall be at least 128-bit for the Advanced Encryption Standard (AES) encryption or equivalent. If asymmetric encryption is selected, the key length shall be at least 2048-bit for the RSA encryption. Alternatively, the requirement can be met by Elliptic Curve Cryptography (ECC) encryption with key length of at least 224-bit or equivalent.
+</p>
+</div></div>
+</p>
+<p style="mso-list:l2 level1 lfo11;" class="MsoListParagraphCxSpMiddle"><a name="_bcd6d065-4140-e5f9-8b32-f8084b3d7a06" id="_bcd6d065-4140-e5f9-8b32-f8084b3d7a06"></a>If network printers with storage devices do not meet the above encryption requirements, B/Ds should consider using network printers without built-in storage device and connecting the printers to a trusted network. Alternatively, local printers without built-in storage devices may be used.
+</p>
+<p style="mso-list:l2 level1 lfo11;" class="MsoListParagraphCxSpMiddle"><a name="_94f4a357-0077-fe80-8af9-23b312705fd2" id="_94f4a357-0077-fe80-8af9-23b312705fd2"></a>If classified information is stored in network printers&#x2019; storage devices, the network printers shall be installed in a physically secure environment. Security measures preventing any possible interfering of the printers shall be put in place.
+</p>
+<p style="mso-list:l2 level1 lfo11;" class="MsoListParagraphCxSpLast"><a name="_4c30df70-c2a3-f599-c00f-b437aa5f48c9" id="_4c30df70-c2a3-f599-c00f-b437aa5f48c9"></a>Completely clear or destroy all classified information stored in network printers when they are no longer required.
+</p>
+</div>
+</div>
+
+<div><a name="_c18af675-e218-c124-d60d-13fa5291fd26" id="_c18af675-e218-c124-d60d-13fa5291fd26"></a><h3>5.3.3.<span style="mso-tab-count:1">&#xA0; </span>Awareness Training</h3>
+
+<p class="MsoNormal"><a name="_dca2d22b-6c00-527d-955c-f397f3c82a13" id="_dca2d22b-6c00-527d-955c-f397f3c82a13"></a>Awareness training is an important activity to promote both administrators and users security awareness in using network printers. Awareness training to administrators should be arranged to enable them to fully understand the potential security threats encountered, the security requirements of network printers and possible security measures. For general users, trainings may be via user guide, circular or email to raise their awareness of best practices of using network printers.</p>
+
+<p class="MsoNormal"><a name="_721a5e02-fde4-944b-ad8c-3f6a4ddcadc4" id="_721a5e02-fde4-944b-ad8c-3f6a4ddcadc4"></a>Generally speaking, awareness training should include but not limited to:</p>
+
+<div class="ol_wrap"><p style="mso-list:l2 level1 lfo12;" class="MsoListParagraphCxSpFirst"><a name="_8771aad2-39af-c51b-1ded-c50adfaaafa6" id="_8771aad2-39af-c51b-1ded-c50adfaaafa6"></a>Information classification and corresponding security requirements for handling information with network printers.
+</p>
+<p style="mso-list:l2 level1 lfo12;" class="MsoListParagraphCxSpMiddle"><a name="_2c8968b9-dd27-5854-0cff-6e9a1caf5163" id="_2c8968b9-dd27-5854-0cff-6e9a1caf5163"></a>Protection of printouts.
+</p>
+<p style="mso-list:l2 level1 lfo12;" class="MsoListParagraphCxSpLast"><a name="_f5a6edd3-5c98-7de9-9f1f-be6d23a974b9" id="_f5a6edd3-5c98-7de9-9f1f-be6d23a974b9"></a>Security requirements for network printers in provision, using and decommissioning stages.
+</p>
+</div>
+</div>
+</div>
+        <div><a name="_76c93d33-5828-1e58-55b5-58d830b2545b" id="_76c93d33-5828-1e58-55b5-58d830b2545b"></a><h2>5.4.<span style="mso-tab-count:1">&#xA0; </span>Decommissioning of Network Printers</h2>
+
+<p class="MsoNormal"><a name="_e564556d-604f-b0f1-82ae-501dbec1c4c4" id="_e564556d-604f-b0f1-82ae-501dbec1c4c4"></a>At the last stage of network printer management life cycle, network printers may be decommissioned due to physical damage, end of support, re-use by other staff or other B/Ds, etc. B/Ds should define device decommission procedures covering secure data deletion and network printers factory reset and disposal such that network printers can be re-used or securely disposed without data leakage.</p>
+
+<div class="ol_wrap"><p style="mso-list:l2 level1 lfo13;" class="MsoListParagraphCxSpFirst"><a name="_b72d2727-03a1-ffef-4c76-692d220a0894" id="_b72d2727-03a1-ffef-4c76-692d220a0894"></a>Secure Data Deletion
+<div class="ListContLevel1"><div class="ul_wrap"><p style="mso-list:l3 level2 lfo13;" class="MsoListParagraphCxSpFirst"><a name="_29aaade7-b563-2872-d1a7-4d7f364e8d83" id="_29aaade7-b563-2872-d1a7-4d7f364e8d83"></a>Clear all the logs and data from network printers. Some network printers provide features to remove information from both non-volatile random-access memory (NVRAM) and hard drive. If no such feature, the NVRAM and hard drive should be wiped manually using data removal software solution or physical destruction.
+</p>
+</div></div>
+</p>
+<p style="mso-list:l2 level1 lfo13;" class="MsoListParagraphCxSpLast"><a name="_127bbf94-543a-7e0c-3a67-52c828e427fb" id="_127bbf94-543a-7e0c-3a67-52c828e427fb"></a>Factory Reset
+<div class="ListContLevel1"><div class="ul_wrap"><p style="mso-list:l3 level2 lfo13;" class="MsoListParagraphCxSpFirst"><a name="_640bd121-83cb-34c7-849b-5141ad077683" id="_640bd121-83cb-34c7-849b-5141ad077683"></a>Restore network printers to default factory setting. It could be done by using the &#x201C;<tt>Restore Factory Settings</tt>&#x201D; function, if available. B/Ds may seek advice from the corresponding product vendors, if necessary.
+</p>
+</div></div>
+</p>
+</div>
+
+<p class="MsoNormal"><a name="_1e2fff04-b395-a762-2318-bac6335f1eed" id="_1e2fff04-b395-a762-2318-bac6335f1eed"></a>All classified information stored in network printers shall be completely cleared from the storage media before disposal, re-use or repair in accordance with government security requirements. If for any reason this is not feasible, the storage media must be physically destroyed to prevent the recovery of the classified information.</p>
+</div>
+      </div>
+      <p class="MsoNormal">
+        <br clear="all" style="mso-special-character:line-break;page-break-before:always"/>
+      </p>
+      <div class="Section3">
+        <a name="annex-sample-checklist" id="annex-sample-checklist"></a>
+        <h1 class="Annex"><b>Annex A</b><br/>(informative)<br/><b>Sample Checklist on Security Configuration for Network Printers</b></h1>
+        <p style="display:none;" class="variant-title-toc">Annex A<span style="mso-tab-count:1">&#xA0; </span>Sample Checklist on Security Configuration for Network Printers</p>
+        <p class="MsoNormal"><a name="_90d97f84-ec95-e645-26ca-73e9a76e9236" id="_90d97f84-ec95-e645-26ca-73e9a76e9236"></a>The following list of configuration is recommended for securing network printers used in the offices. B/Ds may adjust the checklist based on their specific business requirements and advice from product vendors or third party consultants, if applicable.</p>
+        <div align="center" class="table_container">
+          <table class="MsoISOTable" style="mso-table-anchor-horizontal:column;mso-table-overlap:never;border-spacing:0;border-width:1px;">
+            <a name="_445a9618-abe5-27fc-9fd8-5695eddb3790" id="_445a9618-abe5-27fc-9fd8-5695eddb3790"></a>
+            <tbody>
+              <tr>
+                <th colspan="2" valign="middle" align="center" style="font-weight:bold;border-top:solid windowtext 1.5pt;mso-border-top-alt:solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">Configurations</th>
+              </tr>
+              <tr>
+                <th colspan="2" valign="middle" align="left" style="font-weight:bold;border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">Preparation and Installation</th>
+              </tr>
+              <tr>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">1.</td>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">Isolate the network printer from other systems until the secure configuration is installed and hardened.</td>
+              </tr>
+              <tr>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">2.</td>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">Install the network printer in physically secure environment.</td>
+              </tr>
+              <tr>
+                <th colspan="2" valign="middle" align="left" style="font-weight:bold;border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">Network Control</th>
+              </tr>
+              <tr>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">3.</td>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">Disable all protocols<a href="#_445a9618-abe5-27fc-9fd8-5695eddb3790a" class="TableFootnoteRef">a</a> if they are not being utilised (e.g. AppleTalk, IPX/SPX).</td>
+              </tr>
+              <tr>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">4.</td>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">Assign the network printer with a static IP address<a href="#_445a9618-abe5-27fc-9fd8-5695eddb3790b" class="TableFootnoteRef">b</a> or limit network access to the printer as possible such as access control lists in the printer configuration.</td>
+              </tr>
+              <tr>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">5.</td>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">Use secure communications (e.g. enable HTTPS for web-based management).</td>
+              </tr>
+              <tr>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">6.</td>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">Encrypt network traffic (e.g. IPsec or SSL/TLS).</td>
+              </tr>
+              <tr>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">7.</td>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">Disable wireless network connection for handling classified information.</td>
+              </tr>
+              <tr>
+                <th colspan="2" valign="middle" align="left" style="font-weight:bold;border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">Data Protection Control</th>
+              </tr>
+              <tr>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">8.</td>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">Encrypt data stored in the printer&#x2019;s storage devices, if applicable.</td>
+              </tr>
+              <tr>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">9.</td>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">Ensure that data stored in printer&#x2019;s storage devices is erased completely before decommission.</td>
+              </tr>
+              <tr>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">10.</td>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">If printer&#x2019;s storage devices are used for printing, copying, scanning, faxing or emailing documents, configure the network printer to remove any spooled files, images, and other temporary data from the storage devices using a secure overwrite between jobs.</td>
+              </tr>
+              <tr>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">11.</td>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">Enable authenticated retrieval of print jobs for users, e.g. pull / private printing.</td>
+              </tr>
+              <tr>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">12.</td>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">Enable Secure Multipurpose Internet Mail Extensions (S/MIME) for email transmission of documents, if applicable. Administration Control</td>
+              </tr>
+              <tr>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">13.</td>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">Disable all services not used (e.g. FAX, scanner). If the web interface is not required, consider disabling the web server.</td>
+              </tr>
+              <tr>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">14.</td>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">Change the default administrator account name / password, if applicable.</td>
+              </tr>
+              <tr>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">15.</td>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">Set strong passwords for administrator accounts according to password policy.</td>
+              </tr>
+              <tr>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">16.</td>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">Restrict access to management console.</td>
+              </tr>
+              <tr>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">17.</td>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">Disable unneeded services and management protocols<a href="#_445a9618-abe5-27fc-9fd8-5695eddb3790c" class="TableFootnoteRef">c</a>.</td>
+              </tr>
+              <tr>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">18.</td>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">Apply latest patches for printer&#x2019;s operating system and/or firmware.</td>
+              </tr>
+              <tr>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">19.</td>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">Disable unused communication ports (e.g. Bluetooth, Wi-Fi, NFC, USB).</td>
+              </tr>
+              <tr>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">20.</td>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">Disable unauthorised remote access.</td>
+              </tr>
+              <tr>
+                <th colspan="2" valign="middle" align="left" style="font-weight:bold;border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">User Authentication / Authorisation Control</th>
+              </tr>
+              <tr>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">21.</td>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">Enable user identification and authentication for privileged access.</td>
+              </tr>
+              <tr>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">22.</td>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">Restrict users to change the configuration settings.</td>
+              </tr>
+              <tr>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">23.</td>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">Ensure that only authorised users can modify the global configuration from the console by requiring a password.</td>
+              </tr>
+              <tr>
+                <th colspan="2" valign="middle" align="left" style="font-weight:bold;border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;page-break-after:auto;">Logging</th>
+              </tr>
+              <tr>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.5pt;mso-border-bottom-alt:solid windowtext 1.5pt;page-break-after:auto;">24.</td>
+                <td valign="middle" align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.5pt;mso-border-bottom-alt:solid windowtext 1.5pt;page-break-after:auto;">Enable logging (e.g. access log) and review the logs regularly, if applicable.</td>
+              </tr>
+            </tbody>
+            <tfoot>
+              <tr>
+                <td colspan="2" style="border-top:0pt;mso-border-top-alt:0pt;border-bottom:solid windowtext 1.5pt;mso-border-bottom-alt:solid windowtext 1.5pt;">
+                  <div class="TableFootnote"><a name="ftn_445a9618-abe5-27fc-9fd8-5695eddb3790a" id="ftn_445a9618-abe5-27fc-9fd8-5695eddb3790a"></a><p class="TableFootnote"><a name="_3e2631c9-89be-5494-81e1-027fb41b4aae" id="_3e2631c9-89be-5494-81e1-027fb41b4aae"></a><span class="TableFootnoteRef">a</span><span style="mso-tab-count:1">&#xA0; </span>For examples: i) IPP: If the Internet Printing Protocol is not used, then disable it. ii) FTP: This feature is not used in most environments and should be disabled. iii) SMB: Most printers do not provide status report when using SMB printing and should be disabled.</p>
+</div>
+                  <div class="TableFootnote"><a name="ftn_445a9618-abe5-27fc-9fd8-5695eddb3790b" id="ftn_445a9618-abe5-27fc-9fd8-5695eddb3790b"></a><p class="TableFootnote"><a name="_610e632a-31ee-def9-8e52-15d1b06ca7f0" id="_610e632a-31ee-def9-8e52-15d1b06ca7f0"></a><span class="TableFootnoteRef">b</span><span style="mso-tab-count:1">&#xA0; </span>Giving static IP addresses or DHCP reservations makes it easier to monitor the printers and apply access lists on hardware-based firewalls. Consider placing sensitive printers on their own subnet, which may make them easier to identify and secure.</p>
+</div>
+                  <div class="TableFootnote"><a name="ftn_445a9618-abe5-27fc-9fd8-5695eddb3790c" id="ftn_445a9618-abe5-27fc-9fd8-5695eddb3790c"></a><p class="TableFootnote"><a name="_a3bf442d-22ef-5ba0-68e4-d856ac91387a" id="_a3bf442d-22ef-5ba0-68e4-d856ac91387a"></a><span class="TableFootnoteRef">c</span><span style="mso-tab-count:1">&#xA0; </span>For examples: i) Disable web interface if possible; otherwise, enable HTTPS and disable HTTP at least. ii) Disable telnet management interface. iii) Disable SNMP if not used for printing management in your office; otherwise, choose SNMPv3 for its authentication and encryption features if possible.</p>
+</div>
+                </td>
+              </tr>
+            </tfoot>
+          </table>
+        </div>
+        <p class="MsoNormal"><a name="_2d79632e-a930-e60d-51bf-0b0e02973e33" id="_2d79632e-a930-e60d-51bf-0b0e02973e33"></a>The above checklist is NOT exhaustive and only includes some of the most common practices on printer configuration.</p>
+      </div>
+      <p class="MsoNormal">
+        <br clear="all" style="mso-special-character:line-break;page-break-before:always"/>
+      </p>
+      <div class="Section3">
+        <a name="annex-use-network" id="annex-use-network"></a>
+        <h1 class="Annex">
+          <b>Use of Network Printers</b>
+        </h1>
+        <p style="display:none;" class="variant-title-toc">Use of Network Printers</p>
+        <p class="MsoNormal"><a name="_de60eb11-93c5-28c2-c00a-7d2f770c96fa" id="_de60eb11-93c5-28c2-c00a-7d2f770c96fa"></a>Even the network printers have been prepared for secure operation, users should follow the best practices as follows:</p>
+        <div class="ol_wrap"><p style="mso-list:l2 level1 lfo14;" class="MsoListParagraphCxSpFirst"><a name="_fd200739-dc83-1d12-ca46-306d05f1ab87" id="_fd200739-dc83-1d12-ca46-306d05f1ab87"></a>Use authorised network printers.
+</p>
+<p style="mso-list:l2 level1 lfo14;" class="MsoListParagraphCxSpMiddle"><a name="_46306008-c989-775f-421e-a4c3fcb0533f" id="_46306008-c989-775f-421e-a4c3fcb0533f"></a>Do not use printer&#x2019;s wireless connection functionality to handle classified information.
+</p>
+<p style="mso-list:l2 level1 lfo14;" class="MsoListParagraphCxSpMiddle"><a name="_88b14c63-7c72-b72d-e315-42dc25b069bb" id="_88b14c63-7c72-b72d-e315-42dc25b069bb"></a>Observe the security requirements of printing, copying, scanning, faxing and emailing classified documents.
+</p>
+<p style="mso-list:l2 level1 lfo14;" class="MsoListParagraphCxSpMiddle"><a name="_b7199b88-98c9-dab3-29b9-493a3c43dc85" id="_b7199b88-98c9-dab3-29b9-493a3c43dc85"></a>Use pull / private printing feature so that printouts are only released upon user authentication (e.g. PIN, smart cards) to prevent unintended disclosure of printouts containing classified information.
+</p>
+<p style="mso-list:l2 level1 lfo14;" class="MsoListParagraphCxSpMiddle"><a name="_77b49c20-778f-bbfb-6723-0f06cd3e3ebe" id="_77b49c20-778f-bbfb-6723-0f06cd3e3ebe"></a>Collect the printouts as soon as possible.
+</p>
+<p style="mso-list:l2 level1 lfo14;" class="MsoListParagraphCxSpMiddle"><a name="_da6566df-04ad-5e2d-09ee-76e957093ea3" id="_da6566df-04ad-5e2d-09ee-76e957093ea3"></a>Do not collect or copy printouts which belong to others and put them back if they are collected unintentionally.
+</p>
+<p style="mso-list:l2 level1 lfo14;" class="MsoListParagraphCxSpLast"><a name="_cc10c03c-b14c-8239-f5cd-57c334b5650b" id="_cc10c03c-b14c-8239-f5cd-57c334b5650b"></a>Set user passwords and select strong encryption method for scanning documents, if applicable.
+</p>
+</div>
+      </div>
+    </div>
+    <div style="mso-element:footnote-list"><div style="mso-element:footnote" id="ftn1">
+  <p class="MsoFootnoteText"><a name="_72464355-fcf1-3c62-32a0-533d6b9b9325" id="_72464355-fcf1-3c62-32a0-533d6b9b9325"></a><a style="mso-footnote-id:ftn1" href="#_ftn1" name="_ftnref1" title="" id="_ftnref1"><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"></span></span></a>Some printers do not support file overwrite when SSD is used as storage device. B/D could select HDD if the file overwrite feature is necessary.</p>
+</div>
+</div>
+  </body>
+</html>
+
+
+------=_NextPart_2d3acfee.6e9a.40b5
+Content-ID: <filelist.xml>
+Content-Disposition: inline; filename="filelist.xml"
+Content-Transfer-Encoding: base64
+Content-Type: application/xml
+
+PHhtbCB4bWxuczpvPSJ1cm46c2NoZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTpvZmZpY2UiPgog
+ICAgICAgIDxvOk1haW5GaWxlIEhSZWY9Ii4uLy9fX3cvaGstb2djaW8taW5mb3NlYy1kb2NzL2hr
+LW9nY2lvLWluZm9zZWMtZG9jcy9fc2l0ZS9kb2N1bWVudHMvb2djaW8taXNwZy1zbzAxLmh0bSIv
+PiAgPG86RmlsZSBIUmVmPSJmaWxlbGlzdC54bWwiLz4KICA8bzpGaWxlIEhSZWY9ImhlYWRlci5o
+dG1sIi8+CjwveG1sPgo=
+
+------=_NextPart_2d3acfee.6e9a.40b5
+Content-ID: <header.html>
+Content-Disposition: inline; filename="header.html"
+Content-Transfer-Encoding: base64
+Content-Type: text/html; charset="utf-8"
+
+PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiDQp4bWxuczpvPSJ1
+cm46c2NoZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTpvZmZpY2UiDQp4bWxuczp3PSJ1cm46c2No
+ZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTp3b3JkIg0KeG1sbnM6bT0iaHR0cDovL3NjaGVtYXMu
+bWljcm9zb2Z0LmNvbS9vZmZpY2UvMjAwNC8xMi9vbW1sIg0KeG1sbnM6bXY9Imh0dHA6Ly9tYWNW
+bWxTY2hlbWFVcmkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy9UUi9SRUMtaHRtbDQwIj4NCg0K
+PGhlYWQ+DQo8bWV0YSBuYW1lPVRpdGxlIGNvbnRlbnQ9IiI+DQo8bWV0YSBuYW1lPUtleXdvcmRz
+IGNvbnRlbnQ9IiI+DQo8bWV0YSBodHRwLWVxdWl2PUNvbnRlbnQtVHlwZSBjb250ZW50PSJ0ZXh0
+L2h0bWw7IGNoYXJzZXQ9dXRmLTgiPg0KPG1ldGEgbmFtZT1Qcm9nSWQgY29udGVudD1Xb3JkLkRv
+Y3VtZW50Pg0KPG1ldGEgbmFtZT1HZW5lcmF0b3IgY29udGVudD0iTWljcm9zb2Z0IFdvcmQgMTUi
+Pg0KPG1ldGEgbmFtZT1PcmlnaW5hdG9yIGNvbnRlbnQ9Ik1pY3Jvc29mdCBXb3JkIDE1Ij4NCjxs
+aW5rIGlkPU1haW4tRmlsZSByZWw9TWFpbi1GaWxlIGhyZWY9Ii4uLy9fX3cvaGstb2djaW8taW5m
+b3NlYy1kb2NzL2hrLW9nY2lvLWluZm9zZWMtZG9jcy9fc2l0ZS9kb2N1bWVudHMvb2djaW8taXNw
+Zy1zbzAxLmh0bWwiPg0KPCEtLVtpZiBndGUgbXNvIDldPjx4bWw+DQogPG86c2hhcGVkZWZhdWx0
+cyB2OmV4dD0iZWRpdCIgc3BpZG1heD0iMjA0OSIvPg0KPC94bWw+PCFbZW5kaWZdLS0+DQo8L2hl
+YWQ+DQoNCjxib2R5IGxhbmc9RU4gbGluaz1ibHVlIHZsaW5rPSIjOTU0RjcyIj4NCg0KPGRpdiBz
+dHlsZT0nbXNvLWVsZW1lbnQ6Zm9vdG5vdGUtc2VwYXJhdG9yJyBpZD1mcz4NCg0KPHAgY2xhc3M9
+TXNvTm9ybWFsIHN0eWxlPSdtYXJnaW4tYm90dG9tOjBjbTttYXJnaW4tYm90dG9tOi4wMDAxcHQ7
+bGluZS1oZWlnaHQ6DQpub3JtYWwnPjxzcGFuIGxhbmc9RU4tR0I+PHNwYW4gc3R5bGU9J21zby1z
+cGVjaWFsLWNoYXJhY3Rlcjpmb290bm90ZS1zZXBhcmF0b3InPjwhW2lmICFzdXBwb3J0Rm9vdG5v
+dGVzXT4NCg0KPGhyIGFsaWduPWxlZnQgc2l6ZT0xIHdpZHRoPSIzMyUiPg0KDQo8IVtlbmRpZl0+
+PC9zcGFuPjwvc3Bhbj48L3A+DQoNCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpm
+b290bm90ZS1jb250aW51YXRpb24tc2VwYXJhdG9yJyBpZD1mY3M+DQoNCjxwIGNsYXNzPU1zb05v
+cm1hbCBzdHlsZT0nbWFyZ2luLWJvdHRvbTowY207bWFyZ2luLWJvdHRvbTouMDAwMXB0O2xpbmUt
+aGVpZ2h0Og0Kbm9ybWFsJz48c3BhbiBsYW5nPUVOLUdCPjxzcGFuIHN0eWxlPSdtc28tc3BlY2lh
+bC1jaGFyYWN0ZXI6Zm9vdG5vdGUtY29udGludWF0aW9uLXNlcGFyYXRvcic+PCFbaWYgIXN1cHBv
+cnRGb290bm90ZXNdPg0KDQo8aHIgYWxpZ249bGVmdCBzaXplPTE+DQoNCjwhW2VuZGlmXT48L3Nw
+YW4+PC9zcGFuPjwvcD4NCg0KPC9kaXY+DQoNCjxkaXYgc3R5bGU9J21zby1lbGVtZW50OmVuZG5v
+dGUtc2VwYXJhdG9yJyBpZD1lcz4NCg0KPHAgY2xhc3M9TXNvTm9ybWFsIHN0eWxlPSdtYXJnaW4t
+Ym90dG9tOjBjbTttYXJnaW4tYm90dG9tOi4wMDAxcHQ7bGluZS1oZWlnaHQ6DQpub3JtYWwnPjxz
+cGFuIGxhbmc9RU4tR0I+PHNwYW4gc3R5bGU9J21zby1zcGVjaWFsLWNoYXJhY3Rlcjpmb290bm90
+ZS1zZXBhcmF0b3InPjwhW2lmICFzdXBwb3J0Rm9vdG5vdGVzXT4NCg0KPGhyIGFsaWduPWxlZnQg
+c2l6ZT0xIHdpZHRoPSIzMyUiPg0KDQo8IVtlbmRpZl0+PC9zcGFuPjwvc3Bhbj48L3A+DQoNCjwv
+ZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDplbmRub3RlLWNvbnRpbnVhdGlvbi1zZXBh
+cmF0b3InIGlkPWVjcz4NCg0KPHAgY2xhc3M9TXNvTm9ybWFsIHN0eWxlPSdtYXJnaW4tYm90dG9t
+OjBjbTttYXJnaW4tYm90dG9tOi4wMDAxcHQ7bGluZS1oZWlnaHQ6DQpub3JtYWwnPjxzcGFuIGxh
+bmc9RU4tR0I+PHNwYW4gc3R5bGU9J21zby1zcGVjaWFsLWNoYXJhY3Rlcjpmb290bm90ZS1jb250
+aW51YXRpb24tc2VwYXJhdG9yJz48IVtpZiAhc3VwcG9ydEZvb3Rub3Rlc10+DQoNCjxociBhbGln
+bj1sZWZ0IHNpemU9MT4NCg0KPCFbZW5kaWZdPjwvc3Bhbj48L3NwYW4+PC9wPg0KDQo8L2Rpdj4N
+Cg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6aGVhZGVyJyBpZD1laDE+DQoNCjxwIGNsYXNzPU1z
+b0hlYWRlciBhbGlnbj1sZWZ0IHN0eWxlPSd0ZXh0LWFsaWduOmxlZnQ7bGluZS1oZWlnaHQ6MTIu
+MHB0Ow0KbXNvLWxpbmUtaGVpZ2h0LXJ1bGU6ZXhhY3RseSc+PHNwYW4gbGFuZz1FTi1HQj5PcGVu
+IEdlb3NwYXRpYWwgQ29uc29ydGl1bSZuYnNwO0lTUEctU08wMTwvc3Bhbj48L3A+DQoNCjwvZGl2
+Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpoZWFkZXInIGlkPWgxPg0KDQo8cCBjbGFzcz1N
+c29IZWFkZXIgc3R5bGU9J21hcmdpbi1ib3R0b206MTguMHB0Jz48c3BhbiBsYW5nPUVOLUdCDQpz
+dHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYmlkaS1mb250LXNpemU6MTEuMHB0O2ZvbnQtd2Vp
+Z2h0Om5vcm1hbCc+DQpPcGVuIEdlb3NwYXRpYWwgQ29uc29ydGl1bSZuYnNwO0lTUEctU08wMTwv
+c3Bhbj48c3BhbiBsYW5nPUVOLUdCDQpzdHlsZT0nZm9udC13ZWlnaHQ6bm9ybWFsJz48bzpwPjwv
+bzpwPjwvc3Bhbj48L3A+DQoNCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpmb290
+ZXInIGlkPWVmMT4NCg0KPHAgY2xhc3M9TXNvRm9vdGVyIHN0eWxlPSdtYXJnaW4tdG9wOjEyLjBw
+dDtsaW5lLWhlaWdodDoxMi4wcHQ7bXNvLWxpbmUtaGVpZ2h0LXJ1bGU6DQpleGFjdGx5Jz48IS0t
+W2lmIHN1cHBvcnRGaWVsZHNdPjxiIHN0eWxlPSdtc28tYmlkaS1mb250LXdlaWdodDpub3JtYWwn
+PjxzcGFuDQpsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0O21zby1iaWRpLWZvbnQt
+c2l6ZToxMS4wcHQnPjxzcGFuDQpzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtYmVnaW4nPjwvc3Bh
+bj48c3Bhbg0Kc3R5bGU9J21zby1zcGFjZXJ1bjp5ZXMnPsKgPC9zcGFuPlBBR0U8c3BhbiBzdHls
+ZT0nbXNvLXNwYWNlcnVuOnllcyc+wqDCoA0KPC9zcGFuPlwqIE1FUkdFRk9STUFUIDxzcGFuIHN0
+eWxlPSdtc28tZWxlbWVudDpmaWVsZC1zZXBhcmF0b3InPjwvc3Bhbj48L3NwYW4+PC9iPjwhW2Vu
+ZGlmXS0tPjxiDQpzdHlsZT0nbXNvLWJpZGktZm9udC13ZWlnaHQ6bm9ybWFsJz48c3BhbiBsYW5n
+PUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0Ow0KbXNvLWJpZGktZm9udC1zaXplOjExLjBw
+dCc+PHNwYW4gc3R5bGU9J21zby1uby1wcm9vZjp5ZXMnPjI8L3NwYW4+PC9zcGFuPjwvYj48IS0t
+W2lmIHN1cHBvcnRGaWVsZHNdPjxiDQpzdHlsZT0nbXNvLWJpZGktZm9udC13ZWlnaHQ6bm9ybWFs
+Jz48c3BhbiBsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0Ow0KbXNvLWJpZGktZm9u
+dC1zaXplOjExLjBwdCc+PHNwYW4gc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLWVuZCc+PC9zcGFu
+Pjwvc3Bhbj48L2I+PCFbZW5kaWZdLS0+PHNwYW4NCmxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6
+ZToxMC4wcHQ7bXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+PHNwYW4NCnN0eWxlPSdtc28tdGFi
+LWNvdW50OjEnPsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqAgPC9zcGFuPsKpIE9wZW4gR2Vvc3BhdGlhbCBDb25zb3J0aXVtJm5ic3A7MjAxOCDi
+gJMgQWxsIHJpZ2h0cyByZXNlcnZlZDxvOnA+PC9vOnA+PC9zcGFuPjwvcD4NCg0KPC9kaXY+DQoN
+CjxkaXYgc3R5bGU9J21zby1lbGVtZW50OmhlYWRlcicgaWQ9ZWgyPg0KPHAgY2xhc3M9TXNvSGVh
+ZGVyIGFsaWduPWxlZnQgc3R5bGU9J3RleHQtYWxpZ246bGVmdDtsaW5lLWhlaWdodDoxMi4wcHQ7
+DQptc28tbGluZS1oZWlnaHQtcnVsZTpleGFjdGx5Jz48c3BhbiBsYW5nPUVOLUdCPk9wZW4gR2Vv
+c3BhdGlhbCBDb25zb3J0aXVtJm5ic3A7SVNQRy1TTzAxPC9zcGFuPjwvcD4NCjwvZGl2Pg0KDQo8
+ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpoZWFkZXInIGlkPWVoMmw+DQo8cCBjbGFzcz1Nc29IZWFk
+ZXJMYW5kc2NhcGUgYWxpZ249bGVmdCBzdHlsZT0ndGV4dC1hbGlnbjpsZWZ0O2xpbmUtaGVpZ2h0
+OjEyLjBwdDsNCm1zby1saW5lLWhlaWdodC1ydWxlOmV4YWN0bHknPjxzcGFuIGxhbmc9RU4tR0I+
+T3BlbiBHZW9zcGF0aWFsIENvbnNvcnRpdW0mbmJzcDtJU1BHLVNPMDE8L3NwYW4+PC9wPg0KPC9k
+aXY+DQoNCjxkaXYgc3R5bGU9J21zby1lbGVtZW50OmhlYWRlcicgaWQ9aDI+DQo8cCBjbGFzcz1N
+c29IZWFkZXIgYWxpZ249cmlnaHQgc3R5bGU9J3RleHQtYWxpZ246cmlnaHQ7bGluZS1oZWlnaHQ6
+MTIuMHB0Ow0KbXNvLWxpbmUtaGVpZ2h0LXJ1bGU6ZXhhY3RseSc+PHNwYW4gbGFuZz1FTi1HQj5P
+cGVuIEdlb3NwYXRpYWwgQ29uc29ydGl1bSZuYnNwO0lTUEctU08wMTwvc3Bhbj48L3A+DQo8L2Rp
+dj4NCg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6aGVhZGVyJyBpZD1oMmw+DQo8cCBjbGFzcz1N
+c29IZWFkZXJMYW5kc2NhcGUgYWxpZ249cmlnaHQgc3R5bGU9J3RleHQtYWxpZ246cmlnaHQ7bGlu
+ZS1oZWlnaHQ6MTIuMHB0Ow0KbXNvLWxpbmUtaGVpZ2h0LXJ1bGU6ZXhhY3RseSc+PHNwYW4gbGFu
+Zz1FTi1HQj5PcGVuIEdlb3NwYXRpYWwgQ29uc29ydGl1bSZuYnNwO0lTUEctU08wMTwvc3Bhbj48
+L3A+DQo8L2Rpdj4NCg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6Zm9vdGVyJyBpZD1lZjI+DQo8
+cCBjbGFzcz1Nc29Gb290ZXIgc3R5bGU9J2xpbmUtaGVpZ2h0OjEyLjBwdDttc28tbGluZS1oZWln
+aHQtcnVsZTpleGFjdGx5Jz48IS0tW2lmIHN1cHBvcnRGaWVsZHNdPjxzcGFuDQpsYW5nPUVOLUdC
+IHN0eWxlPSdmb250LXNpemU6MTAuMHB0O21zby1iaWRpLWZvbnQtc2l6ZToxMS4wcHQnPjxzcGFu
+DQpzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtYmVnaW4nPjwvc3Bhbj48c3Bhbg0Kc3R5bGU9J21z
+by1zcGFjZXJ1bjp5ZXMnPsKgPC9zcGFuPlBBR0U8c3BhbiBzdHlsZT0nbXNvLXNwYWNlcnVuOnll
+cyc+wqDCoA0KPC9zcGFuPlwqIE1FUkdFRk9STUFUIDxzcGFuIHN0eWxlPSdtc28tZWxlbWVudDpm
+aWVsZC1zZXBhcmF0b3InPjwvc3Bhbj48L3NwYW4+PCFbZW5kaWZdLS0+PHNwYW4NCmxhbmc9RU4t
+R0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7bXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+PHNw
+YW4NCnN0eWxlPSdtc28tbm8tcHJvb2Y6eWVzJz5paTwvc3Bhbj48L3NwYW4+PCEtLVtpZiBzdXBw
+b3J0RmllbGRzXT48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28t
+YmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3Bhbg0Kc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLWVu
+ZCc+PC9zcGFuPjwvc3Bhbj48IVtlbmRpZl0tLT48c3BhbiBsYW5nPUVOLUdCDQpzdHlsZT0nZm9u
+dC1zaXplOjEwLjBwdDttc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3BhbiANCnN0eWxlPSdt
+c28tdGFiLWNvdW50OjEnPsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqAgPC9zcGFuPsKpIE9wZW4gR2Vvc3BhdGlhbCBDb25zb3J0aXVtJm5ic3A7
+MjAxOCZuYnNwO+KAkyBBbGwgcmlnaHRzIHJlc2VydmVkPG86cD48L286cD48L3NwYW4+PC9wPg0K
+DQo8L2Rpdj4NCg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6Zm9vdGVyJyBpZD1lZjJsPg0KPHAg
+Y2xhc3M9TXNvRm9vdGVyTGFuZHNjYXBlIHN0eWxlPSdsaW5lLWhlaWdodDoxMi4wcHQ7bXNvLWxp
+bmUtaGVpZ2h0LXJ1bGU6ZXhhY3RseSc+PCEtLVtpZiBzdXBwb3J0RmllbGRzXT48c3Bhbg0KbGFu
+Zz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYmlkaS1mb250LXNpemU6MTEuMHB0
+Jz48c3Bhbg0Kc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLWJlZ2luJz48L3NwYW4+PHNwYW4NCnN0
+eWxlPSdtc28tc3BhY2VydW46eWVzJz7CoDwvc3Bhbj5QQUdFPHNwYW4gc3R5bGU9J21zby1zcGFj
+ZXJ1bjp5ZXMnPsKgwqANCjwvc3Bhbj5cKiBNRVJHRUZPUk1BVCA8c3BhbiBzdHlsZT0nbXNvLWVs
+ZW1lbnQ6ZmllbGQtc2VwYXJhdG9yJz48L3NwYW4+PC9zcGFuPjwhW2VuZGlmXS0tPjxzcGFuDQps
+YW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0O21zby1iaWRpLWZvbnQtc2l6ZToxMS4w
+cHQnPjxzcGFuDQpzdHlsZT0nbXNvLW5vLXByb29mOnllcyc+aWk8L3NwYW4+PC9zcGFuPjwhLS1b
+aWYgc3VwcG9ydEZpZWxkc10+PHNwYW4NCmxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4w
+cHQ7bXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+PHNwYW4NCnN0eWxlPSdtc28tZWxlbWVudDpm
+aWVsZC1lbmQnPjwvc3Bhbj48L3NwYW4+PCFbZW5kaWZdLS0+PHNwYW4gbGFuZz1FTi1HQg0Kc3R5
+bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7bXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+PHNwYW4gDQpz
+dHlsZT0nbXNvLXRhYi1jb3VudDoxJz7CoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgIDwvc3Bhbj7CqSBPcGVuIEdlb3NwYXRpYWwgQ29uc29ydGl1
+bSZuYnNwOzIwMTgmbmJzcDvigJMgQWxsIHJpZ2h0cyByZXNlcnZlZDxvOnA+PC9vOnA+PC9zcGFu
+PjwvcD4NCg0KPC9kaXY+DQoNCjxkaXYgc3R5bGU9J21zby1lbGVtZW50OmZvb3RlcicgaWQ9ZjI+
+DQo8cCBjbGFzcz1Nc29Gb290ZXIgc3R5bGU9J2xpbmUtaGVpZ2h0OjEyLjBwdCc+PHNwYW4gbGFu
+Zz1FTi1HQg0Kc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7bXNvLWJpZGktZm9udC1zaXplOjExLjBw
+dCc+wqkgT3BlbiBHZW9zcGF0aWFsIENvbnNvcnRpdW0mbmJzcDsyMDE4Jm5ic3A74oCTIEFsbA0K
+cmlnaHRzIHJlc2VydmVkPHNwYW4gc3R5bGU9J21zby10YWItY291bnQ6MSc+wqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqAgPC9zcGFuPjwvc3Bhbj48
+IS0tW2lmIHN1cHBvcnRGaWVsZHNdPjxzcGFuDQpsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6
+MTAuMHB0O21zby1iaWRpLWZvbnQtc2l6ZToxMS4wcHQnPjxzcGFuDQpzdHlsZT0nbXNvLWVsZW1l
+bnQ6ZmllbGQtYmVnaW4nPjwvc3Bhbj4gUEFHRTxzcGFuIHN0eWxlPSdtc28tc3BhY2VydW46eWVz
+Jz7CoMKgDQo8L3NwYW4+XCogTUVSR0VGT1JNQVQgPHNwYW4gc3R5bGU9J21zby1lbGVtZW50OmZp
+ZWxkLXNlcGFyYXRvcic+PC9zcGFuPjwvc3Bhbj48IVtlbmRpZl0tLT48c3Bhbg0KbGFuZz1FTi1H
+QiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3Bh
+bg0Kc3R5bGU9J21zby1uby1wcm9vZjp5ZXMnPmlpaTwvc3Bhbj48L3NwYW4+PCEtLVtpZiBzdXBw
+b3J0RmllbGRzXT48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28t
+YmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3Bhbg0Kc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLWVu
+ZCc+PC9zcGFuPjwvc3Bhbj48IVtlbmRpZl0tLT48c3BhbiBsYW5nPUVOLUdCDQpzdHlsZT0nZm9u
+dC1zaXplOjEwLjBwdDttc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48bzpwPjwvbzpwPjwvc3Bh
+bj48L3A+DQo8L2Rpdj4NCg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6Zm9vdGVyJyBpZD1mMmw+
+DQo8cCBjbGFzcz1Nc29Gb290ZXJMYW5kc2NhcGUgc3R5bGU9J2xpbmUtaGVpZ2h0OjEyLjBwdCc+
+PHNwYW4gbGFuZz1FTi1HQg0Kc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7bXNvLWJpZGktZm9udC1z
+aXplOjExLjBwdCc+wqkgT3BlbiBHZW9zcGF0aWFsIENvbnNvcnRpdW0mbmJzcDsyMDE4Jm5ic3A7
+4oCTIEFsbA0KcmlnaHRzIHJlc2VydmVkPHNwYW4gc3R5bGU9J21zby10YWItY291bnQ6MSc+wqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqAgPC9zcGFu
+Pjwvc3Bhbj48IS0tW2lmIHN1cHBvcnRGaWVsZHNdPjxzcGFuDQpsYW5nPUVOLUdCIHN0eWxlPSdm
+b250LXNpemU6MTAuMHB0O21zby1iaWRpLWZvbnQtc2l6ZToxMS4wcHQnPjxzcGFuDQpzdHlsZT0n
+bXNvLWVsZW1lbnQ6ZmllbGQtYmVnaW4nPjwvc3Bhbj4gUEFHRTxzcGFuIHN0eWxlPSdtc28tc3Bh
+Y2VydW46eWVzJz7CoMKgDQo8L3NwYW4+XCogTUVSR0VGT1JNQVQgPHNwYW4gc3R5bGU9J21zby1l
+bGVtZW50OmZpZWxkLXNlcGFyYXRvcic+PC9zcGFuPjwvc3Bhbj48IVtlbmRpZl0tLT48c3Bhbg0K
+bGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYmlkaS1mb250LXNpemU6MTEu
+MHB0Jz48c3Bhbg0Kc3R5bGU9J21zby1uby1wcm9vZjp5ZXMnPmlpaTwvc3Bhbj48L3NwYW4+PCEt
+LVtpZiBzdXBwb3J0RmllbGRzXT48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEw
+LjBwdDttc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3Bhbg0Kc3R5bGU9J21zby1lbGVtZW50
+OmZpZWxkLWVuZCc+PC9zcGFuPjwvc3Bhbj48IVtlbmRpZl0tLT48c3BhbiBsYW5nPUVOLUdCDQpz
+dHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48bzpwPjwv
+bzpwPjwvc3Bhbj48L3A+DQo8L2Rpdj4NCg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6Zm9vdGVy
+JyBpZD1lZjM+DQo8cCBjbGFzcz1Nc29Gb290ZXIgc3R5bGU9J21hcmdpbi10b3A6MTIuMHB0O2xp
+bmUtaGVpZ2h0OjEyLjBwdDttc28tbGluZS1oZWlnaHQtcnVsZToNCmV4YWN0bHknPjwhLS1baWYg
+c3VwcG9ydEZpZWxkc10+PGIgc3R5bGU9J21zby1iaWRpLWZvbnQtd2VpZ2h0Om5vcm1hbCc+PHNw
+YW4NCmxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7bXNvLWJpZGktZm9udC1zaXpl
+OjExLjBwdCc+PHNwYW4NCnN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1iZWdpbic+PC9zcGFuPjxz
+cGFuDQpzdHlsZT0nbXNvLXNwYWNlcnVuOnllcyc+wqA8L3NwYW4+UEFHRTxzcGFuIHN0eWxlPSdt
+c28tc3BhY2VydW46eWVzJz7CoMKgDQo8L3NwYW4+XCogTUVSR0VGT1JNQVQgPHNwYW4gc3R5bGU9
+J21zby1lbGVtZW50OmZpZWxkLXNlcGFyYXRvcic+PC9zcGFuPjwvc3Bhbj48L2I+PCFbZW5kaWZd
+LS0+PGINCnN0eWxlPSdtc28tYmlkaS1mb250LXdlaWdodDpub3JtYWwnPjxzcGFuIGxhbmc9RU4t
+R0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7DQptc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48
+c3BhbiBzdHlsZT0nbXNvLW5vLXByb29mOnllcyc+Mjwvc3Bhbj48L3NwYW4+PC9iPjwhLS1baWYg
+c3VwcG9ydEZpZWxkc10+PGINCnN0eWxlPSdtc28tYmlkaS1mb250LXdlaWdodDpub3JtYWwnPjxz
+cGFuIGxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7DQptc28tYmlkaS1mb250LXNp
+emU6MTEuMHB0Jz48c3BhbiBzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtZW5kJz48L3NwYW4+PC9z
+cGFuPjwvYj48IVtlbmRpZl0tLT48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEw
+LjBwdDttc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3Bhbg0Kc3R5bGU9J21zby10YWItY291
+bnQ6MSc+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoCA8L3NwYW4+wqkgT3BlbiBHZW9zcGF0aWFsIENvbnNvcnRpdW0mbmJzcDsyMDE4Jm5ic3A7
+4oCTIEFsbCByaWdodHMgcmVzZXJ2ZWQ8bzpwPjwvbzpwPjwvc3Bhbj48L3A+DQoNCjwvZGl2Pg0K
+DQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpmb290ZXInIGlkPWVmM2w+DQo8cCBjbGFzcz1Nc29G
+b290ZXJMYW5kc2NhcGUgc3R5bGU9J21hcmdpbi10b3A6MTIuMHB0O2xpbmUtaGVpZ2h0OjEyLjBw
+dDttc28tbGluZS1oZWlnaHQtcnVsZToNCmV4YWN0bHknPjwhLS1baWYgc3VwcG9ydEZpZWxkc10+
+PGIgc3R5bGU9J21zby1iaWRpLWZvbnQtd2VpZ2h0Om5vcm1hbCc+PHNwYW4NCmxhbmc9RU4tR0Ig
+c3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7bXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+PHNwYW4N
+CnN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1iZWdpbic+PC9zcGFuPjxzcGFuDQpzdHlsZT0nbXNv
+LXNwYWNlcnVuOnllcyc+wqA8L3NwYW4+UEFHRTxzcGFuIHN0eWxlPSdtc28tc3BhY2VydW46eWVz
+Jz7CoMKgDQo8L3NwYW4+XCogTUVSR0VGT1JNQVQgPHNwYW4gc3R5bGU9J21zby1lbGVtZW50OmZp
+ZWxkLXNlcGFyYXRvcic+PC9zcGFuPjwvc3Bhbj48L2I+PCFbZW5kaWZdLS0+PGINCnN0eWxlPSdt
+c28tYmlkaS1mb250LXdlaWdodDpub3JtYWwnPjxzcGFuIGxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQt
+c2l6ZToxMC4wcHQ7DQptc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3BhbiBzdHlsZT0nbXNv
+LW5vLXByb29mOnllcyc+Mjwvc3Bhbj48L3NwYW4+PC9iPjwhLS1baWYgc3VwcG9ydEZpZWxkc10+
+PGINCnN0eWxlPSdtc28tYmlkaS1mb250LXdlaWdodDpub3JtYWwnPjxzcGFuIGxhbmc9RU4tR0Ig
+c3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7DQptc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3Bh
+biBzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtZW5kJz48L3NwYW4+PC9zcGFuPjwvYj48IVtlbmRp
+Zl0tLT48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYmlkaS1m
+b250LXNpemU6MTEuMHB0Jz48c3Bhbg0Kc3R5bGU9J21zby10YWItY291bnQ6MSc+wqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoCA8L3NwYW4+wqkg
+T3BlbiBHZW9zcGF0aWFsIENvbnNvcnRpdW0mbmJzcDsyMDE4Jm5ic3A74oCTIEFsbCByaWdodHMg
+cmVzZXJ2ZWQ8bzpwPjwvbzpwPjwvc3Bhbj48L3A+DQoNCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdt
+c28tZWxlbWVudDpmb290ZXInIGlkPWYzPg0KPHAgY2xhc3M9TXNvRm9vdGVyIHN0eWxlPSdsaW5l
+LWhlaWdodDoxMi4wcHQnPjxzcGFuIGxhbmc9RU4tR0INCnN0eWxlPSdmb250LXNpemU6MTAuMHB0
+O21zby1iaWRpLWZvbnQtc2l6ZToxMS4wcHQnPsKpIE9wZW4gR2Vvc3BhdGlhbCBDb25zb3J0aXVt
+Jm5ic3A7MjAxOCZuYnNwO+KAkyBBbGwNCnJpZ2h0cyByZXNlcnZlZDxzcGFuIHN0eWxlPSdtc28t
+dGFiLWNvdW50OjEnPsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqAgPC9zcGFuPjwvc3Bhbj48IS0tW2lmIHN1cHBvcnRGaWVsZHNdPjxiDQpzdHls
+ZT0nbXNvLWJpZGktZm9udC13ZWlnaHQ6bm9ybWFsJz48c3BhbiBsYW5nPUVOLUdCIHN0eWxlPSdm
+b250LXNpemU6MTAuMHB0Ow0KbXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+PHNwYW4gc3R5bGU9
+J21zby1lbGVtZW50OmZpZWxkLWJlZ2luJz48L3NwYW4+DQpQQUdFPHNwYW4gc3R5bGU9J21zby1z
+cGFjZXJ1bjp5ZXMnPsKgwqAgPC9zcGFuPlwqIE1FUkdFRk9STUFUIDxzcGFuDQpzdHlsZT0nbXNv
+LWVsZW1lbnQ6ZmllbGQtc2VwYXJhdG9yJz48L3NwYW4+PC9zcGFuPjwvYj48IVtlbmRpZl0tLT48
+Yg0Kc3R5bGU9J21zby1iaWRpLWZvbnQtd2VpZ2h0Om5vcm1hbCc+PHNwYW4gbGFuZz1FTi1HQiBz
+dHlsZT0nZm9udC1zaXplOjEwLjBwdDsNCm1zby1iaWRpLWZvbnQtc2l6ZToxMS4wcHQnPjxzcGFu
+IHN0eWxlPSdtc28tbm8tcHJvb2Y6eWVzJz4zPC9zcGFuPjwvc3Bhbj48L2I+PCEtLVtpZiBzdXBw
+b3J0RmllbGRzXT48Yg0Kc3R5bGU9J21zby1iaWRpLWZvbnQtd2VpZ2h0Om5vcm1hbCc+PHNwYW4g
+bGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdDsNCm1zby1iaWRpLWZvbnQtc2l6ZTox
+MS4wcHQnPjxzcGFuIHN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1lbmQnPjwvc3Bhbj48L3NwYW4+
+PC9iPjwhW2VuZGlmXS0tPjxzcGFuDQpsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0
+O21zby1iaWRpLWZvbnQtc2l6ZToxMS4wcHQnPjxvOnA+PC9vOnA+PC9zcGFuPjwvcD4NCjwvZGl2
+Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpmb290ZXInIGlkPWYzbD4NCjxwIGNsYXNzPU1z
+b0Zvb3RlckxhbmRzY2FwZSBzdHlsZT0nbGluZS1oZWlnaHQ6MTIuMHB0Jz48c3BhbiBsYW5nPUVO
+LUdCDQpzdHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz7C
+qSBPcGVuIEdlb3NwYXRpYWwgQ29uc29ydGl1bSZuYnNwOzIwMTgmbmJzcDvigJMgQWxsDQpyaWdo
+dHMgcmVzZXJ2ZWQ8c3BhbiBzdHlsZT0nbXNvLXRhYi1jb3VudDoxJz7CoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgIDwvc3Bhbj48L3NwYW4+PCEt
+LVtpZiBzdXBwb3J0RmllbGRzXT48Yg0Kc3R5bGU9J21zby1iaWRpLWZvbnQtd2VpZ2h0Om5vcm1h
+bCc+PHNwYW4gbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdDsNCm1zby1iaWRpLWZv
+bnQtc2l6ZToxMS4wcHQnPjxzcGFuIHN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1iZWdpbic+PC9z
+cGFuPg0KUEFHRTxzcGFuIHN0eWxlPSdtc28tc3BhY2VydW46eWVzJz7CoMKgIDwvc3Bhbj5cKiBN
+RVJHRUZPUk1BVCA8c3Bhbg0Kc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLXNlcGFyYXRvcic+PC9z
+cGFuPjwvc3Bhbj48L2I+PCFbZW5kaWZdLS0+PGINCnN0eWxlPSdtc28tYmlkaS1mb250LXdlaWdo
+dDpub3JtYWwnPjxzcGFuIGxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7DQptc28t
+YmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3BhbiBzdHlsZT0nbXNvLW5vLXByb29mOnllcyc+Mzwv
+c3Bhbj48L3NwYW4+PC9iPjwhLS1baWYgc3VwcG9ydEZpZWxkc10+PGINCnN0eWxlPSdtc28tYmlk
+aS1mb250LXdlaWdodDpub3JtYWwnPjxzcGFuIGxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZTox
+MC4wcHQ7DQptc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3BhbiBzdHlsZT0nbXNvLWVsZW1l
+bnQ6ZmllbGQtZW5kJz48L3NwYW4+PC9zcGFuPjwvYj48IVtlbmRpZl0tLT48c3Bhbg0KbGFuZz1F
+Ti1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48
+bzpwPjwvbzpwPjwvc3Bhbj48L3A+DQo8L2Rpdj4NCg0KPC9ib2R5Pg0KDQo8L2h0bWw+DQo=
+
+------=_NextPart_2d3acfee.6e9a.40b5--
