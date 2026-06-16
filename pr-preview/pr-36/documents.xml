@@ -1,5 +1,5 @@
-<relaton-collection xmlns="https://open.ribose.com/relaton-xml"><title>HK OGCIO InfoSec documents in Metanorma</title><contributor><role type='author'/><organization><name>Metanorma : Standards for standards</name></organization></contributor><relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
-  <title type="main" language="en">IT Security Guidelines</title>
+<relaton-collection xmlns="https://open.ribose.com/relaton-xml"><title>HK OGCIO InfoSec documents in Metanorma</title><contributor><role type='author'/><organization><name>Metanorma : Standards for standards</name></organization></contributor><relation type='partOf'><bibdata type="standard" schema-version="v1.5.6">
+  <title language="en" type="main">IT Security Guidelines</title>
   <uri type="xml">./documents/ogcio-g3.xml</uri>
   <uri type="pdf">./documents/ogcio-g3.pdf</uri>
   <uri type="doc">./documents/ogcio-g3.doc</uri>
@@ -8,7 +8,7 @@
   <docidentifier type="ogc-internal" primary="true">G3</docidentifier>
   <docnumber>G3</docnumber>
   <date type="published">
-    <on>2016-12-01</on>
+    <on>2016-12</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -35,10 +35,11 @@
   <ext>
     <doctype>standard</doctype>
     <subdoctype>implementation</subdoctype>
+    <flavor>ogc</flavor>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
-  <title type="main" language="en">Practice Guide for Security Risk Assessment &amp; Audit</title>
+<relation type='partOf'><bibdata type="standard" schema-version="v1.5.6">
+  <title language="en" type="main">Practice Guide for Security Risk Assessment &amp; Audit</title>
   <uri type="xml">./documents/ogcio-ispg-sm01.xml</uri>
   <uri type="pdf">./documents/ogcio-ispg-sm01.pdf</uri>
   <uri type="doc">./documents/ogcio-ispg-sm01.doc</uri>
@@ -47,7 +48,7 @@
   <docidentifier type="ogc-internal" primary="true">ISPG-SM01</docidentifier>
   <docnumber>ISPG-SM01</docnumber>
   <date type="published">
-    <on>2017-11-01</on>
+    <on>2017-11</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -74,10 +75,11 @@
   <ext>
     <doctype>standard</doctype>
     <subdoctype>implementation</subdoctype>
+    <flavor>ogc</flavor>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
-  <title type="main" language="en">Practice Guide for Information Security Incident Handling</title>
+<relation type='partOf'><bibdata type="standard" schema-version="v1.5.6">
+  <title language="en" type="main">Practice Guide for Information Security Incident Handling</title>
   <uri type="xml">./documents/ogcio-ispg-sm02.xml</uri>
   <uri type="pdf">./documents/ogcio-ispg-sm02.pdf</uri>
   <uri type="doc">./documents/ogcio-ispg-sm02.doc</uri>
@@ -86,7 +88,7 @@
   <docidentifier type="ogc-internal" primary="true">ISPG-SM02</docidentifier>
   <docnumber>ISPG-SM02</docnumber>
   <date type="published">
-    <on>2017-11-01</on>
+    <on>2017-11</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -113,10 +115,11 @@
   <ext>
     <doctype>standard</doctype>
     <subdoctype>implementation</subdoctype>
+    <flavor>ogc</flavor>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
-  <title type="main" language="en">Practice Guide for Mobile Security</title>
+<relation type='partOf'><bibdata type="standard" schema-version="v1.5.6">
+  <title language="en" type="main">Practice Guide for Mobile Security</title>
   <uri type="xml">./documents/ogcio-ispg-sm03.xml</uri>
   <uri type="pdf">./documents/ogcio-ispg-sm03.pdf</uri>
   <uri type="doc">./documents/ogcio-ispg-sm03.doc</uri>
@@ -125,7 +128,7 @@
   <docidentifier type="ogc-internal" primary="true">ISPG-SM03</docidentifier>
   <docnumber>ISPG-SM03</docnumber>
   <date type="published">
-    <on>2018-07-01</on>
+    <on>2018-07</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -152,10 +155,11 @@
   <ext>
     <doctype>standard</doctype>
     <subdoctype>implementation</subdoctype>
+    <flavor>ogc</flavor>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
-  <title type="main" language="en">Practice Guide for Cloud Computing Security [ISPG-SM04]</title>
+<relation type='partOf'><bibdata type="standard" schema-version="v1.5.6">
+  <title language="en" type="main">Practice Guide for Cloud Computing Security [ISPG-SM04]</title>
   <uri type="xml">./documents/ogcio-ispg-sm04.xml</uri>
   <uri type="pdf">./documents/ogcio-ispg-sm04.pdf</uri>
   <uri type="doc">./documents/ogcio-ispg-sm04.doc</uri>
@@ -164,7 +168,7 @@
   <docidentifier type="ogc-internal" primary="true">ISPG-SM04</docidentifier>
   <docnumber>ISPG-SM04</docnumber>
   <date type="published">
-    <on>2018-07-01</on>
+    <on>2018-07</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -191,10 +195,11 @@
   <ext>
     <doctype>standard</doctype>
     <subdoctype>implementation</subdoctype>
+    <flavor>ogc</flavor>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
-  <title type="main" language="en">Practice Guide for Securing Network Printers in the Offices</title>
+<relation type='partOf'><bibdata type="standard" schema-version="v1.5.6">
+  <title language="en" type="main">Practice Guide for Securing Network Printers in the Offices</title>
   <uri type="xml">./documents/ogcio-ispg-so01.xml</uri>
   <uri type="pdf">./documents/ogcio-ispg-so01.pdf</uri>
   <uri type="doc">./documents/ogcio-ispg-so01.doc</uri>
@@ -203,7 +208,7 @@
   <docidentifier type="ogc-internal" primary="true">ISPG-SO01</docidentifier>
   <docnumber>ISPG-SO01</docnumber>
   <date type="published">
-    <on>2018-08-01</on>
+    <on>2018-08</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -230,10 +235,11 @@
   <ext>
     <doctype>standard</doctype>
     <subdoctype>implementation</subdoctype>
+    <flavor>ogc</flavor>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
-  <title type="main" language="en">Baseline IT Security Policy</title>
+<relation type='partOf'><bibdata type="standard" schema-version="v1.5.6">
+  <title language="en" type="main">Baseline IT Security Policy</title>
   <uri type="xml">./documents/ogcio-s17.xml</uri>
   <uri type="pdf">./documents/ogcio-s17.pdf</uri>
   <uri type="doc">./documents/ogcio-s17.doc</uri>
@@ -242,7 +248,7 @@
   <docidentifier type="ogc-internal" primary="true">S17</docidentifier>
   <docnumber>S17</docnumber>
   <date type="published">
-    <on>2016-12-01</on>
+    <on>2016-12</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -269,6 +275,7 @@
   <ext>
     <doctype>standard</doctype>
     <subdoctype>implementation</subdoctype>
+    <flavor>ogc</flavor>
   </ext>
 </bibdata></relation>
 </relaton-collection>

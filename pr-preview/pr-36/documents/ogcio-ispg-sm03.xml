@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="2.9.3" schema-version="v2.1.5" flavor="ogc">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="2.9.6" schema-version="v2.1.6" flavor="ogc">
 <bibdata type="standard">
 <title language="en" type="main">Practice Guide for Mobile Security</title>
 <docidentifier type="ogc-internal" primary="true">ISPG-SM03</docidentifier><docnumber>ISPG-SM03</docnumber><date type="published"><on>2018-07</on></date><contributor><role type="publisher"/><organization>
